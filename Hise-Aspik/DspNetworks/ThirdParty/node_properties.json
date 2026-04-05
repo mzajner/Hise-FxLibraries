@@ -1,0 +1,164 @@
+{
+  "AspikDelayAnalog": [
+    "IsPolyphonic"
+  ],
+  "AspikDelayDigital": [
+    "IsPolyphonic"
+  ],
+  "AspikDelayDuck": [
+    "IsPolyphonic"
+  ],
+  "AspikDelayLcr": [
+    "IsPolyphonic"
+  ],
+  "AspikDelayMultitap": [
+    "IsPolyphonic"
+  ],
+  "AspikDelayStereo": [
+    "IsPolyphonic"
+  ],
+  "AspikDynamicsCore": [
+    "IsPolyphonic"
+  ],
+  "AspikDynamicsCrossover": [
+    "IsPolyphonic"
+  ],
+  "AspikDynamicsFeedback": [
+    "IsPolyphonic"
+  ],
+  "AspikDynamicsFiniteGate": [
+    "IsPolyphonic"
+  ],
+  "AspikDynamicsLookahead": [
+    "IsPolyphonic"
+  ],
+  "AspikDynamicsMultibandComp": [
+    "IsPolyphonic"
+  ],
+  "AspikDynamicsParallel": [
+    "IsPolyphonic"
+  ],
+  "AspikFilterAllpass": [
+    "IsPolyphonic"
+  ],
+  "AspikFilterAnalogFIR": [
+    "IsPolyphonic"
+  ],
+  "AspikFilterBiquad": [
+    "IsPolyphonic"
+  ],
+  "AspikFilterButterworth": [
+    "IsPolyphonic"
+  ],
+  "AspikFilterImpulseInvariant": [
+    "IsPolyphonic"
+  ],
+  "AspikFilterIntegrationDiff": [
+    "IsPolyphonic"
+  ],
+  "AspikFilterLadder": [
+    "IsPolyphonic"
+  ],
+  "AspikFilterLinkwitzRiley": [
+    "IsPolyphonic"
+  ],
+  "AspikFilterMA": [
+    "IsPolyphonic"
+  ],
+  "AspikFilterMMA": [
+    "IsPolyphonic"
+  ],
+  "AspikFilterPeak": [
+    "IsPolyphonic"
+  ],
+  "AspikFilterPole": [
+    "IsPolyphonic"
+  ],
+  "AspikFilterResonance": [
+    "IsPolyphonic"
+  ],
+  "AspikFilterRlc": [
+    "IsPolyphonic"
+  ],
+  "AspikFilterShelf": [
+    "IsPolyphonic"
+  ],
+  "AspikFilterSvf": [
+    "IsPolyphonic"
+  ],
+  "AspikFilterTemplate": [
+    "IsPolyphonic"
+  ],
+  "AspikFilterVa1st": [
+    "IsPolyphonic"
+  ],
+  "AspikFilterVicanek": [
+    "IsPolyphonic"
+  ],
+  "AspikModDelay": [
+    "IsPolyphonic"
+  ],
+  "AspikModDelayAdvanced": [
+    "IsPolyphonic"
+  ],
+  "AspikModFilter": [
+    "IsPolyphonic"
+  ],
+  "AspikModOsc": [
+    "IsPolyphonic"
+  ],
+  "AspikModPhaser": [
+    "IsPolyphonic"
+  ],
+  "AspikModTremolo": [
+    "IsPolyphonic"
+  ],
+  "AspikPhaseVocoderRobotizer": [
+    "IsPolyphonic"
+  ],
+  "AspikReverbDattorro": [
+    "IsPolyphonic"
+  ],
+  "AspikReverbFdn": [
+    "IsPolyphonic"
+  ],
+  "AspikReverbMoorer": [
+    "IsPolyphonic"
+  ],
+  "AspikReverbSchroeder": [
+    "IsPolyphonic"
+  ],
+  "AspikReverbTank": [
+    "IsPolyphonic"
+  ],
+  "AspikUtilEnvFollower": [
+    "IsPolyphonic"
+  ],
+  "AspikUtilLfo": [
+    "IsPolyphonic"
+  ],
+  "AspikUtilLooper": [
+    "IsPolyphonic"
+  ],
+  "AspikWaveshaperBitcrush": [
+    "IsPolyphonic"
+  ],
+  "AspikWaveshaperFuzzFace": [
+    "IsPolyphonic"
+  ],
+  "AspikWaveshaperOctaveUp": [
+    "IsPolyphonic"
+  ],
+  "AspikWaveshaperTriode": [
+    "IsPolyphonic"
+  ],
+  "AspikWaveshaperTubeClassB": [
+    "IsPolyphonic"
+  ],
+  "AspikWaveshaperTubePreamp": [
+    "IsPolyphonic"
+  ],
+  "AspikWaveshaperVirtualBass": [
+    "IsPolyphonic"
+  ]
+}

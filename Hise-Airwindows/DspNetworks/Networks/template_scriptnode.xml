@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Network ID="template_scriptnode" Version="0.0.0">
+  <Node FactoryPath="container.chain" ID="template_scriptnode" Bypassed="0"
+        Name="template_scriptnode">
+    <Nodes/>
+    <Parameters/>
+  </Node>
+</Network>

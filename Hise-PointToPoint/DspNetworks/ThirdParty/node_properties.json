@@ -1,0 +1,683 @@
+{
+  "PtpAcoustic117ToneStack": [
+    "IsPolyphonic"
+  ],
+  "PtpAcoustic118ToneStack": [
+    "IsPolyphonic"
+  ],
+  "PtpAcoustic165ToneStack": [
+    "IsPolyphonic"
+  ],
+  "PtpAllPassFilter": [
+    "IsPolyphonic"
+  ],
+  "PtpAmblerTiltEQ": [
+    "IsPolyphonic"
+  ],
+  "PtpAmpegB15Portaflex1A": [
+    "IsPolyphonic"
+  ],
+  "PtpAmpegB15Portaflex1B": [
+    "IsPolyphonic"
+  ],
+  "PtpAmpegB15Portaflex2A": [
+    "IsPolyphonic"
+  ],
+  "PtpAmpegB15Portaflex2B": [
+    "IsPolyphonic"
+  ],
+  "PtpAmpegB15Portaflex2C": [
+    "IsPolyphonic"
+  ],
+  "PtpAmpegB15Portaflex2D": [
+    "IsPolyphonic"
+  ],
+  "PtpAmpegB15PortaflexToneStack": [
+    "IsPolyphonic"
+  ],
+  "PtpAmpegBA115AToneStack": [
+    "IsPolyphonic"
+  ],
+  "PtpAmpegBA115BToneStack": [
+    "IsPolyphonic"
+  ],
+  "PtpAmpegBA115CToneStack": [
+    "IsPolyphonic"
+  ],
+  "PtpAmpegBA115DToneStack": [
+    "IsPolyphonic"
+  ],
+  "PtpAmpegBA115EToneStack": [
+    "IsPolyphonic"
+  ],
+  "PtpAriaToneStack": [
+    "IsPolyphonic"
+  ],
+  "PtpBadCatHotcat30ToneStack": [
+    "IsPolyphonic"
+  ],
+  "PtpBaxandall1": [
+    "IsPolyphonic"
+  ],
+  "PtpBaxandall2": [
+    "IsPolyphonic"
+  ],
+  "PtpBaxandall3": [
+    "IsPolyphonic"
+  ],
+  "PtpBaxandall5": [
+    "IsPolyphonic"
+  ],
+  "PtpBaxandall63Band": [
+    "IsPolyphonic"
+  ],
+  "PtpBaxandall74Band": [
+    "IsPolyphonic"
+  ],
+  "PtpBiasDiodeGEA": [
+    "IsPolyphonic"
+  ],
+  "PtpBiasDiodeGEB": [
+    "IsPolyphonic"
+  ],
+  "PtpBiasDiodeSIA": [
+    "IsPolyphonic"
+  ],
+  "PtpBiasDiodeSIB": [
+    "IsPolyphonic"
+  ],
+  "PtpBigMuffOutputBooster": [
+    "IsPolyphonic"
+  ],
+  "PtpBigMuffToneStage": [
+    "IsPolyphonic"
+  ],
+  "PtpBiquadBPF": [
+    "IsPolyphonic"
+  ],
+  "PtpBiquadLPF": [
+    "IsPolyphonic"
+  ],
+  "PtpBJTNPNGE": [
+    "IsPolyphonic"
+  ],
+  "PtpBJTNPNSI": [
+    "IsPolyphonic"
+  ],
+  "PtpBlackstarHT5ToneStack": [
+    "IsPolyphonic"
+  ],
+  "PtpBognerEcstasy1": [
+    "IsPolyphonic"
+  ],
+  "PtpBognerEcstasy2A": [
+    "IsPolyphonic"
+  ],
+  "PtpBognerEcstasy2B": [
+    "IsPolyphonic"
+  ],
+  "PtpBognerEcstasy3": [
+    "IsPolyphonic"
+  ],
+  "PtpBognerEcstasyToneStack": [
+    "IsPolyphonic"
+  ],
+  "PtpBoneRayToneStack": [
+    "IsPolyphonic"
+  ],
+  "PtpBossBD2ClippingStage": [
+    "IsPolyphonic"
+  ],
+  "PtpBossDS1OpAmpGainStage": [
+    "IsPolyphonic"
+  ],
+  "PtpBossDS1ToneStage": [
+    "IsPolyphonic"
+  ],
+  "PtpBridgedTNotchFilter": [
+    "IsPolyphonic"
+  ],
+  "PtpButterworthSallenKeyHPF": [
+    "IsPolyphonic"
+  ],
+  "PtpButterworthSallenKeyHPF120Hz": [
+    "IsPolyphonic"
+  ],
+  "PtpButterworthSallenKeyHPF30Hz": [
+    "IsPolyphonic"
+  ],
+  "PtpButterworthSallenKeyHPF60Hz": [
+    "IsPolyphonic"
+  ],
+  "PtpButterworthSallenKeyHPF90Hz": [
+    "IsPolyphonic"
+  ],
+  "PtpButterworthSallenKeyLPF": [
+    "IsPolyphonic"
+  ],
+  "PtpButterworthSallenKeyLPF16kHz": [
+    "IsPolyphonic"
+  ],
+  "PtpButterworthSallenKeyLPF2kHz": [
+    "IsPolyphonic"
+  ],
+  "PtpButterworthSallenKeyLPF4kHz": [
+    "IsPolyphonic"
+  ],
+  "PtpButterworthSallenKeyLPF8kHz": [
+    "IsPolyphonic"
+  ],
+  "PtpCrateToneStack": [
+    "IsPolyphonic"
+  ],
+  "PtpDiodeHardGE": [
+    "IsPolyphonic"
+  ],
+  "PtpDiodeHardSI": [
+    "IsPolyphonic"
+  ],
+  "PtpDiodeHPFGE": [
+    "IsPolyphonic"
+  ],
+  "PtpDiodeHPFSI": [
+    "IsPolyphonic"
+  ],
+  "PtpDiodeLPFGE": [
+    "IsPolyphonic"
+  ],
+  "PtpDiodeLPFSI": [
+    "IsPolyphonic"
+  ],
+  "PtpDiodeSoftGE": [
+    "IsPolyphonic"
+  ],
+  "PtpDiodeSoftSI": [
+    "IsPolyphonic"
+  ],
+  "PtpDODFX70CToneStage": [
+    "IsPolyphonic"
+  ],
+  "PtpDrZToneStack": [
+    "IsPolyphonic"
+  ],
+  "PtpDumbleJazzToneStack": [
+    "IsPolyphonic"
+  ],
+  "PtpDumbleRockToneStack": [
+    "IsPolyphonic"
+  ],
+  "PtpElectraDistortion": [
+    "IsPolyphonic"
+  ],
+  "PtpEpiphoneEA32RVTToneStack": [
+    "IsPolyphonic"
+  ],
+  "PtpFenderBassman1001": [
+    "IsPolyphonic"
+  ],
+  "PtpFenderBassman1002A": [
+    "IsPolyphonic"
+  ],
+  "PtpFenderBassman1002B": [
+    "IsPolyphonic"
+  ],
+  "PtpFenderBassmanToneStack": [
+    "IsPolyphonic"
+  ],
+  "PtpFenderBlondeTwinToneStack": [
+    "IsPolyphonic"
+  ],
+  "PtpFenderBrownFaceToneStack": [
+    "IsPolyphonic"
+  ],
+  "PtpFenderESeriesToneStack": [
+    "IsPolyphonic"
+  ],
+  "PtpFenderPrinceton5E2ToneStack": [
+    "IsPolyphonic"
+  ],
+  "PtpFenderPrinceton5F2AToneStack": [
+    "IsPolyphonic"
+  ],
+  "PtpFenderTMBToneStack": [
+    "IsPolyphonic"
+  ],
+  "PtpFirstOrderStateVariableHPF": [
+    "IsPolyphonic"
+  ],
+  "PtpFirstOrderStateVariableHPF120Hz": [
+    "IsPolyphonic"
+  ],
+  "PtpFirstOrderStateVariableHPF250Hz": [
+    "IsPolyphonic"
+  ],
+  "PtpFirstOrderStateVariableHPF500Hz": [
+    "IsPolyphonic"
+  ],
+  "PtpFirstOrderStateVariableHPF60Hz": [
+    "IsPolyphonic"
+  ],
+  "PtpFirstOrderStateVariableLPF": [
+    "IsPolyphonic"
+  ],
+  "PtpFirstOrderStateVariableLPF1kHz": [
+    "IsPolyphonic"
+  ],
+  "PtpFirstOrderStateVariableLPF2kHz": [
+    "IsPolyphonic"
+  ],
+  "PtpFirstOrderStateVariableLPF4kHz": [
+    "IsPolyphonic"
+  ],
+  "PtpFirstOrderStateVariableLPF8kHz": [
+    "IsPolyphonic"
+  ],
+  "PtpFliegeHPF120Hz": [
+    "IsPolyphonic"
+  ],
+  "PtpFliegeHPF30Hz": [
+    "IsPolyphonic"
+  ],
+  "PtpFliegeHPF60Hz": [
+    "IsPolyphonic"
+  ],
+  "PtpFliegeHPF90Hz": [
+    "IsPolyphonic"
+  ],
+  "PtpFliegeLPF": [
+    "IsPolyphonic"
+  ],
+  "PtpFliegeLPF16kHz": [
+    "IsPolyphonic"
+  ],
+  "PtpFliegeLPF2kHz": [
+    "IsPolyphonic"
+  ],
+  "PtpFliegeLPF4kHz": [
+    "IsPolyphonic"
+  ],
+  "PtpFliegeLPF8kHz": [
+    "IsPolyphonic"
+  ],
+  "PtpFourBandEQ": [
+    "IsPolyphonic"
+  ],
+  "PtpFourOpAmpStateVariableBPF": [
+    "IsPolyphonic"
+  ],
+  "PtpFourOpAmpStateVariableBPF120HzA": [
+    "IsPolyphonic"
+  ],
+  "PtpFourOpAmpStateVariableBPF120HzB": [
+    "IsPolyphonic"
+  ],
+  "PtpFourOpAmpStateVariableBPF2kHzA": [
+    "IsPolyphonic"
+  ],
+  "PtpFourOpAmpStateVariableBPF2kHzB": [
+    "IsPolyphonic"
+  ],
+  "PtpFourOpAmpStateVariableBPF4kHzA": [
+    "IsPolyphonic"
+  ],
+  "PtpFourOpAmpStateVariableBPF4kHzB": [
+    "IsPolyphonic"
+  ],
+  "PtpFourOpAmpStateVariableBPF60HzA": [
+    "IsPolyphonic"
+  ],
+  "PtpFourOpAmpStateVariableBPF60HzB": [
+    "IsPolyphonic"
+  ],
+  "PtpFourOpAmpStateVariableHPF": [
+    "IsPolyphonic"
+  ],
+  "PtpFourOpAmpStateVariableHPF120HzA": [
+    "IsPolyphonic"
+  ],
+  "PtpFourOpAmpStateVariableHPF120HzB": [
+    "IsPolyphonic"
+  ],
+  "PtpFourOpAmpStateVariableHPF500HzA": [
+    "IsPolyphonic"
+  ],
+  "PtpFourOpAmpStateVariableHPF500HzB": [
+    "IsPolyphonic"
+  ],
+  "PtpFourOpAmpStateVariableLPF": [
+    "IsPolyphonic"
+  ],
+  "PtpFourOpAmpStateVariableLPF2kHzA": [
+    "IsPolyphonic"
+  ],
+  "PtpFourOpAmpStateVariableLPF2kHzB": [
+    "IsPolyphonic"
+  ],
+  "PtpFourOpAmpStateVariableLPF8kHzA": [
+    "IsPolyphonic"
+  ],
+  "PtpFourOpAmpStateVariableLPF8kHzB": [
+    "IsPolyphonic"
+  ],
+  "PtpFourOpAmpStateVariableNotch": [
+    "IsPolyphonic"
+  ],
+  "PtpFourOpAmpStateVariableNotch4kHzA": [
+    "IsPolyphonic"
+  ],
+  "PtpFourOpAmpStateVariableNotch4kHzB": [
+    "IsPolyphonic"
+  ],
+  "PtpFourOpAmpStateVariableNotch8kHzA": [
+    "IsPolyphonic"
+  ],
+  "PtpFourOpAmpStateVariableNotch8kHzB": [
+    "IsPolyphonic"
+  ],
+  "PtpFramusToneStack": [
+    "IsPolyphonic"
+  ],
+  "PtpFullwaveRectifierSI": [
+    "IsPolyphonic"
+  ],
+  "PtpGibsonGA16TToneStack": [
+    "IsPolyphonic"
+  ],
+  "PtpGibsonGA20RVTToneStack": [
+    "IsPolyphonic"
+  ],
+  "PtpGibsonGA45RVTToneStack": [
+    "IsPolyphonic"
+  ],
+  "PtpGibsonGA5TToneStack": [
+    "IsPolyphonic"
+  ],
+  "PtpGibsonGA75ToneStack": [
+    "IsPolyphonic"
+  ],
+  "PtpHalfwaveRectifierSI": [
+    "IsPolyphonic"
+  ],
+  "PtpHiWattCP103ToneStack": [
+    "IsPolyphonic"
+  ],
+  "PtpHiWattToneStack": [
+    "IsPolyphonic"
+  ],
+  "PtpHPFLPFCombo": [
+    "IsPolyphonic"
+  ],
+  "PtpJHSMorningGloryDriveStageA": [
+    "IsPolyphonic"
+  ],
+  "PtpJHSMorningGloryDriveStageB": [
+    "IsPolyphonic"
+  ],
+  "PtpJHSMorningGloryInputStage": [
+    "IsPolyphonic"
+  ],
+  "PtpJHSMorningGloryToneStage": [
+    "IsPolyphonic"
+  ],
+  "PtpKlonCentaurToneControl": [
+    "IsPolyphonic"
+  ],
+  "PtpLaneyLC15ToneStack": [
+    "IsPolyphonic"
+  ],
+  "PtpLowPlusHighPeaking": [
+    "IsPolyphonic"
+  ],
+  "PtpLowPlusHighShelves": [
+    "IsPolyphonic"
+  ],
+  "PtpMarshallBluesbreakerToneStack": [
+    "IsPolyphonic"
+  ],
+  "PtpMarshallGuvnorClippingStage": [
+    "IsPolyphonic"
+  ],
+  "PtpMarshallGuvnorInputStage": [
+    "IsPolyphonic"
+  ],
+  "PtpMarshallGuvnorOutputStage": [
+    "IsPolyphonic"
+  ],
+  "PtpMarshallGuvnorToneControl": [
+    "IsPolyphonic"
+  ],
+  "PtpMarshallJCM80022031A": [
+    "IsPolyphonic"
+  ],
+  "PtpMarshallJCM8002203ToneStack": [
+    "IsPolyphonic"
+  ],
+  "PtpMarshallJCM8002210BoostToneStack": [
+    "IsPolyphonic"
+  ],
+  "PtpMarshallJCM9002210SLXToneStack": [
+    "IsPolyphonic"
+  ],
+  "PtpMarshallJCM9004100ToneStack": [
+    "IsPolyphonic"
+  ],
+  "PtpMarshallPlexiToneStack": [
+    "IsPolyphonic"
+  ],
+  "PtpMarshallToneStack": [
+    "IsPolyphonic"
+  ],
+  "PtpMatchlessHotboxToneControl": [
+    "IsPolyphonic"
+  ],
+  "PtpMFBBandpass": [
+    "IsPolyphonic"
+  ],
+  "PtpMoonlightToneStack": [
+    "IsPolyphonic"
+  ],
+  "PtpMXRDistortionPlus": [
+    "IsPolyphonic"
+  ],
+  "PtpOrangeAD15ToneStack": [
+    "IsPolyphonic"
+  ],
+  "PtpProCoRat": [
+    "IsPolyphonic"
+  ],
+  "PtpRolandCube60BrightToneStack": [
+    "IsPolyphonic"
+  ],
+  "PtpRolandCube60NormalToneStack": [
+    "IsPolyphonic"
+  ],
+  "PtpRolandJazzChorus1": [
+    "IsPolyphonic"
+  ],
+  "PtpRolandJazzChorus2A": [
+    "IsPolyphonic"
+  ],
+  "PtpRolandJazzChorus2B": [
+    "IsPolyphonic"
+  ],
+  "PtpRolandJazzChorusToneStack": [
+    "IsPolyphonic"
+  ],
+  "PtpSallenKeyFeedbackHPF": [
+    "IsPolyphonic"
+  ],
+  "PtpSallenKeyFeedbackLPF": [
+    "IsPolyphonic"
+  ],
+  "PtpSevenBandGraphicEQ": [
+    "IsPolyphonic"
+  ],
+  "PtpSoldanoSuperLead1001": [
+    "IsPolyphonic"
+  ],
+  "PtpSoldanoSuperLead1002A": [
+    "IsPolyphonic"
+  ],
+  "PtpSoldanoSuperLead1002B": [
+    "IsPolyphonic"
+  ],
+  "PtpSoldanoSuperLead100ToneStack": [
+    "IsPolyphonic"
+  ],
+  "PtpSoldanoSuperLead60ToneStack": [
+    "IsPolyphonic"
+  ],
+  "PtpStaticBJTNPNGE": [
+    "IsPolyphonic"
+  ],
+  "PtpStaticBJTNPNSI": [
+    "IsPolyphonic"
+  ],
+  "PtpStaticBJTPNPGE": [
+    "IsPolyphonic"
+  ],
+  "PtpStaticBJTPNPSI": [
+    "IsPolyphonic"
+  ],
+  "PtpStaticDiodeHardGE": [
+    "IsPolyphonic"
+  ],
+  "PtpStaticDiodeHardSI": [
+    "IsPolyphonic"
+  ],
+  "PtpStaticDiodeSoftGE": [
+    "IsPolyphonic"
+  ],
+  "PtpStaticDiodeSoftSI": [
+    "IsPolyphonic"
+  ],
+  "PtpStaticTubeCleanA": [
+    "IsPolyphonic"
+  ],
+  "PtpStaticTubeCleanB": [
+    "IsPolyphonic"
+  ],
+  "PtpStaticTubeDirtyA": [
+    "IsPolyphonic"
+  ],
+  "PtpStaticTubeDirtyB": [
+    "IsPolyphonic"
+  ],
+  "PtpSubBesselSallenKeyHPF": [
+    "IsPolyphonic"
+  ],
+  "PtpSubBesselSallenKeyHPF120Hz": [
+    "IsPolyphonic"
+  ],
+  "PtpSubBesselSallenKeyHPF30Hz": [
+    "IsPolyphonic"
+  ],
+  "PtpSubBesselSallenKeyHPF60Hz": [
+    "IsPolyphonic"
+  ],
+  "PtpSubBesselSallenKeyHPF90Hz": [
+    "IsPolyphonic"
+  ],
+  "PtpSubBesselSallenKeyLPF": [
+    "IsPolyphonic"
+  ],
+  "PtpSubBesselSallenKeyLPF16kHz": [
+    "IsPolyphonic"
+  ],
+  "PtpSubBesselSallenKeyLPF2kHz": [
+    "IsPolyphonic"
+  ],
+  "PtpSubBesselSallenKeyLPF4kHz": [
+    "IsPolyphonic"
+  ],
+  "PtpSubBesselSallenKeyLPF8kHz": [
+    "IsPolyphonic"
+  ],
+  "PtpThreeBandBaxandallEQ": [
+    "IsPolyphonic"
+  ],
+  "PtpTubeCleanA": [
+    "IsPolyphonic"
+  ],
+  "PtpTubeCleanB": [
+    "IsPolyphonic"
+  ],
+  "PtpTubeCleanBiasA": [
+    "IsPolyphonic"
+  ],
+  "PtpTubeCleanBiasB": [
+    "IsPolyphonic"
+  ],
+  "PtpTubeDirtyA": [
+    "IsPolyphonic"
+  ],
+  "PtpTubeDirtyB": [
+    "IsPolyphonic"
+  ],
+  "PtpTubeDirtyBiasA": [
+    "IsPolyphonic"
+  ],
+  "PtpTubeDirtyBiasB": [
+    "IsPolyphonic"
+  ],
+  "PtpTubeScreamerInputBuffer": [
+    "IsPolyphonic"
+  ],
+  "PtpTubeScreamerToneStage": [
+    "IsPolyphonic"
+  ],
+  "PtpTwinTNotchFilter10kHz": [
+    "IsPolyphonic"
+  ],
+  "PtpTwinTNotchFilter4kHz": [
+    "IsPolyphonic"
+  ],
+  "PtpTwinTNotchFilter6kHz": [
+    "IsPolyphonic"
+  ],
+  "PtpTwinTNotchFilter8kHz": [
+    "IsPolyphonic"
+  ],
+  "PtpTwoLFBaxandallToneControl": [
+    "IsPolyphonic"
+  ],
+  "PtpVariableFrequencyHFEQ": [
+    "IsPolyphonic"
+  ],
+  "PtpVariableFrequencyLFEQ": [
+    "IsPolyphonic"
+  ],
+  "PtpVariableFrequencyVariableQMidEQ": [
+    "IsPolyphonic"
+  ],
+  "PtpVox1901": [
+    "IsPolyphonic"
+  ],
+  "PtpVoxAC10": [
+    "IsPolyphonic"
+  ],
+  "PtpVoxACToneStack": [
+    "IsPolyphonic"
+  ],
+  "PtpWardsAirlineGDR8502AToneStack": [
+    "IsPolyphonic"
+  ],
+  "PtpWardsAirlineGDR8516AToneStack": [
+    "IsPolyphonic"
+  ],
+  "PtpWardsAirlineGIM9151AToneStack": [
+    "IsPolyphonic"
+  ],
+  "PtpWardsAirlineGVC9002AToneStack": [
+    "IsPolyphonic"
+  ],
+  "PtpWardsAirlineGVC9056AToneStack": [
+    "IsPolyphonic"
+  ],
+  "PtpWardsAirlineGVC9062AToneStack": [
+    "IsPolyphonic"
+  ],
+  "PtpWienVariableFrequencyMidEQ": [
+    "IsPolyphonic"
+  ]
+}

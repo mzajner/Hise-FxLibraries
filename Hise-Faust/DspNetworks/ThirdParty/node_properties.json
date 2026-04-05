@@ -1,0 +1,236 @@
+{
+  "AllPassLoopReverb": [
+    "IsPolyphonic"
+  ],
+  "autoPanner": [
+    "IsPolyphonic"
+  ],
+  "Bitcrush": [
+    "IsPolyphonic"
+  ],
+  "CChours": [
+    "IsPolyphonic"
+  ],
+  "coLimiter1176stereo": [
+    "IsPolyphonic"
+  ],
+  "Compressor": [
+    "IsPolyphonic"
+  ],
+  "Compressor1176": [
+    "IsPolyphonic"
+  ],
+  "CompressorMono": [
+    "IsPolyphonic"
+  ],
+  "CrossStereoDelay": [
+    "IsPolyphonic"
+  ],
+  "cryBaby": [
+    "IsPolyphonic"
+  ],
+  "CubicDistortion": [
+    "IsPolyphonic"
+  ],
+  "DelayFaust": [
+    "IsPolyphonic"
+  ],
+  "DiodeLadderLpf2Poles": [
+    "IsPolyphonic"
+  ],
+  "DiodeLadderLpf4Poles": [
+    "IsPolyphonic"
+  ],
+  "DownSampler": [
+    "IsPolyphonic"
+  ],
+  "DynamicRangeCompressor": [
+    "IsPolyphonic"
+  ],
+  "EchoDelays": [
+    "IsPolyphonic"
+  ],
+  "echoForBrowser": [
+    "IsPolyphonic"
+  ],
+  "EchoplexDelay": [
+    "IsPolyphonic"
+  ],
+  "FilterComb": [
+    "IsPolyphonic"
+  ],
+  "flanger": [
+    "IsPolyphonic"
+  ],
+  "FlangerFeedback": [
+    "IsPolyphonic"
+  ],
+  "freeverb": [
+    "IsPolyphonic"
+  ],
+  "FuzzTone": [
+    "IsPolyphonic"
+  ],
+  "GateMono": [
+    "IsPolyphonic"
+  ],
+  "GateStereo": [
+    "IsPolyphonic"
+  ],
+  "granulator": [
+    "IsPolyphonic"
+  ],
+  "Greyhole": [
+    "IsPolyphonic"
+  ],
+  "GritAmp": [
+    "IsPolyphonic"
+  ],
+  "KorgHpf2Poles": [
+    "IsPolyphonic"
+  ],
+  "KorgLpf2Poles": [
+    "IsPolyphonic"
+  ],
+  "limiterStereo": [
+    "IsPolyphonic"
+  ],
+  "MicroShifter": [
+    "IsPolyphonic"
+  ],
+  "MicroShifter2": [
+    "IsPolyphonic"
+  ],
+  "mooghalfladder": [
+    "IsPolyphonic"
+  ],
+  "MoogHalfLadderFilter": [
+    "IsPolyphonic"
+  ],
+  "moogladder": [
+    "IsPolyphonic"
+  ],
+  "MoogLadderFilter": [
+    "IsPolyphonic"
+  ],
+  "MoogLpf2Poles": [
+    "IsPolyphonic"
+  ],
+  "MoogLpf4Poles": [
+    "IsPolyphonic"
+  ],
+  "MoogVcf": [
+    "IsPolyphonic"
+  ],
+  "mp3Compressor": [
+    "IsPolyphonic"
+  ],
+  "mp3Reverb": [
+    "IsPolyphonic"
+  ],
+  "OberheimBpf2Poles": [
+    "IsPolyphonic"
+  ],
+  "OberheimBpf4Poles": [
+    "IsPolyphonic"
+  ],
+  "OberheimHpf2Poles": [
+    "IsPolyphonic"
+  ],
+  "OberheimHpf4Poles": [
+    "IsPolyphonic"
+  ],
+  "OberheimLpf2Poles": [
+    "IsPolyphonic"
+  ],
+  "OberheimLpf4Poles": [
+    "IsPolyphonic"
+  ],
+  "PhaseOffset": [
+    "IsPolyphonic"
+  ],
+  "Phaser": [
+    "IsPolyphonic"
+  ],
+  "pitchShifter2": [
+    "IsPolyphonic"
+  ],
+  "pitchShifter48": [
+    "IsPolyphonic"
+  ],
+  "Pixelate_Broken": [
+    "IsPolyphonic"
+  ],
+  "PowerAmp": [
+    "IsPolyphonic"
+  ],
+  "QuadraticDistortion": [
+    "IsPolyphonic"
+  ],
+  "randomRingModulation": [
+    "IsPolyphonic"
+  ],
+  "reverbDattorro": [
+    "IsPolyphonic"
+  ],
+  "RingModulation": [
+    "IsPolyphonic"
+  ],
+  "RingModulationLeftRight": [
+    "IsPolyphonic"
+  ],
+  "RingModulationMono": [
+    "IsPolyphonic"
+  ],
+  "RingModulationStereo": [
+    "IsPolyphonic"
+  ],
+  "SallenKeyBpf": [
+    "IsPolyphonic"
+  ],
+  "SallenKeyHpf": [
+    "IsPolyphonic"
+  ],
+  "SallenKeyLpf": [
+    "IsPolyphonic"
+  ],
+  "smoothDelay": [
+    "IsPolyphonic"
+  ],
+  "smoothDelayMono": [
+    "IsPolyphonic"
+  ],
+  "SoftClip": [
+    "IsPolyphonic"
+  ],
+  "SpeakerSimulator": [
+    "IsPolyphonic"
+  ],
+  "stereoEcho": [
+    "IsPolyphonic"
+  ],
+  "StereoWidth": [
+    "IsPolyphonic"
+  ],
+  "TransientShaper": [
+    "IsPolyphonic"
+  ],
+  "Vocoder1": [
+    "IsPolyphonic"
+  ],
+  "VocoderMono": [
+    "IsPolyphonic"
+  ],
+  "wahWah": [
+    "IsPolyphonic"
+  ],
+  "WaveshapeHardClipDistortion": [
+    "IsPolyphonic"
+  ],
+  "WaveshapingCubic": [
+    "IsPolyphonic"
+  ],
+  "zitaRev": [
+    "IsPolyphonic"
+  ]
+}

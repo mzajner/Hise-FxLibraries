@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Network ID="asdf" AllowCompilation="1" Version="0.0.0">
+  <Node FactoryPath="container.chain" ID="asdf" Bypassed="0" Name="asdf">
+    <Nodes>
+      <Node ID="faust" FactoryPath="core.faust" Bypassed="0" Name="faust">
+        <Properties>
+          <Property ID="ClassId" Value="FuzzTone"/>
+          <Property ID="NumParameters" Value="0"/>
+        </Properties>
+        <Parameters>
+          <Parameter MinValue="0.0" MaxValue="100.0" StepSize="0.1000000014901161"
+                     ID="distortion" Value="12.0"/>
+          <Parameter MinValue="-96.0" MaxValue="96.0" StepSize="0.1000000014901161"
+                     ID="gain" Value="3.0"/>
+        </Parameters>
+        <SwitchTargets/>
+      </Node>
+    </Nodes>
+    <Parameters/>
+  </Node>
+</Network>

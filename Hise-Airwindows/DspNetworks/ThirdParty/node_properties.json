@@ -1,0 +1,1094 @@
+{
+  "Acceleration": [
+    "IsPolyphonic"
+  ],
+  "Acceleration2": [
+    "IsPolyphonic"
+  ],
+  "ADClip7": [
+    "IsPolyphonic"
+  ],
+  "ADClip8": [
+    "IsPolyphonic"
+  ],
+  "ADT": [
+    "IsPolyphonic"
+  ],
+  "Air": [
+    "IsPolyphonic"
+  ],
+  "Air2": [
+    "IsPolyphonic"
+  ],
+  "Air3": [
+    "IsPolyphonic"
+  ],
+  "Air4": [
+    "IsPolyphonic"
+  ],
+  "AngleEQ": [
+    "IsPolyphonic"
+  ],
+  "AngleFilter": [
+    "IsPolyphonic"
+  ],
+  "Apicolypse": [
+    "IsPolyphonic"
+  ],
+  "AQuickVoiceClip": [
+    "IsPolyphonic"
+  ],
+  "AtmosphereBuss": [
+    "IsPolyphonic"
+  ],
+  "AtmosphereChannel": [
+    "IsPolyphonic"
+  ],
+  "Aura": [
+    "IsPolyphonic"
+  ],
+  "AutoPan": [
+    "IsPolyphonic"
+  ],
+  "Average": [
+    "IsPolyphonic"
+  ],
+  "AverMatrix": [
+    "IsPolyphonic"
+  ],
+  "Balanced": [
+    "IsPolyphonic"
+  ],
+  "BassAmp": [
+    "IsPolyphonic"
+  ],
+  "BassDrive": [
+    "IsPolyphonic"
+  ],
+  "BassKit": [
+    "IsPolyphonic"
+  ],
+  "Baxandall": [
+    "IsPolyphonic"
+  ],
+  "Baxandall2": [
+    "IsPolyphonic"
+  ],
+  "Baxandall3": [
+    "IsPolyphonic"
+  ],
+  "Beam": [
+    "IsPolyphonic"
+  ],
+  "BezEQ": [
+    "IsPolyphonic"
+  ],
+  "BeziComp": [
+    "IsPolyphonic"
+  ],
+  "BigAmp": [
+    "IsPolyphonic"
+  ],
+  "Biquad": [
+    "IsPolyphonic"
+  ],
+  "Biquad2": [
+    "IsPolyphonic"
+  ],
+  "BiquadDouble": [
+    "IsPolyphonic"
+  ],
+  "BiquadHiLo": [
+    "IsPolyphonic"
+  ],
+  "BiquadNonLin": [
+    "IsPolyphonic"
+  ],
+  "BiquadOneHalf": [
+    "IsPolyphonic"
+  ],
+  "BiquadPlus": [
+    "IsPolyphonic"
+  ],
+  "BiquadStack": [
+    "IsPolyphonic"
+  ],
+  "BiquadTriple": [
+    "IsPolyphonic"
+  ],
+  "BitDualPan": [
+    "IsPolyphonic"
+  ],
+  "Bite": [
+    "IsPolyphonic"
+  ],
+  "BitGlitter": [
+    "IsPolyphonic"
+  ],
+  "BitShiftGain": [
+    "IsPolyphonic"
+  ],
+  "BitShiftPan": [
+    "IsPolyphonic"
+  ],
+  "BlockParty": [
+    "IsPolyphonic"
+  ],
+  "BrassRider": [
+    "IsPolyphonic"
+  ],
+  "BrightAmbience": [
+    "IsPolyphonic"
+  ],
+  "BrightAmbience2": [
+    "IsPolyphonic"
+  ],
+  "BrightAmbience3": [
+    "IsPolyphonic"
+  ],
+  "BuildATPDF": [
+    "IsPolyphonic"
+  ],
+  "BussColors4": [
+    "IsPolyphonic"
+  ],
+  "ButterComp": [
+    "IsPolyphonic"
+  ],
+  "ButterComp2": [
+    "IsPolyphonic"
+  ],
+  "C5RawBuss": [
+    "IsPolyphonic"
+  ],
+  "C5RawChannel": [
+    "IsPolyphonic"
+  ],
+  "Cabs": [
+    "IsPolyphonic"
+  ],
+  "Capacitor": [
+    "IsPolyphonic"
+  ],
+  "Capacitor2": [
+    "IsPolyphonic"
+  ],
+  "Chamber": [
+    "IsPolyphonic"
+  ],
+  "Chamber2": [
+    "IsPolyphonic"
+  ],
+  "Channel7": [
+    "IsPolyphonic"
+  ],
+  "Channel8": [
+    "IsPolyphonic"
+  ],
+  "Channel9": [
+    "IsPolyphonic"
+  ],
+  "ChimeyDeluxe": [
+    "IsPolyphonic"
+  ],
+  "ChimeyGuitar": [
+    "IsPolyphonic"
+  ],
+  "ChimeyGuitar2": [
+    "IsPolyphonic"
+  ],
+  "Chorus": [
+    "IsPolyphonic"
+  ],
+  "ChorusEnsemble": [
+    "IsPolyphonic"
+  ],
+  "ChromeOxide": [
+    "IsPolyphonic"
+  ],
+  "Cider": [
+    "IsPolyphonic"
+  ],
+  "ClearCoat": [
+    "IsPolyphonic"
+  ],
+  "ClipOnly": [
+    "IsPolyphonic"
+  ],
+  "ClipOnly2": [
+    "IsPolyphonic"
+  ],
+  "ClipSoftly": [
+    "IsPolyphonic"
+  ],
+  "CloudCoat": [
+    "IsPolyphonic"
+  ],
+  "Coils": [
+    "IsPolyphonic"
+  ],
+  "Coils2": [
+    "IsPolyphonic"
+  ],
+  "Cojones": [
+    "IsPolyphonic"
+  ],
+  "Compresaturator": [
+    "IsPolyphonic"
+  ],
+  "Console0Buss": [
+    "IsPolyphonic"
+  ],
+  "Console0Channel": [
+    "IsPolyphonic"
+  ],
+  "Console4Buss": [
+    "IsPolyphonic"
+  ],
+  "Console4Channel": [
+    "IsPolyphonic"
+  ],
+  "Console5Buss": [
+    "IsPolyphonic"
+  ],
+  "Console5Channel": [
+    "IsPolyphonic"
+  ],
+  "Console5DarkCh": [
+    "IsPolyphonic"
+  ],
+  "Console6Buss": [
+    "IsPolyphonic"
+  ],
+  "Console6Channel": [
+    "IsPolyphonic"
+  ],
+  "Console7Buss": [
+    "IsPolyphonic"
+  ],
+  "Console7Cascade": [
+    "IsPolyphonic"
+  ],
+  "Console7Channel": [
+    "IsPolyphonic"
+  ],
+  "Console7Crunch": [
+    "IsPolyphonic"
+  ],
+  "Console8BussHype": [
+    "IsPolyphonic"
+  ],
+  "Console8BussIn": [
+    "IsPolyphonic"
+  ],
+  "Console8BussOut": [
+    "IsPolyphonic"
+  ],
+  "Console8ChannelHype": [
+    "IsPolyphonic"
+  ],
+  "Console8ChannelIn": [
+    "IsPolyphonic"
+  ],
+  "Console8ChannelOut": [
+    "IsPolyphonic"
+  ],
+  "Console8LiteBuss": [
+    "IsPolyphonic"
+  ],
+  "Console8LiteChannel": [
+    "IsPolyphonic"
+  ],
+  "Console8SubHype": [
+    "IsPolyphonic"
+  ],
+  "Console8SubIn": [
+    "IsPolyphonic"
+  ],
+  "Console8SubOut": [
+    "IsPolyphonic"
+  ],
+  "Console9Buss": [
+    "IsPolyphonic"
+  ],
+  "Console9Channel": [
+    "IsPolyphonic"
+  ],
+  "ConsoleHBuss": [
+    "IsPolyphonic"
+  ],
+  "ConsoleHChannel": [
+    "IsPolyphonic"
+  ],
+  "ConsoleHPre": [
+    "IsPolyphonic"
+  ],
+  "ConsoleLABuss": [
+    "IsPolyphonic"
+  ],
+  "ConsoleLAChannel": [
+    "IsPolyphonic"
+  ],
+  "ConsoleMCBuss": [
+    "IsPolyphonic"
+  ],
+  "ConsoleMCChannel": [
+    "IsPolyphonic"
+  ],
+  "ConsoleMDBuss": [
+    "IsPolyphonic"
+  ],
+  "ConsoleMDChannel": [
+    "IsPolyphonic"
+  ],
+  "ConsoleX2Buss": [
+    "IsPolyphonic"
+  ],
+  "ConsoleX2Channel": [
+    "IsPolyphonic"
+  ],
+  "ConsoleX2Pre": [
+    "IsPolyphonic"
+  ],
+  "ConsoleXBuss": [
+    "IsPolyphonic"
+  ],
+  "ConsoleXChannel": [
+    "IsPolyphonic"
+  ],
+  "ConsoleXPre": [
+    "IsPolyphonic"
+  ],
+  "ContentHideD": [
+    "IsPolyphonic"
+  ],
+  "CreamCoat": [
+    "IsPolyphonic"
+  ],
+  "Creature": [
+    "IsPolyphonic"
+  ],
+  "CrickBass": [
+    "IsPolyphonic"
+  ],
+  "CrunchCoat": [
+    "IsPolyphonic"
+  ],
+  "CrunchyGrooveWear": [
+    "IsPolyphonic"
+  ],
+  "Crystal": [
+    "IsPolyphonic"
+  ],
+  "CStrip": [
+    "IsPolyphonic"
+  ],
+  "CStrip2": [
+    "IsPolyphonic"
+  ],
+  "curve": [
+    "IsPolyphonic"
+  ],
+  "Dark": [
+    "IsPolyphonic"
+  ],
+  "DarkNoise": [
+    "IsPolyphonic"
+  ],
+  "DCVoltage": [
+    "IsPolyphonic"
+  ],
+  "DeBess": [
+    "IsPolyphonic"
+  ],
+  "DeBez": [
+    "IsPolyphonic"
+  ],
+  "Deckwrecka": [
+    "IsPolyphonic"
+  ],
+  "DeCrackle": [
+    "IsPolyphonic"
+  ],
+  "DeEss": [
+    "IsPolyphonic"
+  ],
+  "DeHiss": [
+    "IsPolyphonic"
+  ],
+  "DeNoise": [
+    "IsPolyphonic"
+  ],
+  "Density": [
+    "IsPolyphonic"
+  ],
+  "Density2": [
+    "IsPolyphonic"
+  ],
+  "Density3": [
+    "IsPolyphonic"
+  ],
+  "DeRez": [
+    "IsPolyphonic"
+  ],
+  "DeRez2": [
+    "IsPolyphonic"
+  ],
+  "DeRez3": [
+    "IsPolyphonic"
+  ],
+  "Desk": [
+    "IsPolyphonic"
+  ],
+  "Desk4": [
+    "IsPolyphonic"
+  ],
+  "DigitalBlack": [
+    "IsPolyphonic"
+  ],
+  "Dirt": [
+    "IsPolyphonic"
+  ],
+  "Discontapeity": [
+    "IsPolyphonic"
+  ],
+  "Discontinuity": [
+    "IsPolyphonic"
+  ],
+  "Disintegrate": [
+    "IsPolyphonic"
+  ],
+  "Distance": [
+    "IsPolyphonic"
+  ],
+  "Distance2": [
+    "IsPolyphonic"
+  ],
+  "Distance3": [
+    "IsPolyphonic"
+  ],
+  "Distortion": [
+    "IsPolyphonic"
+  ],
+  "Ditherbox": [
+    "IsPolyphonic"
+  ],
+  "DitherFloat": [
+    "IsPolyphonic"
+  ],
+  "DitherMeDiskers": [
+    "IsPolyphonic"
+  ],
+  "DitherMeTimbers": [
+    "IsPolyphonic"
+  ],
+  "Doublelay": [
+    "IsPolyphonic"
+  ],
+  "DoublePaul": [
+    "IsPolyphonic"
+  ],
+  "Drive": [
+    "IsPolyphonic"
+  ],
+  "DrumSlam": [
+    "IsPolyphonic"
+  ],
+  "DubCenter": [
+    "IsPolyphonic"
+  ],
+  "Dubly": [
+    "IsPolyphonic"
+  ],
+  "Dubly2": [
+    "IsPolyphonic"
+  ],
+  "Dubly3": [
+    "IsPolyphonic"
+  ],
+  "DubPlate": [
+    "IsPolyphonic"
+  ],
+  "DubPlate2": [
+    "IsPolyphonic"
+  ],
+  "DubSub": [
+    "IsPolyphonic"
+  ],
+  "DubSub2": [
+    "IsPolyphonic"
+  ],
+  "DustBunny": [
+    "IsPolyphonic"
+  ],
+  "Dynamics": [
+    "IsPolyphonic"
+  ],
+  "Dynamics2": [
+    "IsPolyphonic"
+  ],
+  "Dynamics3": [
+    "IsPolyphonic"
+  ],
+  "Dyno": [
+    "IsPolyphonic"
+  ],
+  "Edge": [
+    "IsPolyphonic"
+  ],
+  "EdIsDim": [
+    "IsPolyphonic"
+  ],
+  "Elation": [
+    "IsPolyphonic"
+  ],
+  "ElectroHat": [
+    "IsPolyphonic"
+  ],
+  "Elliptical": [
+    "IsPolyphonic"
+  ],
+  "Energy": [
+    "IsPolyphonic"
+  ],
+  "Energy2": [
+    "IsPolyphonic"
+  ],
+  "Ensemble": [
+    "IsPolyphonic"
+  ],
+  "EQ": [
+    "IsPolyphonic"
+  ],
+  "EveryConsole": [
+    "IsPolyphonic"
+  ],
+  "EverySlew": [
+    "IsPolyphonic"
+  ],
+  "EveryTrim": [
+    "IsPolyphonic"
+  ],
+  "Exciter": [
+    "IsPolyphonic"
+  ],
+  "Facet": [
+    "IsPolyphonic"
+  ],
+  "FatEQ": [
+    "IsPolyphonic"
+  ],
+  "FathomFive": [
+    "IsPolyphonic"
+  ],
+  "FinalClip": [
+    "IsPolyphonic"
+  ],
+  "Flipity": [
+    "IsPolyphonic"
+  ],
+  "Floor": [
+    "IsPolyphonic"
+  ],
+  "Flutter": [
+    "IsPolyphonic"
+  ],
+  "Flutter2": [
+    "IsPolyphonic"
+  ],
+  "Focus": [
+    "IsPolyphonic"
+  ],
+  "Fracture": [
+    "IsPolyphonic"
+  ],
+  "Fracture2": [
+    "IsPolyphonic"
+  ],
+  "FromTape": [
+    "IsPolyphonic"
+  ],
+  "Galactic": [
+    "IsPolyphonic"
+  ],
+  "Galactic2": [
+    "IsPolyphonic"
+  ],
+  "Galactic3": [
+    "IsPolyphonic"
+  ],
+  "GalacticVibe": [
+    "IsPolyphonic"
+  ],
+  "Gatelope": [
+    "IsPolyphonic"
+  ],
+  "GlitchShifter": [
+    "IsPolyphonic"
+  ],
+  "GoldenSlew": [
+    "IsPolyphonic"
+  ],
+  "Golem": [
+    "IsPolyphonic"
+  ],
+  "Gringer": [
+    "IsPolyphonic"
+  ],
+  "GrooveWear": [
+    "IsPolyphonic"
+  ],
+  "GuitarConditioner": [
+    "IsPolyphonic"
+  ],
+  "HardVacuum": [
+    "IsPolyphonic"
+  ],
+  "Hermepass": [
+    "IsPolyphonic"
+  ],
+  "HermeTrim": [
+    "IsPolyphonic"
+  ],
+  "HighGlossDither": [
+    "IsPolyphonic"
+  ],
+  "HighImpact": [
+    "IsPolyphonic"
+  ],
+  "Highpass": [
+    "IsPolyphonic"
+  ],
+  "Highpass2": [
+    "IsPolyphonic"
+  ],
+  "HipCrush": [
+    "IsPolyphonic"
+  ],
+  "Holt": [
+    "IsPolyphonic"
+  ],
+  "Holt2": [
+    "IsPolyphonic"
+  ],
+  "Hombre": [
+    "IsPolyphonic"
+  ],
+  "Huge": [
+    "IsPolyphonic"
+  ],
+  "Hull": [
+    "IsPolyphonic"
+  ],
+  "Hull2": [
+    "IsPolyphonic"
+  ],
+  "Hype": [
+    "IsPolyphonic"
+  ],
+  "Hypersoft": [
+    "IsPolyphonic"
+  ],
+  "Hypersonic": [
+    "IsPolyphonic"
+  ],
+  "HypersonX": [
+    "IsPolyphonic"
+  ],
+  "Infinity": [
+    "IsPolyphonic"
+  ],
+  "Infinity2": [
+    "IsPolyphonic"
+  ],
+  "Inflamer": [
+    "IsPolyphonic"
+  ],
+  "Infrasonic": [
+    "IsPolyphonic"
+  ],
+  "Interstage": [
+    "IsPolyphonic"
+  ],
+  "IronOxide5": [
+    "IsPolyphonic"
+  ],
+  "IronOxideClassic": [
+    "IsPolyphonic"
+  ],
+  "IronOxideClassic2": [
+    "IsPolyphonic"
+  ],
+  "Isolator": [
+    "IsPolyphonic"
+  ],
+  "Isolator3": [
+    "IsPolyphonic"
+  ],
+  "kAlienSpaceship": [
+    "IsPolyphonic"
+  ],
+  "Kalman": [
+    "IsPolyphonic"
+  ],
+  "kBeyond": [
+    "IsPolyphonic"
+  ],
+  "kCathedral": [
+    "IsPolyphonic"
+  ],
+  "kCathedral2": [
+    "IsPolyphonic"
+  ],
+  "kCathedral3": [
+    "IsPolyphonic"
+  ],
+  "kCathedral4": [
+    "IsPolyphonic"
+  ],
+  "kCathedral5": [
+    "IsPolyphonic"
+  ],
+  "kChamberAR": [
+    "IsPolyphonic"
+  ],
+  "kCosmos": [
+    "IsPolyphonic"
+  ],
+  "kGuitarHall": [
+    "IsPolyphonic"
+  ],
+  "kGuitarHall2": [
+    "IsPolyphonic"
+  ],
+  "kPlate140": [
+    "IsPolyphonic"
+  ],
+  "kPlate240": [
+    "IsPolyphonic"
+  ],
+  "kPlateA": [
+    "IsPolyphonic"
+  ],
+  "kPlateB": [
+    "IsPolyphonic"
+  ],
+  "kPlateC": [
+    "IsPolyphonic"
+  ],
+  "kPlateD": [
+    "IsPolyphonic"
+  ],
+  "kStation": [
+    "IsPolyphonic"
+  ],
+  "kWoodRoom": [
+    "IsPolyphonic"
+  ],
+  "LeftoMono": [
+    "IsPolyphonic"
+  ],
+  "Logical4": [
+    "IsPolyphonic"
+  ],
+  "Loud": [
+    "IsPolyphonic"
+  ],
+  "Lowpass": [
+    "IsPolyphonic"
+  ],
+  "Lowpass2": [
+    "IsPolyphonic"
+  ],
+  "LRConvolve": [
+    "IsPolyphonic"
+  ],
+  "LRConvolve2": [
+    "IsPolyphonic"
+  ],
+  "LRConvolve3": [
+    "IsPolyphonic"
+  ],
+  "LRFlipTimer": [
+    "IsPolyphonic"
+  ],
+  "Luxor": [
+    "IsPolyphonic"
+  ],
+  "MackEQ": [
+    "IsPolyphonic"
+  ],
+  "Mackity": [
+    "IsPolyphonic"
+  ],
+  "Mastering": [
+    "IsPolyphonic"
+  ],
+  "Mastering2": [
+    "IsPolyphonic"
+  ],
+  "MatrixVerb": [
+    "IsPolyphonic"
+  ],
+  "Melt": [
+    "IsPolyphonic"
+  ],
+  "MidSide": [
+    "IsPolyphonic"
+  ],
+  "Mojo": [
+    "IsPolyphonic"
+  ],
+  "Monitoring": [
+    "IsPolyphonic"
+  ],
+  "Monitoring2": [
+    "IsPolyphonic"
+  ],
+  "Monitoring3": [
+    "IsPolyphonic"
+  ],
+  "MoNoam": [
+    "IsPolyphonic"
+  ],
+  "MSFlipTimer": [
+    "IsPolyphonic"
+  ],
+  "MultiBandDistortion": [
+    "IsPolyphonic"
+  ],
+  "MV": [
+    "IsPolyphonic"
+  ],
+  "MV2": [
+    "IsPolyphonic"
+  ],
+  "NaturalizeDither": [
+    "IsPolyphonic"
+  ],
+  "NCSeventeen": [
+    "IsPolyphonic"
+  ],
+  "Neverland": [
+    "IsPolyphonic"
+  ],
+  "Nikola": [
+    "IsPolyphonic"
+  ],
+  "NodeDither": [
+    "IsPolyphonic"
+  ],
+  "Noise": [
+    "IsPolyphonic"
+  ],
+  "NonlinearSpace": [
+    "IsPolyphonic"
+  ],
+  "NotJustAnotherCD": [
+    "IsPolyphonic"
+  ],
+  "NotJustAnotherDither": [
+    "IsPolyphonic"
+  ],
+  "OneCornerClip": [
+    "IsPolyphonic"
+  ],
+  "OrbitKick": [
+    "IsPolyphonic"
+  ],
+  "Overheads": [
+    "IsPolyphonic"
+  ],
+  "Pafnuty": [
+    "IsPolyphonic"
+  ],
+  "Pafnuty2": [
+    "IsPolyphonic"
+  ],
+  "Parametric": [
+    "IsPolyphonic"
+  ],
+  "PaulDither": [
+    "IsPolyphonic"
+  ],
+  "PaulWide": [
+    "IsPolyphonic"
+  ],
+  "PDBuss": [
+    "IsPolyphonic"
+  ],
+  "PDChannel": [
+    "IsPolyphonic"
+  ],
+  "PeaksOnly": [
+    "IsPolyphonic"
+  ],
+  "Pear": [
+    "IsPolyphonic"
+  ],
+  "Pear2": [
+    "IsPolyphonic"
+  ],
+  "PearEQ": [
+    "IsPolyphonic"
+  ],
+  "PearLiteEQ": [
+    "IsPolyphonic"
+  ],
+  "PhaseNudge": [
+    "IsPolyphonic"
+  ],
+  "PitchDelay": [
+    "IsPolyphonic"
+  ],
+  "PitchNasty": [
+    "IsPolyphonic"
+  ],
+  "PlatinumSlew": [
+    "IsPolyphonic"
+  ],
+  "PocketVerbs": [
+    "IsPolyphonic"
+  ],
+  "Pockey": [
+    "IsPolyphonic"
+  ],
+  "Pockey2": [
+    "IsPolyphonic"
+  ],
+  "Podcast": [
+    "IsPolyphonic"
+  ],
+  "PodcastDeluxe": [
+    "IsPolyphonic"
+  ],
+  "Point": [
+    "IsPolyphonic"
+  ],
+  "PointyDeluxe": [
+    "IsPolyphonic"
+  ],
+  "PointyGuitar": [
+    "IsPolyphonic"
+  ],
+  "Pop": [
+    "IsPolyphonic"
+  ],
+  "Pop2": [
+    "IsPolyphonic"
+  ],
+  "Pop3": [
+    "IsPolyphonic"
+  ],
+  "PowerSag": [
+    "IsPolyphonic"
+  ],
+  "PowerSag2": [
+    "IsPolyphonic"
+  ],
+  "Precious": [
+    "IsPolyphonic"
+  ],
+  "Preponderant": [
+    "IsPolyphonic"
+  ],
+  "Pressure4": [
+    "IsPolyphonic"
+  ],
+  "Pressure5": [
+    "IsPolyphonic"
+  ],
+  "Pressure6": [
+    "IsPolyphonic"
+  ],
+  "PrimeFIR": [
+    "IsPolyphonic"
+  ],
+  "PunchyDeluxe": [
+    "IsPolyphonic"
+  ],
+  "PunchyGuitar": [
+    "IsPolyphonic"
+  ],
+  "PurestAir": [
+    "IsPolyphonic"
+  ],
+  "PurestConsole2Buss": [
+    "IsPolyphonic"
+  ],
+  "PurestConsole2Channel": [
+    "IsPolyphonic"
+  ],
+  "PurestConsole3Buss": [
+    "IsPolyphonic"
+  ],
+  "PurestConsole3Channel": [
+    "IsPolyphonic"
+  ],
+  "PurestConsoleBuss": [
+    "IsPolyphonic"
+  ],
+  "PurestConsoleChannel": [
+    "IsPolyphonic"
+  ],
+  "PurestDrive": [
+    "IsPolyphonic"
+  ],
+  "PurestDualPan": [
+    "IsPolyphonic"
+  ],
+  "PurestEcho": [
+    "IsPolyphonic"
+  ],
+  "PurestFade": [
+    "IsPolyphonic"
+  ],
+  "PurestGain": [
+    "IsPolyphonic"
+  ],
+  "PurestSaturation": [
+    "IsPolyphonic"
+  ],
+  "PurestSquish": [
+    "IsPolyphonic"
+  ],
+  "PurestWarm": [
+    "IsPolyphonic"
+  ],
+  "Pyewacket": [
+    "IsPolyphonic"
+  ],
+  "RawGlitters": [
+    "IsPolyphonic"
+  ],
+  "RawTimbers": [
+    "IsPolyphonic"
+  ],
+  "Recurve": [
+    "IsPolyphonic"
+  ],
+  "Remap": [
+    "IsPolyphonic"
+  ],
+  "ResEQ": [
+    "IsPolyphonic"
+  ],
+  "ResEQ2": [
+    "IsPolyphonic"
+  ],
+  "Reverb": [
+    "IsPolyphonic"
+  ],
+  "Righteous4": [
+    "IsPolyphonic"
+  ],
+  "RightoMono": [
+    "IsPolyphonic"
+  ],
+  "RingModulator": [
+    "IsPolyphonic"
+  ],
+  "SampleDelay": [
+    "IsPolyphonic"
+  ]
+}

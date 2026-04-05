@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Network ID="tester_ScriptFx" Version="0.0.0" CompileChannelAmount="4">
+  <Node FactoryPath="container.chain" ID="tester_ScriptFx" Bypassed="0"
+        Name="tester_ScriptFx">
+    <Nodes/>
+    <Parameters/>
+  </Node>
+</Network>
