@@ -5,11 +5,11 @@ Each library is separated into a different HISE project with build and license n
 
 ## Included Projects
 
-- [Hise-Airwindows](/Users/ernest/HisePersonal/Personal/Hise-FxLibraries/Hise-Airwindows/README.md)
-- [Hise-Aspik](/Users/ernest/HisePersonal/Personal/Hise-FxLibraries/Hise-Aspik/README.md)
-- [Hise-Faust](/Users/ernest/HisePersonal/Personal/Hise-FxLibraries/Hise-Faust/README.md)
-- [Hise-Hisenberg](/Users/ernest/HisePersonal/Personal/Hise-FxLibraries/Hise-Hisenberg/README.md)
-- [Hise-PointToPoint](/Users/ernest/HisePersonal/Personal/Hise-FxLibraries/Hise-PointToPoint/README.md)
+- [Hise-Airwindows](https://github.com/mzajner/Hise-FxLibraries/tree/main/Hise-Airwindows)
+- [Hise-Aspik](https://github.com/mzajner/Hise-FxLibraries/tree/main/Hise-Aspik)
+- [Hise-Faust](https://github.com/mzajner/Hise-FxLibraries/tree/main/Hise-Faust)
+- [Hise-Hisenberg](https://github.com/mzajner/Hise-FxLibraries/tree/main/Hise-Hisenberg)
+- [Hise-PointToPoint](https://github.com/mzajner/Hise-FxLibraries/tree/main/Hise-PointToPoint)
 
 ## Source Families
 
