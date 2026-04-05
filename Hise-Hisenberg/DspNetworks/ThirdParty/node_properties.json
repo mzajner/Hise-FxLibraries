@@ -1,0 +1,65 @@
+{
+  "autogain": [
+    "IsPolyphonic"
+  ],
+  "Butterworth2ndHpf": [
+    "IsPolyphonic"
+  ],
+  "comp1": [
+    "IsPolyphonic"
+  ],
+  "fft_analyzer": [
+    "IsPolyphonic"
+  ],
+  "hard_clip": [
+    "IsPolyphonic"
+  ],
+  "peakLimiter": [
+    "IsPolyphonic"
+  ],
+  "soft_clip": [
+    "IsPolyphonic"
+  ],
+  "sslCompressor": [
+    "IsPolyphonic"
+  ],
+  "sslEqExternal": [
+    "IsPolyphonic"
+  ],
+  "sslEqProcess": [
+    "IsPolyphonic"
+  ],
+  "sslGate": [
+    "IsPolyphonic"
+  ],
+  "transient_designer": [
+    "IsPolyphonic"
+  ],
+  "vhs_compander": [
+    "IsPolyphonic"
+  ],
+  "vhs_degradation": [
+    "IsPolyphonic"
+  ],
+  "vhs_dropout": [
+    "IsPolyphonic"
+  ],
+  "vhs_Loss": [
+    "IsPolyphonic"
+  ],
+  "vhs_modulation": [
+    "IsPolyphonic"
+  ],
+  "vhs_noiseGenerator": [
+    "IsPolyphonic"
+  ],
+  "vhs_peakLimiter": [
+    "IsPolyphonic"
+  ],
+  "vhs_pitchMods": [
+    "IsPolyphonic"
+  ],
+  "vhs_postEq": [
+    "IsPolyphonic"
+  ]
+}
