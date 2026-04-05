@@ -1,4 +1,5 @@
 Hise-Airwindows 2
+Hise-PointToPoint-Hisenberg
 
 Hise-Airwindows/AdditionalSourceCode
 Hise-Airwindows/AudioFiles
@@ -47,3 +48,15 @@ Hise-Hisenberg/Presets
 Hise-Hisenberg/SampleMaps
 Hise-Hisenberg/Samples
 Hise-Hisenberg/UserPresets
+
+Hise-PointToPoint/AdditionalSourceCode
+Hise-PointToPoint/AudioFiles
+Hise-PointToPoint/Binaries
+Hise-PointToPoint/DspNetworks/Binaries
+Hise-PointToPoint/Expansions
+Hise-PointToPoint/Images
+Hise-PointToPoint/MidiFiles
+Hise-PointToPoint/Presets
+Hise-PointToPoint/SampleMaps
+Hise-PointToPoint/Samples
+Hise-PointToPoint/UserPresets
