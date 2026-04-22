@@ -8,7 +8,7 @@ The local project looks like a wrapper host rather than a finished end user plug
 
 The main wrapper entry point is:
 
-- [factory.cpp](/Users/ernest/HisePersonal/Personal/Hise-FxLibraries/Hise-Airwindows/AdditionalSourceCode/nodes/factory.cpp)
+- [Airwindows.h](https://github.com/mzajner/Hise-FxLibraries/blob/main/Hise-Airwindows/DspNetworks/ThirdParty/src/airwindows/AirWindows.h)
 
 That factory registers a large set of Airwindows nodes such as console processors, saturation, dynamics, EQ, delay, reverb, modulation, utility, and dither tools.
 
