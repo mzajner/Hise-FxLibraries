@@ -1,13 +1,13 @@
 #pragma once
 
-#include "../Binaries/JuceLibraryCode/JuceHeader.h"
+#include <JuceHeader.h>
 #include "src/airwindows/AirWindows.h"
 
 namespace airwindows::infrasonic_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Infrasonic/Infrasonic.h"
-#include "src/airwindows/Infrasonic/Infrasonic.cpp.inc"
-#include "src/airwindows/Infrasonic/InfrasonicProc.cpp.inc"
+#include "src/airwindows/Infrasonic/Infrasonic.cpp"
+#include "src/airwindows/Infrasonic/InfrasonicProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::infrasonic_ns
 

@@ -1,13 +1,13 @@
 #pragma once
 
-#include "../Binaries/JuceLibraryCode/JuceHeader.h"
+#include <JuceHeader.h>
 #include "src/airwindows/AirWindows.h"
 
 namespace airwindows::bitglitter_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/BitGlitter/BitGlitter.h"
-#include "src/airwindows/BitGlitter/BitGlitter.cpp.inc"
-#include "src/airwindows/BitGlitter/BitGlitterProc.cpp.inc"
+#include "src/airwindows/BitGlitter/BitGlitter.cpp"
+#include "src/airwindows/BitGlitter/BitGlitterProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::bitglitter_ns
 

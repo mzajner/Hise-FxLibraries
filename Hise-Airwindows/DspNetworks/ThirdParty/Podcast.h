@@ -1,13 +1,13 @@
 #pragma once
 
-#include "../Binaries/JuceLibraryCode/JuceHeader.h"
+#include <JuceHeader.h>
 #include "src/airwindows/AirWindows.h"
 
 namespace airwindows::podcast_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Podcast/Podcast.h"
-#include "src/airwindows/Podcast/Podcast.cpp.inc"
-#include "src/airwindows/Podcast/PodcastProc.cpp.inc"
+#include "src/airwindows/Podcast/Podcast.cpp"
+#include "src/airwindows/Podcast/PodcastProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::podcast_ns
 

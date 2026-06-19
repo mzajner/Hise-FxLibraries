@@ -1,13 +1,13 @@
 #pragma once
 
-#include "../Binaries/JuceLibraryCode/JuceHeader.h"
+#include <JuceHeader.h>
 #include "src/airwindows/AirWindows.h"
 
 namespace airwindows::isolator3_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Isolator3/Isolator3.h"
-#include "src/airwindows/Isolator3/Isolator3.cpp.inc"
-#include "src/airwindows/Isolator3/Isolator3Proc.cpp.inc"
+#include "src/airwindows/Isolator3/Isolator3.cpp"
+#include "src/airwindows/Isolator3/Isolator3Proc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::isolator3_ns
 

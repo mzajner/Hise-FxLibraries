@@ -1,13 +1,13 @@
 #pragma once
 
-#include "../Binaries/JuceLibraryCode/JuceHeader.h"
+#include <JuceHeader.h>
 #include "src/airwindows/AirWindows.h"
 
 namespace airwindows::chimeyguitar_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/ChimeyGuitar/ChimeyGuitar.h"
-#include "src/airwindows/ChimeyGuitar/ChimeyGuitar.cpp.inc"
-#include "src/airwindows/ChimeyGuitar/ChimeyGuitarProc.cpp.inc"
+#include "src/airwindows/ChimeyGuitar/ChimeyGuitar.cpp"
+#include "src/airwindows/ChimeyGuitar/ChimeyGuitarProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::chimeyguitar_ns
 

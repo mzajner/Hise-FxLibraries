@@ -4,8 +4,8 @@
  *  Copyright (c) 2011 __MyCompanyName__, Airwindows uses the MIT license
  * ======================================== */
 
-#ifndef __Gain_H
-#define __Gain_H
+#ifndef __FireAmp_H
+#define __FireAmp_H
 
 #ifndef __audioeffect__
 #include "audioeffectx.h"

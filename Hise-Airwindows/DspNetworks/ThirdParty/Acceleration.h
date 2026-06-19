@@ -1,13 +1,13 @@
 #pragma once
 
-#include "../Binaries/JuceLibraryCode/JuceHeader.h"
+#include <JuceHeader.h>
 #include "src/airwindows/AirWindows.h"
 
 namespace airwindows::acceleration_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Acceleration/Acceleration.h"
-#include "src/airwindows/Acceleration/Acceleration.cpp.inc"
-#include "src/airwindows/Acceleration/AccelerationProc.cpp.inc"
+#include "src/airwindows/Acceleration/Acceleration.cpp"
+#include "src/airwindows/Acceleration/AccelerationProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::acceleration_ns
 

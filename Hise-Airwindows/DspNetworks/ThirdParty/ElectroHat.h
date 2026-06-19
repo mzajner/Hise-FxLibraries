@@ -1,13 +1,13 @@
 #pragma once
 
-#include "../Binaries/JuceLibraryCode/JuceHeader.h"
+#include <JuceHeader.h>
 #include "src/airwindows/AirWindows.h"
 
 namespace airwindows::electrohat_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/ElectroHat/ElectroHat.h"
-#include "src/airwindows/ElectroHat/ElectroHat.cpp.inc"
-#include "src/airwindows/ElectroHat/ElectroHatProc.cpp.inc"
+#include "src/airwindows/ElectroHat/ElectroHat.cpp"
+#include "src/airwindows/ElectroHat/ElectroHatProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::electrohat_ns
 

@@ -1,13 +1,13 @@
 #pragma once
 
-#include "../Binaries/JuceLibraryCode/JuceHeader.h"
+#include <JuceHeader.h>
 #include "src/airwindows/AirWindows.h"
 
 namespace airwindows::apicolypse_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Apicolypse/Apicolypse.h"
-#include "src/airwindows/Apicolypse/Apicolypse.cpp.inc"
-#include "src/airwindows/Apicolypse/ApicolypseProc.cpp.inc"
+#include "src/airwindows/Apicolypse/Apicolypse.cpp"
+#include "src/airwindows/Apicolypse/ApicolypseProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::apicolypse_ns
 

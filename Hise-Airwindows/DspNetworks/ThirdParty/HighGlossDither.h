@@ -1,13 +1,13 @@
 #pragma once
 
-#include "../Binaries/JuceLibraryCode/JuceHeader.h"
+#include <JuceHeader.h>
 #include "src/airwindows/AirWindows.h"
 
 namespace airwindows::highglossdither_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/HighGlossDither/HighGlossDither.h"
-#include "src/airwindows/HighGlossDither/HighGlossDither.cpp.inc"
-#include "src/airwindows/HighGlossDither/HighGlossDitherProc.cpp.inc"
+#include "src/airwindows/HighGlossDither/HighGlossDither.cpp"
+#include "src/airwindows/HighGlossDither/HighGlossDitherProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::highglossdither_ns
 

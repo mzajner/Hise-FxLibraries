@@ -1,13 +1,13 @@
 #pragma once
 
-#include "../Binaries/JuceLibraryCode/JuceHeader.h"
+#include <JuceHeader.h>
 #include "src/airwindows/AirWindows.h"
 
 namespace airwindows::fromtape_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/FromTape/FromTape.h"
-#include "src/airwindows/FromTape/FromTape.cpp.inc"
-#include "src/airwindows/FromTape/FromTapeProc.cpp.inc"
+#include "src/airwindows/FromTape/FromTape.cpp"
+#include "src/airwindows/FromTape/FromTapeProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::fromtape_ns
 

@@ -1,13 +1,13 @@
 #pragma once
 
-#include "../Binaries/JuceLibraryCode/JuceHeader.h"
+#include <JuceHeader.h>
 #include "src/airwindows/AirWindows.h"
 
 namespace airwindows::purestecho_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/PurestEcho/PurestEcho.h"
-#include "src/airwindows/PurestEcho/PurestEcho.cpp.inc"
-#include "src/airwindows/PurestEcho/PurestEchoProc.cpp.inc"
+#include "src/airwindows/PurestEcho/PurestEcho.cpp"
+#include "src/airwindows/PurestEcho/PurestEchoProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::purestecho_ns
 

@@ -1,13 +1,13 @@
 #pragma once
 
-#include "../Binaries/JuceLibraryCode/JuceHeader.h"
+#include <JuceHeader.h>
 #include "src/airwindows/AirWindows.h"
 
 namespace airwindows::crunchygroovewear_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/CrunchyGrooveWear/CrunchyGrooveWear.h"
-#include "src/airwindows/CrunchyGrooveWear/CrunchyGrooveWear.cpp.inc"
-#include "src/airwindows/CrunchyGrooveWear/CrunchyGrooveWearProc.cpp.inc"
+#include "src/airwindows/CrunchyGrooveWear/CrunchyGrooveWear.cpp"
+#include "src/airwindows/CrunchyGrooveWear/CrunchyGrooveWearProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::crunchygroovewear_ns
 

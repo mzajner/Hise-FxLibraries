@@ -1,13 +1,13 @@
 #pragma once
 
-#include "../Binaries/JuceLibraryCode/JuceHeader.h"
+#include <JuceHeader.h>
 #include "src/airwindows/AirWindows.h"
 
 namespace airwindows::midside_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/MidSide/MidSide.h"
-#include "src/airwindows/MidSide/MidSide.cpp.inc"
-#include "src/airwindows/MidSide/MidSideProc.cpp.inc"
+#include "src/airwindows/MidSide/MidSide.cpp"
+#include "src/airwindows/MidSide/MidSideProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::midside_ns
 

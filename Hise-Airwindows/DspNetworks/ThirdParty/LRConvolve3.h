@@ -1,13 +1,13 @@
 #pragma once
 
-#include "../Binaries/JuceLibraryCode/JuceHeader.h"
+#include <JuceHeader.h>
 #include "src/airwindows/AirWindows.h"
 
 namespace airwindows::lrconvolve3_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/LRConvolve3/LRConvolve3.h"
-#include "src/airwindows/LRConvolve3/LRConvolve3.cpp.inc"
-#include "src/airwindows/LRConvolve3/LRConvolve3Proc.cpp.inc"
+#include "src/airwindows/LRConvolve3/LRConvolve3.cpp"
+#include "src/airwindows/LRConvolve3/LRConvolve3Proc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::lrconvolve3_ns
 

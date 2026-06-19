@@ -1,13 +1,13 @@
 #pragma once
 
-#include "../Binaries/JuceLibraryCode/JuceHeader.h"
+#include <JuceHeader.h>
 #include "src/airwindows/AirWindows.h"
 
 namespace airwindows::ironoxideclassic_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/IronOxideClassic/IronOxideClassic.h"
-#include "src/airwindows/IronOxideClassic/IronOxideClassic.cpp.inc"
-#include "src/airwindows/IronOxideClassic/IronOxideClassicProc.cpp.inc"
+#include "src/airwindows/IronOxideClassic/IronOxideClassic.cpp"
+#include "src/airwindows/IronOxideClassic/IronOxideClassicProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::ironoxideclassic_ns
 

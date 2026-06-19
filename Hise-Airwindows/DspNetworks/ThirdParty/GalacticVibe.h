@@ -1,13 +1,13 @@
 #pragma once
 
-#include "../Binaries/JuceLibraryCode/JuceHeader.h"
+#include <JuceHeader.h>
 #include "src/airwindows/AirWindows.h"
 
 namespace airwindows::galacticvibe_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/GalacticVibe/GalacticVibe.h"
-#include "src/airwindows/GalacticVibe/GalacticVibe.cpp.inc"
-#include "src/airwindows/GalacticVibe/GalacticVibeProc.cpp.inc"
+#include "src/airwindows/GalacticVibe/GalacticVibe.cpp"
+#include "src/airwindows/GalacticVibe/GalacticVibeProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::galacticvibe_ns
 

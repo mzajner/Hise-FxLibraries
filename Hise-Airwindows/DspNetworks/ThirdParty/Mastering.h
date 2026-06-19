@@ -1,13 +1,13 @@
 #pragma once
 
-#include "../Binaries/JuceLibraryCode/JuceHeader.h"
+#include <JuceHeader.h>
 #include "src/airwindows/AirWindows.h"
 
 namespace airwindows::mastering_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Mastering/Mastering.h"
-#include "src/airwindows/Mastering/Mastering.cpp.inc"
-#include "src/airwindows/Mastering/MasteringProc.cpp.inc"
+#include "src/airwindows/Mastering/Mastering.cpp"
+#include "src/airwindows/Mastering/MasteringProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::mastering_ns
 

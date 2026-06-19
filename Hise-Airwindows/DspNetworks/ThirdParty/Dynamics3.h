@@ -1,13 +1,13 @@
 #pragma once
 
-#include "../Binaries/JuceLibraryCode/JuceHeader.h"
+#include <JuceHeader.h>
 #include "src/airwindows/AirWindows.h"
 
 namespace airwindows::dynamics3_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Dynamics3/Dynamics3.h"
-#include "src/airwindows/Dynamics3/Dynamics3.cpp.inc"
-#include "src/airwindows/Dynamics3/Dynamics3Proc.cpp.inc"
+#include "src/airwindows/Dynamics3/Dynamics3.cpp"
+#include "src/airwindows/Dynamics3/Dynamics3Proc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::dynamics3_ns
 

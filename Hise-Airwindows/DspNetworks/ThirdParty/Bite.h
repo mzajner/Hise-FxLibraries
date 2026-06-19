@@ -1,13 +1,13 @@
 #pragma once
 
-#include "../Binaries/JuceLibraryCode/JuceHeader.h"
+#include <JuceHeader.h>
 #include "src/airwindows/AirWindows.h"
 
 namespace airwindows::bite_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Bite/Bite.h"
-#include "src/airwindows/Bite/Bite.cpp.inc"
-#include "src/airwindows/Bite/BiteProc.cpp.inc"
+#include "src/airwindows/Bite/Bite.cpp"
+#include "src/airwindows/Bite/BiteProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::bite_ns
 

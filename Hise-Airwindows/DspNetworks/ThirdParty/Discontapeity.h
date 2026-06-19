@@ -1,13 +1,13 @@
 #pragma once
 
-#include "../Binaries/JuceLibraryCode/JuceHeader.h"
+#include <JuceHeader.h>
 #include "src/airwindows/AirWindows.h"
 
 namespace airwindows::discontapeity_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Discontapeity/Discontapeity.h"
-#include "src/airwindows/Discontapeity/Discontapeity.cpp.inc"
-#include "src/airwindows/Discontapeity/DiscontapeityProc.cpp.inc"
+#include "src/airwindows/Discontapeity/Discontapeity.cpp"
+#include "src/airwindows/Discontapeity/DiscontapeityProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::discontapeity_ns
 

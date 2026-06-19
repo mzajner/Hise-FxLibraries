@@ -1,13 +1,13 @@
 #pragma once
 
-#include "../Binaries/JuceLibraryCode/JuceHeader.h"
+#include <JuceHeader.h>
 #include "src/airwindows/AirWindows.h"
 
 namespace airwindows::adclip8_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/ADClip8/ADClip8.h"
-#include "src/airwindows/ADClip8/ADClip8.cpp.inc"
-#include "src/airwindows/ADClip8/ADClip8Proc.cpp.inc"
+#include "src/airwindows/ADClip8/ADClip8.cpp"
+#include "src/airwindows/ADClip8/ADClip8Proc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::adclip8_ns
 

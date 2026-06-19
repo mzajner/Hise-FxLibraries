@@ -1,13 +1,13 @@
 #pragma once
 
-#include "../Binaries/JuceLibraryCode/JuceHeader.h"
+#include <JuceHeader.h>
 #include "src/airwindows/AirWindows.h"
 
 namespace airwindows::distance3_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Distance3/Distance3.h"
-#include "src/airwindows/Distance3/Distance3.cpp.inc"
-#include "src/airwindows/Distance3/Distance3Proc.cpp.inc"
+#include "src/airwindows/Distance3/Distance3.cpp"
+#include "src/airwindows/Distance3/Distance3Proc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::distance3_ns
 

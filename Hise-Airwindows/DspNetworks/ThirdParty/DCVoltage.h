@@ -1,13 +1,13 @@
 #pragma once
 
-#include "../Binaries/JuceLibraryCode/JuceHeader.h"
+#include <JuceHeader.h>
 #include "src/airwindows/AirWindows.h"
 
 namespace airwindows::dcvoltage_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/DCVoltage/DCVoltage.h"
-#include "src/airwindows/DCVoltage/DCVoltage.cpp.inc"
-#include "src/airwindows/DCVoltage/DCVoltageProc.cpp.inc"
+#include "src/airwindows/DCVoltage/DCVoltage.cpp"
+#include "src/airwindows/DCVoltage/DCVoltageProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::dcvoltage_ns
 

@@ -1,13 +1,13 @@
 #pragma once
 
-#include "../Binaries/JuceLibraryCode/JuceHeader.h"
+#include <JuceHeader.h>
 #include "src/airwindows/AirWindows.h"
 
 namespace airwindows::c5rawchannel_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/C5RawChannel/C5RawChannel.h"
-#include "src/airwindows/C5RawChannel/C5RawChannel.cpp.inc"
-#include "src/airwindows/C5RawChannel/C5RawChannelProc.cpp.inc"
+#include "src/airwindows/C5RawChannel/C5RawChannel.cpp"
+#include "src/airwindows/C5RawChannel/C5RawChannelProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::c5rawchannel_ns
 

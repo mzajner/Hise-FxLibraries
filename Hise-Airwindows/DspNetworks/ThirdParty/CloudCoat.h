@@ -1,13 +1,13 @@
 #pragma once
 
-#include "../Binaries/JuceLibraryCode/JuceHeader.h"
+#include <JuceHeader.h>
 #include "src/airwindows/AirWindows.h"
 
 namespace airwindows::cloudcoat_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/CloudCoat/CloudCoat.h"
-#include "src/airwindows/CloudCoat/CloudCoat.cpp.inc"
-#include "src/airwindows/CloudCoat/CloudCoatProc.cpp.inc"
+#include "src/airwindows/CloudCoat/CloudCoat.cpp"
+#include "src/airwindows/CloudCoat/CloudCoatProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::cloudcoat_ns
 

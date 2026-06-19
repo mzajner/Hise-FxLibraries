@@ -1,13 +1,13 @@
 #pragma once
 
-#include "../Binaries/JuceLibraryCode/JuceHeader.h"
+#include <JuceHeader.h>
 #include "src/airwindows/AirWindows.h"
 
 namespace airwindows::ditherfloat_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/DitherFloat/DitherFloat.h"
-#include "src/airwindows/DitherFloat/DitherFloat.cpp.inc"
-#include "src/airwindows/DitherFloat/DitherFloatProc.cpp.inc"
+#include "src/airwindows/DitherFloat/DitherFloat.cpp"
+#include "src/airwindows/DitherFloat/DitherFloatProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::ditherfloat_ns
 

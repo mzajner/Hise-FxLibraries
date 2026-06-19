@@ -1,13 +1,13 @@
 #pragma once
 
-#include "../Binaries/JuceLibraryCode/JuceHeader.h"
+#include <JuceHeader.h>
 #include "src/airwindows/AirWindows.h"
 
 namespace airwindows::glitchshifter_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/GlitchShifter/GlitchShifter.h"
-#include "src/airwindows/GlitchShifter/GlitchShifter.cpp.inc"
-#include "src/airwindows/GlitchShifter/GlitchShifterProc.cpp.inc"
+#include "src/airwindows/GlitchShifter/GlitchShifter.cpp"
+#include "src/airwindows/GlitchShifter/GlitchShifterProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::glitchshifter_ns
 

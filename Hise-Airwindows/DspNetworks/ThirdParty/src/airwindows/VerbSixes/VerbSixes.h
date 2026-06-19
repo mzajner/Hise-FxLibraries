@@ -7,6 +7,11 @@
 #ifndef __VerbSixes_H
 #define __VerbSixes_H
 
+// VerbSixes only implements the 4x4 and 6x6 networks; THREEBYTHREE/FIVEBYFIVE are dead
+// template blocks. Clear any value leaked from sibling reverb nodes in the unity build.
+#undef THREEBYTHREE
+#undef FIVEBYFIVE
+
 #ifndef __audioeffect__
 #include "audioeffectx.h"
 #endif

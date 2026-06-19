@@ -1,13 +1,13 @@
 #pragma once
 
-#include "../Binaries/JuceLibraryCode/JuceHeader.h"
+#include <JuceHeader.h>
 #include "src/airwindows/AirWindows.h"
 
 namespace airwindows::powersag_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/PowerSag/PowerSag.h"
-#include "src/airwindows/PowerSag/PowerSag.cpp.inc"
-#include "src/airwindows/PowerSag/PowerSagProc.cpp.inc"
+#include "src/airwindows/PowerSag/PowerSag.cpp"
+#include "src/airwindows/PowerSag/PowerSagProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::powersag_ns
 

@@ -1,13 +1,13 @@
 #pragma once
 
-#include "../Binaries/JuceLibraryCode/JuceHeader.h"
+#include <JuceHeader.h>
 #include "src/airwindows/AirWindows.h"
 
 namespace airwindows::guitarconditioner_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/GuitarConditioner/GuitarConditioner.h"
-#include "src/airwindows/GuitarConditioner/GuitarConditioner.cpp.inc"
-#include "src/airwindows/GuitarConditioner/GuitarConditionerProc.cpp.inc"
+#include "src/airwindows/GuitarConditioner/GuitarConditioner.cpp"
+#include "src/airwindows/GuitarConditioner/GuitarConditionerProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::guitarconditioner_ns
 

@@ -1,0 +1,22 @@
+#pragma once
+
+#include <JuceHeader.h>
+#include "src/airwindows/AirWindows.h"
+
+namespace airwindows::stonefire_ns {
+JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
+#include "src/airwindows/Stonefire/Stonefire.h"
+#include "src/airwindows/Stonefire/Stonefire.cpp"
+#include "src/airwindows/Stonefire/StonefireProc.cpp"
+JUCE_END_IGNORE_WARNINGS_GCC_LIKE
+}  // namespace airwindows::stonefire_ns
+
+namespace project {
+
+using namespace juce;
+using namespace hise;
+using namespace scriptnode;
+
+DECLARE_AIRWINDOWS_NODE(Stonefire, stonefire_ns);
+
+}  // namespace project

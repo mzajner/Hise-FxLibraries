@@ -1,13 +1,13 @@
 #pragma once
 
-#include "../Binaries/JuceLibraryCode/JuceHeader.h"
+#include <JuceHeader.h>
 #include "src/airwindows/AirWindows.h"
 
 namespace airwindows::matrixverb_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/MatrixVerb/MatrixVerb.h"
-#include "src/airwindows/MatrixVerb/MatrixVerb.cpp.inc"
-#include "src/airwindows/MatrixVerb/MatrixVerbProc.cpp.inc"
+#include "src/airwindows/MatrixVerb/MatrixVerb.cpp"
+#include "src/airwindows/MatrixVerb/MatrixVerbProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::matrixverb_ns
 

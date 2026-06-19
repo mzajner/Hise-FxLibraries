@@ -1,13 +1,13 @@
 #pragma once
 
-#include "../Binaries/JuceLibraryCode/JuceHeader.h"
+#include <JuceHeader.h>
 #include "src/airwindows/AirWindows.h"
 
 namespace airwindows::atmospherechannel_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/AtmosphereChannel/AtmosphereChannel.h"
-#include "src/airwindows/AtmosphereChannel/AtmosphereChannel.cpp.inc"
-#include "src/airwindows/AtmosphereChannel/AtmosphereChannelProc.cpp.inc"
+#include "src/airwindows/AtmosphereChannel/AtmosphereChannel.cpp"
+#include "src/airwindows/AtmosphereChannel/AtmosphereChannelProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::atmospherechannel_ns
 

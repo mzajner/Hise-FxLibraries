@@ -1,13 +1,13 @@
 #pragma once
 
-#include "../Binaries/JuceLibraryCode/JuceHeader.h"
+#include <JuceHeader.h>
 #include "src/airwindows/AirWindows.h"
 
 namespace airwindows::noise_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Noise/Noise.h"
-#include "src/airwindows/Noise/Noise.cpp.inc"
-#include "src/airwindows/Noise/NoiseProc.cpp.inc"
+#include "src/airwindows/Noise/Noise.cpp"
+#include "src/airwindows/Noise/NoiseProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::noise_ns
 

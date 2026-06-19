@@ -1,13 +1,13 @@
 #pragma once
 
-#include "../Binaries/JuceLibraryCode/JuceHeader.h"
+#include <JuceHeader.h>
 #include "src/airwindows/AirWindows.h"
 
 namespace airwindows::dubly3_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Dubly3/Dubly3.h"
-#include "src/airwindows/Dubly3/Dubly3.cpp.inc"
-#include "src/airwindows/Dubly3/Dubly3Proc.cpp.inc"
+#include "src/airwindows/Dubly3/Dubly3.cpp"
+#include "src/airwindows/Dubly3/Dubly3Proc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::dubly3_ns
 

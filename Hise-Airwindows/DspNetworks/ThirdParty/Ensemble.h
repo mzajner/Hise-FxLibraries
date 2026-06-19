@@ -1,13 +1,13 @@
 #pragma once
 
-#include "../Binaries/JuceLibraryCode/JuceHeader.h"
+#include <JuceHeader.h>
 #include "src/airwindows/AirWindows.h"
 
 namespace airwindows::ensemble_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Ensemble/Ensemble.h"
-#include "src/airwindows/Ensemble/Ensemble.cpp.inc"
-#include "src/airwindows/Ensemble/EnsembleProc.cpp.inc"
+#include "src/airwindows/Ensemble/Ensemble.cpp"
+#include "src/airwindows/Ensemble/EnsembleProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::ensemble_ns
 

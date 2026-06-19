@@ -1,13 +1,13 @@
 #pragma once
 
-#include "../Binaries/JuceLibraryCode/JuceHeader.h"
+#include <JuceHeader.h>
 #include "src/airwindows/AirWindows.h"
 
 namespace airwindows::pearliteeq_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/PearLiteEQ/PearLiteEQ.h"
-#include "src/airwindows/PearLiteEQ/PearLiteEQ.cpp.inc"
-#include "src/airwindows/PearLiteEQ/PearLiteEQProc.cpp.inc"
+#include "src/airwindows/PearLiteEQ/PearLiteEQ.cpp"
+#include "src/airwindows/PearLiteEQ/PearLiteEQProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::pearliteeq_ns
 

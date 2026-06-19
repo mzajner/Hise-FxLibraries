@@ -1,13 +1,13 @@
 #pragma once
 
-#include "../Binaries/JuceLibraryCode/JuceHeader.h"
+#include <JuceHeader.h>
 #include "src/airwindows/AirWindows.h"
 
 namespace airwindows::creamcoat_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/CreamCoat/CreamCoat.h"
-#include "src/airwindows/CreamCoat/CreamCoat.cpp.inc"
-#include "src/airwindows/CreamCoat/CreamCoatProc.cpp.inc"
+#include "src/airwindows/CreamCoat/CreamCoat.cpp"
+#include "src/airwindows/CreamCoat/CreamCoatProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::creamcoat_ns
 

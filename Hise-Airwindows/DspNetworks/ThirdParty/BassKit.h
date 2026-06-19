@@ -1,13 +1,13 @@
 #pragma once
 
-#include "../Binaries/JuceLibraryCode/JuceHeader.h"
+#include <JuceHeader.h>
 #include "src/airwindows/AirWindows.h"
 
 namespace airwindows::basskit_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/BassKit/BassKit.h"
-#include "src/airwindows/BassKit/BassKit.cpp.inc"
-#include "src/airwindows/BassKit/BassKitProc.cpp.inc"
+#include "src/airwindows/BassKit/BassKit.cpp"
+#include "src/airwindows/BassKit/BassKitProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::basskit_ns
 

@@ -1,13 +1,13 @@
 #pragma once
 
-#include "../Binaries/JuceLibraryCode/JuceHeader.h"
+#include <JuceHeader.h>
 #include "src/airwindows/AirWindows.h"
 
 namespace airwindows::remap_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Remap/Remap.h"
-#include "src/airwindows/Remap/Remap.cpp.inc"
-#include "src/airwindows/Remap/RemapProc.cpp.inc"
+#include "src/airwindows/Remap/Remap.cpp"
+#include "src/airwindows/Remap/RemapProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::remap_ns
 

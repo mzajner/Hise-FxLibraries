@@ -1,13 +1,13 @@
 #pragma once
 
-#include "../Binaries/JuceLibraryCode/JuceHeader.h"
+#include <JuceHeader.h>
 #include "src/airwindows/AirWindows.h"
 
 namespace airwindows::hypersonic_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Hypersonic/Hypersonic.h"
-#include "src/airwindows/Hypersonic/Hypersonic.cpp.inc"
-#include "src/airwindows/Hypersonic/HypersonicProc.cpp.inc"
+#include "src/airwindows/Hypersonic/Hypersonic.cpp"
+#include "src/airwindows/Hypersonic/HypersonicProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::hypersonic_ns
 

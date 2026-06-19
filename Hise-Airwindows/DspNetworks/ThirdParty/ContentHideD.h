@@ -1,13 +1,13 @@
 #pragma once
 
-#include "../Binaries/JuceLibraryCode/JuceHeader.h"
+#include <JuceHeader.h>
 #include "src/airwindows/AirWindows.h"
 
 namespace airwindows::contenthided_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/ContentHideD/ContentHideD.h"
-#include "src/airwindows/ContentHideD/ContentHideD.cpp.inc"
-#include "src/airwindows/ContentHideD/ContentHideDProc.cpp.inc"
+#include "src/airwindows/ContentHideD/ContentHideD.cpp"
+#include "src/airwindows/ContentHideD/ContentHideDProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::contenthided_ns
 

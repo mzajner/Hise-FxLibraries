@@ -1,13 +1,13 @@
 #pragma once
 
-#include "../Binaries/JuceLibraryCode/JuceHeader.h"
+#include <JuceHeader.h>
 #include "src/airwindows/AirWindows.h"
 
 namespace airwindows::holt_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Holt/Holt.h"
-#include "src/airwindows/Holt/Holt.cpp.inc"
-#include "src/airwindows/Holt/HoltProc.cpp.inc"
+#include "src/airwindows/Holt/Holt.cpp"
+#include "src/airwindows/Holt/HoltProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::holt_ns
 

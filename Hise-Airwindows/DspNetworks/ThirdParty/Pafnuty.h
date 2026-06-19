@@ -1,13 +1,13 @@
 #pragma once
 
-#include "../Binaries/JuceLibraryCode/JuceHeader.h"
+#include <JuceHeader.h>
 #include "src/airwindows/AirWindows.h"
 
 namespace airwindows::pafnuty_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Pafnuty/Pafnuty.h"
-#include "src/airwindows/Pafnuty/Pafnuty.cpp.inc"
-#include "src/airwindows/Pafnuty/PafnutyProc.cpp.inc"
+#include "src/airwindows/Pafnuty/Pafnuty.cpp"
+#include "src/airwindows/Pafnuty/PafnutyProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::pafnuty_ns
 

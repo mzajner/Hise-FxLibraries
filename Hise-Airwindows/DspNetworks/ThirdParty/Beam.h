@@ -1,13 +1,13 @@
 #pragma once
 
-#include "../Binaries/JuceLibraryCode/JuceHeader.h"
+#include <JuceHeader.h>
 #include "src/airwindows/AirWindows.h"
 
 namespace airwindows::beam_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Beam/Beam.h"
-#include "src/airwindows/Beam/Beam.cpp.inc"
-#include "src/airwindows/Beam/BeamProc.cpp.inc"
+#include "src/airwindows/Beam/Beam.cpp"
+#include "src/airwindows/Beam/BeamProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::beam_ns
 

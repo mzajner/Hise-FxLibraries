@@ -1,13 +1,13 @@
 #pragma once
 
-#include "../Binaries/JuceLibraryCode/JuceHeader.h"
+#include <JuceHeader.h>
 #include "src/airwindows/AirWindows.h"
 
 namespace airwindows::kguitarhall_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/kGuitarHall/kGuitarHall.h"
-#include "src/airwindows/kGuitarHall/kGuitarHall.cpp.inc"
-#include "src/airwindows/kGuitarHall/kGuitarHallProc.cpp.inc"
+#include "src/airwindows/kGuitarHall/kGuitarHall.cpp"
+#include "src/airwindows/kGuitarHall/kGuitarHallProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::kguitarhall_ns
 

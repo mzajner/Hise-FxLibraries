@@ -1,13 +1,13 @@
 #pragma once
 
-#include "../Binaries/JuceLibraryCode/JuceHeader.h"
+#include <JuceHeader.h>
 #include "src/airwindows/AirWindows.h"
 
 namespace airwindows::consolemdchannel_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/ConsoleMDChannel/ConsoleMDChannel.h"
-#include "src/airwindows/ConsoleMDChannel/ConsoleMDChannel.cpp.inc"
-#include "src/airwindows/ConsoleMDChannel/ConsoleMDChannelProc.cpp.inc"
+#include "src/airwindows/ConsoleMDChannel/ConsoleMDChannel.cpp"
+#include "src/airwindows/ConsoleMDChannel/ConsoleMDChannelProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::consolemdchannel_ns
 

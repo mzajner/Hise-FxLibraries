@@ -1,13 +1,13 @@
 #pragma once
 
-#include "../Binaries/JuceLibraryCode/JuceHeader.h"
+#include <JuceHeader.h>
 #include "src/airwindows/AirWindows.h"
 
 namespace airwindows::cojones_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Cojones/Cojones.h"
-#include "src/airwindows/Cojones/Cojones.cpp.inc"
-#include "src/airwindows/Cojones/CojonesProc.cpp.inc"
+#include "src/airwindows/Cojones/Cojones.cpp"
+#include "src/airwindows/Cojones/CojonesProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::cojones_ns
 

@@ -1,13 +1,13 @@
 #pragma once
 
-#include "../Binaries/JuceLibraryCode/JuceHeader.h"
+#include <JuceHeader.h>
 #include "src/airwindows/AirWindows.h"
 
 namespace airwindows::mackeq_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/MackEQ/MackEQ.h"
-#include "src/airwindows/MackEQ/MackEQ.cpp.inc"
-#include "src/airwindows/MackEQ/MackEQProc.cpp.inc"
+#include "src/airwindows/MackEQ/MackEQ.cpp"
+#include "src/airwindows/MackEQ/MackEQProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::mackeq_ns
 

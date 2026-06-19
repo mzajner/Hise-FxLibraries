@@ -1,13 +1,13 @@
 #pragma once
 
-#include "../Binaries/JuceLibraryCode/JuceHeader.h"
+#include <JuceHeader.h>
 #include "src/airwindows/AirWindows.h"
 
 namespace airwindows::bigamp_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/BigAmp/BigAmp.h"
-#include "src/airwindows/BigAmp/BigAmp.cpp.inc"
-#include "src/airwindows/BigAmp/BigAmpProc.cpp.inc"
+#include "src/airwindows/BigAmp/BigAmp.cpp"
+#include "src/airwindows/BigAmp/BigAmpProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::bigamp_ns
 

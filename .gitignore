@@ -1,4 +1,6 @@
+Documentation
 Hise-Airwindows 2
+Hise-Hisenberg/
 Hise-PointToPoint-Hisenberg
 
 Hise-Airwindows/AdditionalSourceCode
@@ -61,3 +63,10 @@ Hise-PointToPoint/Presets
 Hise-PointToPoint/SampleMaps
 Hise-PointToPoint/Samples
 Hise-PointToPoint/UserPresets
+Hise-Airwindows/expansion_info.xml
+Hise-Airwindows/project_info.xml
+Hise-Airwindows/user_info.xml
+
+AirwindowsTest
+Hise-Airwindows/DspNetworks/ThirdParty/node_properties.json
+Hise-Airwindows/DspNetworks/.DS_Store

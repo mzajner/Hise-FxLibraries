@@ -1,13 +1,13 @@
 #pragma once
 
-#include "../Binaries/JuceLibraryCode/JuceHeader.h"
+#include <JuceHeader.h>
 #include "src/airwindows/AirWindows.h"
 
 namespace airwindows::pdbuss_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/PDBuss/PDBuss.h"
-#include "src/airwindows/PDBuss/PDBuss.cpp.inc"
-#include "src/airwindows/PDBuss/PDBussProc.cpp.inc"
+#include "src/airwindows/PDBuss/PDBuss.cpp"
+#include "src/airwindows/PDBuss/PDBussProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::pdbuss_ns
 

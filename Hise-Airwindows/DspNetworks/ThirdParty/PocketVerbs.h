@@ -1,13 +1,13 @@
 #pragma once
 
-#include "../Binaries/JuceLibraryCode/JuceHeader.h"
+#include <JuceHeader.h>
 #include "src/airwindows/AirWindows.h"
 
 namespace airwindows::pocketverbs_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/PocketVerbs/PocketVerbs.h"
-#include "src/airwindows/PocketVerbs/PocketVerbs.cpp.inc"
-#include "src/airwindows/PocketVerbs/PocketVerbsProc.cpp.inc"
+#include "src/airwindows/PocketVerbs/PocketVerbs.cpp"
+#include "src/airwindows/PocketVerbs/PocketVerbsProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::pocketverbs_ns
 
