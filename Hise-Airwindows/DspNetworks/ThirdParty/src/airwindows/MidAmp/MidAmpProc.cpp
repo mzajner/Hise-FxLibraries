@@ -3,7 +3,7 @@
  *  Copyright (c) 2016 airwindows, Airwindows uses the MIT license
  * ======================================== */
 
-#ifndef __Gain_H
+#ifndef __MidAmp_H
 #include "MidAmp.h"
 #endif
 

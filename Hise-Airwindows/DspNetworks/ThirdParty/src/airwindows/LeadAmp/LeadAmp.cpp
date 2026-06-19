@@ -3,7 +3,7 @@
  *  Copyright (c) 2016 airwindows, Airwindows uses the MIT license
  * ======================================== */
 
-#ifndef __Gain_H
+#ifndef __LeadAmp_H
 #include "LeadAmp.h"
 #endif
 
