@@ -13,7 +13,9 @@ original DSP is compiled unmodified; a thin wrapper exposes each effect to HISE.
 | `DspNetworks/ThirdParty/src/airwindows/<Effect>/` | The raw DSP, copied verbatim from Airwindows. Three files: `<Effect>.h` (declaration), `<Effect>.cpp` (parameters/names), `<Effect>Proc.cpp` (processing). |
 | [`src/airwindows/1-what.txt`](DspNetworks/ThirdParty/src/airwindows/1-what.txt) | One-line description of every effect — the reference for what each does. |
 
-## Build
+The main wrapper entry point is:
+
+- [Airwindows.h](https://github.com/mzajner/Hise-FxLibraries/blob/main/Hise-Airwindows/DspNetworks/ThirdParty/src/airwindows/AirWindows.h)
 
 From inside HISE: top toolbar → `Export` → `Compile DSP networks as dll`.
 

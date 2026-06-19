@@ -1,26 +1,23 @@
 # Hise FxLibraries
 
-This repository is a public facing collection of HISE wrapper projects built around different DSP source families.
-
-The goal is simple. Keep these libraries organized, document what each folder actually contains, and make it easier to explore, rebuild, and extend the wrappers inside HISE and scriptnode.
+This repository is a collection of HISE wrapper projects built around differenyt (mostly open-source) audio FX libraries.
+Each library is separated into a different HISE project with build and license notes.
 
 ## Included Projects
 
-- [Hise-Airwindows](/Users/ernest/HisePersonal/Personal/Hise-FxLibraries/Hise-Airwindows/README.md)
-- [Hise-Airwindows 2](/Users/ernest/HisePersonal/Personal/Hise-FxLibraries/Hise-Airwindows%202/README.md)
-- [Hise-Aspik](/Users/ernest/HisePersonal/Personal/Hise-FxLibraries/Hise-Aspik/README.md)
-- [Hise-Faust](/Users/ernest/HisePersonal/Personal/Hise-FxLibraries/Hise-Faust/README.md)
-- [Hise-Hisenberg](/Users/ernest/HisePersonal/Personal/Hise-FxLibraries/Hise-Hisenberg/README.md)
-- [Hise-PointToPoint](/Users/ernest/HisePersonal/Personal/Hise-FxLibraries/Hise-PointToPoint/README.md)
-- [Hise-PointToPoint-Hisenberg](/Users/ernest/HisePersonal/Personal/Hise-FxLibraries/Hise-PointToPoint-Hisenberg/README.md)
+- [Hise-Airwindows](https://github.com/mzajner/Hise-FxLibraries/tree/main/Hise-Airwindows)
+- [Hise-Aspik](https://github.com/mzajner/Hise-FxLibraries/tree/main/Hise-Aspik)
+- [Hise-Faust](https://github.com/mzajner/Hise-FxLibraries/tree/main/Hise-Faust)
+- [Hise-Hisenberg](https://github.com/mzajner/Hise-FxLibraries/tree/main/Hise-Hisenberg)
+- [Hise-PointToPoint](https://github.com/mzajner/Hise-FxLibraries/tree/main/Hise-PointToPoint)
 
 ## Source Families
 
-- [Airwindows](https://github.com/airwindows/airwindows) by Chris Johnson
-- [ASPiK](https://www.aspikplugins.com/) and related Will Pirkle example code
-- [Faust](https://github.com/grame-cncm/faust) based DSP wrappers
-- Personal Hisenberg effects
-- [PointToPoint](https://github.com/HackAudio/PointToPoint_SDK) circuit models by Hack Audio
+- Airwindows by Chris Johnson
+- ASPiK and related Will Pirkle example code
+- Faust based DSP wrappers
+- personal Hisenberg effects
+- Hack Audio PointToPoint circuit models
 
 ## Important Licensing Note
 
