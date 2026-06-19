@@ -6,8 +6,8 @@
 namespace airwindows::air4_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Air4/Air4.h"
-#include "src/airwindows/Air4/Air4.cpp.inc"
-#include "src/airwindows/Air4/Air4Proc.cpp.inc"
+#include "src/airwindows/Air4/Air4.cpp"
+#include "src/airwindows/Air4/Air4Proc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::air4_ns
 

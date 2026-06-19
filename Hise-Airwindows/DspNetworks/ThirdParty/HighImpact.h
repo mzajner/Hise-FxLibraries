@@ -6,8 +6,8 @@
 namespace airwindows::highimpact_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/HighImpact/HighImpact.h"
-#include "src/airwindows/HighImpact/HighImpact.cpp.inc"
-#include "src/airwindows/HighImpact/HighImpactProc.cpp.inc"
+#include "src/airwindows/HighImpact/HighImpact.cpp"
+#include "src/airwindows/HighImpact/HighImpactProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::highimpact_ns
 

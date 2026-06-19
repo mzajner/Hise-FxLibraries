@@ -6,8 +6,8 @@
 namespace airwindows::xbandpass_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/XBandpass/XBandpass.h"
-#include "src/airwindows/XBandpass/XBandpass.cpp.inc"
-#include "src/airwindows/XBandpass/XBandpassProc.cpp.inc"
+#include "src/airwindows/XBandpass/XBandpass.cpp"
+#include "src/airwindows/XBandpass/XBandpassProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::xbandpass_ns
 

@@ -6,8 +6,8 @@
 namespace airwindows::drumslam_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/DrumSlam/DrumSlam.h"
-#include "src/airwindows/DrumSlam/DrumSlam.cpp.inc"
-#include "src/airwindows/DrumSlam/DrumSlamProc.cpp.inc"
+#include "src/airwindows/DrumSlam/DrumSlam.cpp"
+#include "src/airwindows/DrumSlam/DrumSlamProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::drumslam_ns
 

@@ -6,8 +6,8 @@
 namespace airwindows::squareroot_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/SquareRoot/SquareRoot.h"
-#include "src/airwindows/SquareRoot/SquareRoot.cpp.inc"
-#include "src/airwindows/SquareRoot/SquareRootProc.cpp.inc"
+#include "src/airwindows/SquareRoot/SquareRoot.cpp"
+#include "src/airwindows/SquareRoot/SquareRootProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::squareroot_ns
 

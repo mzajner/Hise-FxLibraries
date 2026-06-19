@@ -6,8 +6,8 @@
 namespace airwindows::console8subhype_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Console8SubHype/Console8SubHype.h"
-#include "src/airwindows/Console8SubHype/Console8SubHype.cpp.inc"
-#include "src/airwindows/Console8SubHype/Console8SubHypeProc.cpp.inc"
+#include "src/airwindows/Console8SubHype/Console8SubHype.cpp"
+#include "src/airwindows/Console8SubHype/Console8SubHypeProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::console8subhype_ns
 

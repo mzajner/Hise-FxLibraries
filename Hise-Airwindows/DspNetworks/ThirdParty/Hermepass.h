@@ -6,8 +6,8 @@
 namespace airwindows::hermepass_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Hermepass/Hermepass.h"
-#include "src/airwindows/Hermepass/Hermepass.cpp.inc"
-#include "src/airwindows/Hermepass/HermepassProc.cpp.inc"
+#include "src/airwindows/Hermepass/Hermepass.cpp"
+#include "src/airwindows/Hermepass/HermepassProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::hermepass_ns
 

@@ -6,8 +6,8 @@
 namespace airwindows::console7buss_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Console7Buss/Console7Buss.h"
-#include "src/airwindows/Console7Buss/Console7Buss.cpp.inc"
-#include "src/airwindows/Console7Buss/Console7BussProc.cpp.inc"
+#include "src/airwindows/Console7Buss/Console7Buss.cpp"
+#include "src/airwindows/Console7Buss/Console7BussProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::console7buss_ns
 

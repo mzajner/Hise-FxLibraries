@@ -6,8 +6,8 @@
 namespace airwindows::cliponly_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/ClipOnly/ClipOnly.h"
-#include "src/airwindows/ClipOnly/ClipOnly.cpp.inc"
-#include "src/airwindows/ClipOnly/ClipOnlyProc.cpp.inc"
+#include "src/airwindows/ClipOnly/ClipOnly.cpp"
+#include "src/airwindows/ClipOnly/ClipOnlyProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::cliponly_ns
 

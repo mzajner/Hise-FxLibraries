@@ -6,8 +6,8 @@
 namespace airwindows::multibanddistortion_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/MultiBandDistortion/MultiBandDistortion.h"
-#include "src/airwindows/MultiBandDistortion/MultiBandDistortion.cpp.inc"
-#include "src/airwindows/MultiBandDistortion/MultiBandDistortionProc.cpp.inc"
+#include "src/airwindows/MultiBandDistortion/MultiBandDistortion.cpp"
+#include "src/airwindows/MultiBandDistortion/MultiBandDistortionProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::multibanddistortion_ns
 

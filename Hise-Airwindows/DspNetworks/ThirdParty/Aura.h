@@ -6,8 +6,8 @@
 namespace airwindows::aura_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Aura/Aura.h"
-#include "src/airwindows/Aura/Aura.cpp.inc"
-#include "src/airwindows/Aura/AuraProc.cpp.inc"
+#include "src/airwindows/Aura/Aura.cpp"
+#include "src/airwindows/Aura/AuraProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::aura_ns
 

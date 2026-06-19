@@ -6,8 +6,8 @@
 namespace airwindows::mv_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/MV/MV.h"
-#include "src/airwindows/MV/MV.cpp.inc"
-#include "src/airwindows/MV/MVProc.cpp.inc"
+#include "src/airwindows/MV/MV.cpp"
+#include "src/airwindows/MV/MVProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::mv_ns
 

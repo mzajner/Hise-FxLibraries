@@ -6,8 +6,8 @@
 namespace airwindows::adt_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/ADT/ADT.h"
-#include "src/airwindows/ADT/ADT.cpp.inc"
-#include "src/airwindows/ADT/ADTProc.cpp.inc"
+#include "src/airwindows/ADT/ADT.cpp"
+#include "src/airwindows/ADT/ADTProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::adt_ns
 

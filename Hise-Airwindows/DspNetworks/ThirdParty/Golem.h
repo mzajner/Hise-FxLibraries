@@ -6,8 +6,8 @@
 namespace airwindows::golem_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Golem/Golem.h"
-#include "src/airwindows/Golem/Golem.cpp.inc"
-#include "src/airwindows/Golem/GolemProc.cpp.inc"
+#include "src/airwindows/Golem/Golem.cpp"
+#include "src/airwindows/Golem/GolemProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::golem_ns
 

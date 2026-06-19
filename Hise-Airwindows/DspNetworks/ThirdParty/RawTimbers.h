@@ -6,8 +6,8 @@
 namespace airwindows::rawtimbers_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/RawTimbers/RawTimbers.h"
-#include "src/airwindows/RawTimbers/RawTimbers.cpp.inc"
-#include "src/airwindows/RawTimbers/RawTimbersProc.cpp.inc"
+#include "src/airwindows/RawTimbers/RawTimbers.cpp"
+#include "src/airwindows/RawTimbers/RawTimbersProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::rawtimbers_ns
 

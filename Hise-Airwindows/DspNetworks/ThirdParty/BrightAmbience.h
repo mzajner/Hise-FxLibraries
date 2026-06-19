@@ -6,8 +6,8 @@
 namespace airwindows::brightambience_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/BrightAmbience/BrightAmbience.h"
-#include "src/airwindows/BrightAmbience/BrightAmbience.cpp.inc"
-#include "src/airwindows/BrightAmbience/BrightAmbienceProc.cpp.inc"
+#include "src/airwindows/BrightAmbience/BrightAmbience.cpp"
+#include "src/airwindows/BrightAmbience/BrightAmbienceProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::brightambience_ns
 

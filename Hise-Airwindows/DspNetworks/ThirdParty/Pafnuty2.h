@@ -6,8 +6,8 @@
 namespace airwindows::pafnuty2_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Pafnuty2/Pafnuty2.h"
-#include "src/airwindows/Pafnuty2/Pafnuty2.cpp.inc"
-#include "src/airwindows/Pafnuty2/Pafnuty2Proc.cpp.inc"
+#include "src/airwindows/Pafnuty2/Pafnuty2.cpp"
+#include "src/airwindows/Pafnuty2/Pafnuty2Proc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::pafnuty2_ns
 

@@ -6,8 +6,8 @@
 namespace airwindows::dithermetimbers_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/DitherMeTimbers/DitherMeTimbers.h"
-#include "src/airwindows/DitherMeTimbers/DitherMeTimbers.cpp.inc"
-#include "src/airwindows/DitherMeTimbers/DitherMeTimbersProc.cpp.inc"
+#include "src/airwindows/DitherMeTimbers/DitherMeTimbers.cpp"
+#include "src/airwindows/DitherMeTimbers/DitherMeTimbersProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::dithermetimbers_ns
 

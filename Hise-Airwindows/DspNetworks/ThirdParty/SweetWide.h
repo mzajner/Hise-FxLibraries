@@ -6,8 +6,8 @@
 namespace airwindows::sweetwide_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/SweetWide/SweetWide.h"
-#include "src/airwindows/SweetWide/SweetWide.cpp.inc"
-#include "src/airwindows/SweetWide/SweetWideProc.cpp.inc"
+#include "src/airwindows/SweetWide/SweetWide.cpp"
+#include "src/airwindows/SweetWide/SweetWideProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::sweetwide_ns
 

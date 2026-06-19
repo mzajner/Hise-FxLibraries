@@ -6,8 +6,8 @@
 namespace airwindows::ynotbandpass_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/YNotBandpass/YNotBandpass.h"
-#include "src/airwindows/YNotBandpass/YNotBandpass.cpp.inc"
-#include "src/airwindows/YNotBandpass/YNotBandpassProc.cpp.inc"
+#include "src/airwindows/YNotBandpass/YNotBandpass.cpp"
+#include "src/airwindows/YNotBandpass/YNotBandpassProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::ynotbandpass_ns
 

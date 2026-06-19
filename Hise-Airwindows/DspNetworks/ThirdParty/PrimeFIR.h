@@ -6,8 +6,8 @@
 namespace airwindows::primefir_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/PrimeFIR/PrimeFIR.h"
-#include "src/airwindows/PrimeFIR/PrimeFIR.cpp.inc"
-#include "src/airwindows/PrimeFIR/PrimeFIRProc.cpp.inc"
+#include "src/airwindows/PrimeFIR/PrimeFIR.cpp"
+#include "src/airwindows/PrimeFIR/PrimeFIRProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::primefir_ns
 

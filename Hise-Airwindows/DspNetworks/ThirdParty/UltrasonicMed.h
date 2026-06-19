@@ -6,8 +6,8 @@
 namespace airwindows::ultrasonicmed_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/UltrasonicMed/UltrasonicMed.h"
-#include "src/airwindows/UltrasonicMed/UltrasonicMed.cpp.inc"
-#include "src/airwindows/UltrasonicMed/UltrasonicMedProc.cpp.inc"
+#include "src/airwindows/UltrasonicMed/UltrasonicMed.cpp"
+#include "src/airwindows/UltrasonicMed/UltrasonicMedProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::ultrasonicmed_ns
 

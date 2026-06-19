@@ -6,8 +6,8 @@
 namespace airwindows::verbsixes_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/VerbSixes/VerbSixes.h"
-#include "src/airwindows/VerbSixes/VerbSixes.cpp.inc"
-#include "src/airwindows/VerbSixes/VerbSixesProc.cpp.inc"
+#include "src/airwindows/VerbSixes/VerbSixes.cpp"
+#include "src/airwindows/VerbSixes/VerbSixesProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::verbsixes_ns
 

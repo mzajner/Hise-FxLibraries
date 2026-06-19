@@ -6,8 +6,8 @@
 namespace airwindows::console8subin_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Console8SubIn/Console8SubIn.h"
-#include "src/airwindows/Console8SubIn/Console8SubIn.cpp.inc"
-#include "src/airwindows/Console8SubIn/Console8SubInProc.cpp.inc"
+#include "src/airwindows/Console8SubIn/Console8SubIn.cpp"
+#include "src/airwindows/Console8SubIn/Console8SubInProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::console8subin_ns
 

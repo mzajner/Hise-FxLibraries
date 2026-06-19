@@ -6,8 +6,8 @@
 namespace airwindows::biquadstack_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/BiquadStack/BiquadStack.h"
-#include "src/airwindows/BiquadStack/BiquadStack.cpp.inc"
-#include "src/airwindows/BiquadStack/BiquadStackProc.cpp.inc"
+#include "src/airwindows/BiquadStack/BiquadStack.cpp"
+#include "src/airwindows/BiquadStack/BiquadStackProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::biquadstack_ns
 

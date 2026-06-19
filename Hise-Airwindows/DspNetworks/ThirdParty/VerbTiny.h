@@ -6,8 +6,8 @@
 namespace airwindows::verbtiny_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/VerbTiny/VerbTiny.h"
-#include "src/airwindows/VerbTiny/VerbTiny.cpp.inc"
-#include "src/airwindows/VerbTiny/VerbTinyProc.cpp.inc"
+#include "src/airwindows/VerbTiny/VerbTiny.cpp"
+#include "src/airwindows/VerbTiny/VerbTinyProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::verbtiny_ns
 

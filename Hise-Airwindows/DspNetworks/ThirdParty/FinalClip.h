@@ -6,8 +6,8 @@
 namespace airwindows::finalclip_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/FinalClip/FinalClip.h"
-#include "src/airwindows/FinalClip/FinalClip.cpp.inc"
-#include "src/airwindows/FinalClip/FinalClipProc.cpp.inc"
+#include "src/airwindows/FinalClip/FinalClip.cpp"
+#include "src/airwindows/FinalClip/FinalClipProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::finalclip_ns
 

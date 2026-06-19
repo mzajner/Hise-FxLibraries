@@ -6,8 +6,8 @@
 namespace airwindows::monoam_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/MoNoam/MoNoam.h"
-#include "src/airwindows/MoNoam/MoNoam.cpp.inc"
-#include "src/airwindows/MoNoam/MoNoamProc.cpp.inc"
+#include "src/airwindows/MoNoam/MoNoam.cpp"
+#include "src/airwindows/MoNoam/MoNoamProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::monoam_ns
 

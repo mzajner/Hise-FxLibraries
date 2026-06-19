@@ -6,8 +6,8 @@
 namespace airwindows::bassamp_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/BassAmp/BassAmp.h"
-#include "src/airwindows/BassAmp/BassAmp.cpp.inc"
-#include "src/airwindows/BassAmp/BassAmpProc.cpp.inc"
+#include "src/airwindows/BassAmp/BassAmp.cpp"
+#include "src/airwindows/BassAmp/BassAmpProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::bassamp_ns
 

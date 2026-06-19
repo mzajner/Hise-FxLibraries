@@ -6,8 +6,8 @@
 namespace airwindows::pop2_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Pop2/Pop2.h"
-#include "src/airwindows/Pop2/Pop2.cpp.inc"
-#include "src/airwindows/Pop2/Pop2Proc.cpp.inc"
+#include "src/airwindows/Pop2/Pop2.cpp"
+#include "src/airwindows/Pop2/Pop2Proc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::pop2_ns
 

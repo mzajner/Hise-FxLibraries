@@ -6,8 +6,8 @@
 namespace airwindows::bezeq_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/BezEQ/BezEQ.h"
-#include "src/airwindows/BezEQ/BezEQ.cpp.inc"
-#include "src/airwindows/BezEQ/BezEQProc.cpp.inc"
+#include "src/airwindows/BezEQ/BezEQ.cpp"
+#include "src/airwindows/BezEQ/BezEQProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::bezeq_ns
 

@@ -6,8 +6,8 @@
 namespace airwindows::ironoxideclassic2_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/IronOxideClassic2/IronOxideClassic2.h"
-#include "src/airwindows/IronOxideClassic2/IronOxideClassic2.cpp.inc"
-#include "src/airwindows/IronOxideClassic2/IronOxideClassic2Proc.cpp.inc"
+#include "src/airwindows/IronOxideClassic2/IronOxideClassic2.cpp"
+#include "src/airwindows/IronOxideClassic2/IronOxideClassic2Proc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::ironoxideclassic2_ns
 

@@ -6,8 +6,8 @@
 namespace airwindows::spatializedither_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/SpatializeDither/SpatializeDither.h"
-#include "src/airwindows/SpatializeDither/SpatializeDither.cpp.inc"
-#include "src/airwindows/SpatializeDither/SpatializeDitherProc.cpp.inc"
+#include "src/airwindows/SpatializeDither/SpatializeDither.cpp"
+#include "src/airwindows/SpatializeDither/SpatializeDitherProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::spatializedither_ns
 

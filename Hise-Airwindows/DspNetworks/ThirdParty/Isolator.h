@@ -6,8 +6,8 @@
 namespace airwindows::isolator_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Isolator/Isolator.h"
-#include "src/airwindows/Isolator/Isolator.cpp.inc"
-#include "src/airwindows/Isolator/IsolatorProc.cpp.inc"
+#include "src/airwindows/Isolator/Isolator.cpp"
+#include "src/airwindows/Isolator/IsolatorProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::isolator_ns
 

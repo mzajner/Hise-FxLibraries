@@ -6,8 +6,8 @@
 namespace airwindows::autopan_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/AutoPan/AutoPan.h"
-#include "src/airwindows/AutoPan/AutoPan.cpp.inc"
-#include "src/airwindows/AutoPan/AutoPanProc.cpp.inc"
+#include "src/airwindows/AutoPan/AutoPan.cpp"
+#include "src/airwindows/AutoPan/AutoPanProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::autopan_ns
 

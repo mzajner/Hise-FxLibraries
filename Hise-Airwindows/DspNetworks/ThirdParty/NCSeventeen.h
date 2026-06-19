@@ -6,8 +6,8 @@
 namespace airwindows::ncseventeen_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/NCSeventeen/NCSeventeen.h"
-#include "src/airwindows/NCSeventeen/NCSeventeen.cpp.inc"
-#include "src/airwindows/NCSeventeen/NCSeventeenProc.cpp.inc"
+#include "src/airwindows/NCSeventeen/NCSeventeen.cpp"
+#include "src/airwindows/NCSeventeen/NCSeventeenProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::ncseventeen_ns
 

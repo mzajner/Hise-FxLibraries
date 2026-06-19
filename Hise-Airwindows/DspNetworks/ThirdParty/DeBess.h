@@ -6,8 +6,8 @@
 namespace airwindows::debess_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/DeBess/DeBess.h"
-#include "src/airwindows/DeBess/DeBess.cpp.inc"
-#include "src/airwindows/DeBess/DeBessProc.cpp.inc"
+#include "src/airwindows/DeBess/DeBess.cpp"
+#include "src/airwindows/DeBess/DeBessProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::debess_ns
 

@@ -6,8 +6,8 @@
 namespace airwindows::tremolo_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Tremolo/Tremolo.h"
-#include "src/airwindows/Tremolo/Tremolo.cpp.inc"
-#include "src/airwindows/Tremolo/TremoloProc.cpp.inc"
+#include "src/airwindows/Tremolo/Tremolo.cpp"
+#include "src/airwindows/Tremolo/TremoloProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::tremolo_ns
 

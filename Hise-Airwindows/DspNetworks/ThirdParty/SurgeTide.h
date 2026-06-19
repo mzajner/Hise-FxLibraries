@@ -6,8 +6,8 @@
 namespace airwindows::surgetide_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/SurgeTide/SurgeTide.h"
-#include "src/airwindows/SurgeTide/SurgeTide.cpp.inc"
-#include "src/airwindows/SurgeTide/SurgeTideProc.cpp.inc"
+#include "src/airwindows/SurgeTide/SurgeTide.cpp"
+#include "src/airwindows/SurgeTide/SurgeTideProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::surgetide_ns
 

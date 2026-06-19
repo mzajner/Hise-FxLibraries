@@ -6,8 +6,8 @@
 namespace airwindows::average_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Average/Average.h"
-#include "src/airwindows/Average/Average.cpp.inc"
-#include "src/airwindows/Average/AverageProc.cpp.inc"
+#include "src/airwindows/Average/Average.cpp"
+#include "src/airwindows/Average/AverageProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::average_ns
 

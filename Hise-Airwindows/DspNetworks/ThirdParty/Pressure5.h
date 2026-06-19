@@ -6,8 +6,8 @@
 namespace airwindows::pressure5_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Pressure5/Pressure5.h"
-#include "src/airwindows/Pressure5/Pressure5.cpp.inc"
-#include "src/airwindows/Pressure5/Pressure5Proc.cpp.inc"
+#include "src/airwindows/Pressure5/Pressure5.cpp"
+#include "src/airwindows/Pressure5/Pressure5Proc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::pressure5_ns
 

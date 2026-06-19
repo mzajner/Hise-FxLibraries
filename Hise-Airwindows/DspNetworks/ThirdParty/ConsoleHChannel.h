@@ -6,8 +6,8 @@
 namespace airwindows::consolehchannel_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/ConsoleHChannel/ConsoleHChannel.h"
-#include "src/airwindows/ConsoleHChannel/ConsoleHChannel.cpp.inc"
-#include "src/airwindows/ConsoleHChannel/ConsoleHChannelProc.cpp.inc"
+#include "src/airwindows/ConsoleHChannel/ConsoleHChannel.cpp"
+#include "src/airwindows/ConsoleHChannel/ConsoleHChannelProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::consolehchannel_ns
 

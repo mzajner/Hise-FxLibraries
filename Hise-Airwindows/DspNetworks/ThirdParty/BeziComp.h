@@ -6,8 +6,8 @@
 namespace airwindows::bezicomp_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/BeziComp/BeziComp.h"
-#include "src/airwindows/BeziComp/BeziComp.cpp.inc"
-#include "src/airwindows/BeziComp/BeziCompProc.cpp.inc"
+#include "src/airwindows/BeziComp/BeziComp.cpp"
+#include "src/airwindows/BeziComp/BeziCompProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::bezicomp_ns
 

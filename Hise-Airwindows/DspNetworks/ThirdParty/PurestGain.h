@@ -6,8 +6,8 @@
 namespace airwindows::purestgain_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/PurestGain/PurestGain.h"
-#include "src/airwindows/PurestGain/PurestGain.cpp.inc"
-#include "src/airwindows/PurestGain/PurestGainProc.cpp.inc"
+#include "src/airwindows/PurestGain/PurestGain.cpp"
+#include "src/airwindows/PurestGain/PurestGainProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::purestgain_ns
 

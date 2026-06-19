@@ -6,8 +6,8 @@
 namespace airwindows::platinumslew_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/PlatinumSlew/PlatinumSlew.h"
-#include "src/airwindows/PlatinumSlew/PlatinumSlew.cpp.inc"
-#include "src/airwindows/PlatinumSlew/PlatinumSlewProc.cpp.inc"
+#include "src/airwindows/PlatinumSlew/PlatinumSlew.cpp"
+#include "src/airwindows/PlatinumSlew/PlatinumSlewProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::platinumslew_ns
 

@@ -6,8 +6,8 @@
 namespace airwindows::dirt_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Dirt/Dirt.h"
-#include "src/airwindows/Dirt/Dirt.cpp.inc"
-#include "src/airwindows/Dirt/DirtProc.cpp.inc"
+#include "src/airwindows/Dirt/Dirt.cpp"
+#include "src/airwindows/Dirt/DirtProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::dirt_ns
 

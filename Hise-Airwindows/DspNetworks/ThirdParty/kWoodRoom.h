@@ -6,8 +6,8 @@
 namespace airwindows::kwoodroom_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/kWoodRoom/kWoodRoom.h"
-#include "src/airwindows/kWoodRoom/kWoodRoom.cpp.inc"
-#include "src/airwindows/kWoodRoom/kWoodRoomProc.cpp.inc"
+#include "src/airwindows/kWoodRoom/kWoodRoom.cpp"
+#include "src/airwindows/kWoodRoom/kWoodRoomProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::kwoodroom_ns
 

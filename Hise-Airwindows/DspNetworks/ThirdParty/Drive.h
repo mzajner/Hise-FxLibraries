@@ -6,8 +6,8 @@
 namespace airwindows::drive_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Drive/Drive.h"
-#include "src/airwindows/Drive/Drive.cpp.inc"
-#include "src/airwindows/Drive/DriveProc.cpp.inc"
+#include "src/airwindows/Drive/Drive.cpp"
+#include "src/airwindows/Drive/DriveProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::drive_ns
 

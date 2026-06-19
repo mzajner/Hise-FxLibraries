@@ -6,8 +6,8 @@
 namespace airwindows::spiral_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Spiral/Spiral.h"
-#include "src/airwindows/Spiral/Spiral.cpp.inc"
-#include "src/airwindows/Spiral/SpiralProc.cpp.inc"
+#include "src/airwindows/Spiral/Spiral.cpp"
+#include "src/airwindows/Spiral/SpiralProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::spiral_ns
 

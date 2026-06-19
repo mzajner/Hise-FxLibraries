@@ -6,8 +6,8 @@
 namespace airwindows::smootheq3_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/SmoothEQ3/SmoothEQ3.h"
-#include "src/airwindows/SmoothEQ3/SmoothEQ3.cpp.inc"
-#include "src/airwindows/SmoothEQ3/SmoothEQ3Proc.cpp.inc"
+#include "src/airwindows/SmoothEQ3/SmoothEQ3.cpp"
+#include "src/airwindows/SmoothEQ3/SmoothEQ3Proc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::smootheq3_ns
 

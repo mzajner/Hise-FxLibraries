@@ -6,8 +6,8 @@
 namespace airwindows::baxandall_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Baxandall/Baxandall.h"
-#include "src/airwindows/Baxandall/Baxandall.cpp.inc"
-#include "src/airwindows/Baxandall/BaxandallProc.cpp.inc"
+#include "src/airwindows/Baxandall/Baxandall.cpp"
+#include "src/airwindows/Baxandall/BaxandallProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::baxandall_ns
 

@@ -6,8 +6,8 @@
 namespace airwindows::verbthic_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/VerbThic/VerbThic.h"
-#include "src/airwindows/VerbThic/VerbThic.cpp.inc"
-#include "src/airwindows/VerbThic/VerbThicProc.cpp.inc"
+#include "src/airwindows/VerbThic/VerbThic.cpp"
+#include "src/airwindows/VerbThic/VerbThicProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::verbthic_ns
 

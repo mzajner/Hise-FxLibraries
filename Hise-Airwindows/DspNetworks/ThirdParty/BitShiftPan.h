@@ -6,8 +6,8 @@
 namespace airwindows::bitshiftpan_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/BitShiftPan/BitShiftPan.h"
-#include "src/airwindows/BitShiftPan/BitShiftPan.cpp.inc"
-#include "src/airwindows/BitShiftPan/BitShiftPanProc.cpp.inc"
+#include "src/airwindows/BitShiftPan/BitShiftPan.cpp"
+#include "src/airwindows/BitShiftPan/BitShiftPanProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::bitshiftpan_ns
 

@@ -6,8 +6,8 @@
 namespace airwindows::busscolors4_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/BussColors4/BussColors4.h"
-#include "src/airwindows/BussColors4/BussColors4.cpp.inc"
-#include "src/airwindows/BussColors4/BussColors4Proc.cpp.inc"
+#include "src/airwindows/BussColors4/BussColors4.cpp"
+#include "src/airwindows/BussColors4/BussColors4Proc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::busscolors4_ns
 

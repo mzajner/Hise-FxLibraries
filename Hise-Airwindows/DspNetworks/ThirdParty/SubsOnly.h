@@ -6,8 +6,8 @@
 namespace airwindows::subsonly_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/SubsOnly/SubsOnly.h"
-#include "src/airwindows/SubsOnly/SubsOnly.cpp.inc"
-#include "src/airwindows/SubsOnly/SubsOnlyProc.cpp.inc"
+#include "src/airwindows/SubsOnly/SubsOnly.cpp"
+#include "src/airwindows/SubsOnly/SubsOnlyProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::subsonly_ns
 

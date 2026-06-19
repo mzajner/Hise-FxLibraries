@@ -6,8 +6,8 @@
 namespace airwindows::yhighpass_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/YHighpass/YHighpass.h"
-#include "src/airwindows/YHighpass/YHighpass.cpp.inc"
-#include "src/airwindows/YHighpass/YHighpassProc.cpp.inc"
+#include "src/airwindows/YHighpass/YHighpass.cpp"
+#include "src/airwindows/YHighpass/YHighpassProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::yhighpass_ns
 

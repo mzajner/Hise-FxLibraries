@@ -6,8 +6,8 @@
 namespace airwindows::dubcenter_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/DubCenter/DubCenter.h"
-#include "src/airwindows/DubCenter/DubCenter.cpp.inc"
-#include "src/airwindows/DubCenter/DubCenterProc.cpp.inc"
+#include "src/airwindows/DubCenter/DubCenter.cpp"
+#include "src/airwindows/DubCenter/DubCenterProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::dubcenter_ns
 

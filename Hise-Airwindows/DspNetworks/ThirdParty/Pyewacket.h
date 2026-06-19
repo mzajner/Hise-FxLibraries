@@ -6,8 +6,8 @@
 namespace airwindows::pyewacket_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Pyewacket/Pyewacket.h"
-#include "src/airwindows/Pyewacket/Pyewacket.cpp.inc"
-#include "src/airwindows/Pyewacket/PyewacketProc.cpp.inc"
+#include "src/airwindows/Pyewacket/Pyewacket.cpp"
+#include "src/airwindows/Pyewacket/PyewacketProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::pyewacket_ns
 

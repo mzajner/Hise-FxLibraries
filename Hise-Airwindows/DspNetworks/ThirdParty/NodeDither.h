@@ -6,8 +6,8 @@
 namespace airwindows::nodedither_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/NodeDither/NodeDither.h"
-#include "src/airwindows/NodeDither/NodeDither.cpp.inc"
-#include "src/airwindows/NodeDither/NodeDitherProc.cpp.inc"
+#include "src/airwindows/NodeDither/NodeDither.cpp"
+#include "src/airwindows/NodeDither/NodeDitherProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::nodedither_ns
 

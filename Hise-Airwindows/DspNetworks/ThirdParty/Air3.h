@@ -6,8 +6,8 @@
 namespace airwindows::air3_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Air3/Air3.h"
-#include "src/airwindows/Air3/Air3.cpp.inc"
-#include "src/airwindows/Air3/Air3Proc.cpp.inc"
+#include "src/airwindows/Air3/Air3.cpp"
+#include "src/airwindows/Air3/Air3Proc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::air3_ns
 

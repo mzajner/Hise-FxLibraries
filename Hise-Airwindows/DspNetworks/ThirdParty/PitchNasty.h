@@ -6,8 +6,8 @@
 namespace airwindows::pitchnasty_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/PitchNasty/PitchNasty.h"
-#include "src/airwindows/PitchNasty/PitchNasty.cpp.inc"
-#include "src/airwindows/PitchNasty/PitchNastyProc.cpp.inc"
+#include "src/airwindows/PitchNasty/PitchNasty.cpp"
+#include "src/airwindows/PitchNasty/PitchNastyProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::pitchnasty_ns
 

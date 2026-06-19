@@ -6,8 +6,8 @@
 namespace airwindows::tremosquare_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/TremoSquare/TremoSquare.h"
-#include "src/airwindows/TremoSquare/TremoSquare.cpp.inc"
-#include "src/airwindows/TremoSquare/TremoSquareProc.cpp.inc"
+#include "src/airwindows/TremoSquare/TremoSquare.cpp"
+#include "src/airwindows/TremoSquare/TremoSquareProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::tremosquare_ns
 

@@ -6,8 +6,8 @@
 namespace airwindows::ynotnotch_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/YNotNotch/YNotNotch.h"
-#include "src/airwindows/YNotNotch/YNotNotch.cpp.inc"
-#include "src/airwindows/YNotNotch/YNotNotchProc.cpp.inc"
+#include "src/airwindows/YNotNotch/YNotNotch.cpp"
+#include "src/airwindows/YNotNotch/YNotNotchProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::ynotnotch_ns
 

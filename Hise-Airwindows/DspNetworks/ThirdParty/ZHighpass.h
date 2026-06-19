@@ -6,8 +6,8 @@
 namespace airwindows::zhighpass_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/ZHighpass/ZHighpass.h"
-#include "src/airwindows/ZHighpass/ZHighpass.cpp.inc"
-#include "src/airwindows/ZHighpass/ZHighpassProc.cpp.inc"
+#include "src/airwindows/ZHighpass/ZHighpass.cpp"
+#include "src/airwindows/ZHighpass/ZHighpassProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::zhighpass_ns
 

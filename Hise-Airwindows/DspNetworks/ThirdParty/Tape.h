@@ -6,8 +6,8 @@
 namespace airwindows::tape_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Tape/Tape.h"
-#include "src/airwindows/Tape/Tape.cpp.inc"
-#include "src/airwindows/Tape/TapeProc.cpp.inc"
+#include "src/airwindows/Tape/Tape.cpp"
+#include "src/airwindows/Tape/TapeProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::tape_ns
 

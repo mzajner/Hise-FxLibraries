@@ -6,8 +6,8 @@
 namespace airwindows::hypersonx_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/HypersonX/HypersonX.h"
-#include "src/airwindows/HypersonX/HypersonX.cpp.inc"
-#include "src/airwindows/HypersonX/HypersonXProc.cpp.inc"
+#include "src/airwindows/HypersonX/HypersonX.cpp"
+#include "src/airwindows/HypersonX/HypersonXProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::hypersonx_ns
 

@@ -6,8 +6,8 @@
 namespace airwindows::compresaturator_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Compresaturator/Compresaturator.h"
-#include "src/airwindows/Compresaturator/Compresaturator.cpp.inc"
-#include "src/airwindows/Compresaturator/CompresaturatorProc.cpp.inc"
+#include "src/airwindows/Compresaturator/Compresaturator.cpp"
+#include "src/airwindows/Compresaturator/CompresaturatorProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::compresaturator_ns
 

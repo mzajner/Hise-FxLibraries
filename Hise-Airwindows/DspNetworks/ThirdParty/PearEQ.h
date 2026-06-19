@@ -6,8 +6,8 @@
 namespace airwindows::peareq_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/PearEQ/PearEQ.h"
-#include "src/airwindows/PearEQ/PearEQ.cpp.inc"
-#include "src/airwindows/PearEQ/PearEQProc.cpp.inc"
+#include "src/airwindows/PearEQ/PearEQ.cpp"
+#include "src/airwindows/PearEQ/PearEQProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::peareq_ns
 

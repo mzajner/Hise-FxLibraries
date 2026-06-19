@@ -6,8 +6,8 @@
 namespace airwindows::takecare_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/TakeCare/TakeCare.h"
-#include "src/airwindows/TakeCare/TakeCare.cpp.inc"
-#include "src/airwindows/TakeCare/TakeCareProc.cpp.inc"
+#include "src/airwindows/TakeCare/TakeCare.cpp"
+#include "src/airwindows/TakeCare/TakeCareProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::takecare_ns
 

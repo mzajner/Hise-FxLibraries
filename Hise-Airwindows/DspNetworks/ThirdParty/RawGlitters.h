@@ -6,8 +6,8 @@
 namespace airwindows::rawglitters_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/RawGlitters/RawGlitters.h"
-#include "src/airwindows/RawGlitters/RawGlitters.cpp.inc"
-#include "src/airwindows/RawGlitters/RawGlittersProc.cpp.inc"
+#include "src/airwindows/RawGlitters/RawGlitters.cpp"
+#include "src/airwindows/RawGlitters/RawGlittersProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::rawglitters_ns
 

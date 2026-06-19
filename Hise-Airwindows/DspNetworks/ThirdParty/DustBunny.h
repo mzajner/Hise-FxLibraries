@@ -6,8 +6,8 @@
 namespace airwindows::dustbunny_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/DustBunny/DustBunny.h"
-#include "src/airwindows/DustBunny/DustBunny.cpp.inc"
-#include "src/airwindows/DustBunny/DustBunnyProc.cpp.inc"
+#include "src/airwindows/DustBunny/DustBunny.cpp"
+#include "src/airwindows/DustBunny/DustBunnyProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::dustbunny_ns
 

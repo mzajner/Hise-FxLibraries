@@ -6,8 +6,8 @@
 namespace airwindows::anglefilter_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/AngleFilter/AngleFilter.h"
-#include "src/airwindows/AngleFilter/AngleFilter.cpp.inc"
-#include "src/airwindows/AngleFilter/AngleFilterProc.cpp.inc"
+#include "src/airwindows/AngleFilter/AngleFilter.cpp"
+#include "src/airwindows/AngleFilter/AngleFilterProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::anglefilter_ns
 

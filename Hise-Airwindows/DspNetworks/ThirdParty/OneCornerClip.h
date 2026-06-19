@@ -6,8 +6,8 @@
 namespace airwindows::onecornerclip_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/OneCornerClip/OneCornerClip.h"
-#include "src/airwindows/OneCornerClip/OneCornerClip.cpp.inc"
-#include "src/airwindows/OneCornerClip/OneCornerClipProc.cpp.inc"
+#include "src/airwindows/OneCornerClip/OneCornerClip.cpp"
+#include "src/airwindows/OneCornerClip/OneCornerClipProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::onecornerclip_ns
 

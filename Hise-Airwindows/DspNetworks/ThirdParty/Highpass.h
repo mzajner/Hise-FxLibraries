@@ -6,8 +6,8 @@
 namespace airwindows::highpass_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Highpass/Highpass.h"
-#include "src/airwindows/Highpass/Highpass.cpp.inc"
-#include "src/airwindows/Highpass/HighpassProc.cpp.inc"
+#include "src/airwindows/Highpass/Highpass.cpp"
+#include "src/airwindows/Highpass/HighpassProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::highpass_ns
 

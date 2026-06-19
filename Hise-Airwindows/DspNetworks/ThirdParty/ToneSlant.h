@@ -6,8 +6,8 @@
 namespace airwindows::toneslant_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/ToneSlant/ToneSlant.h"
-#include "src/airwindows/ToneSlant/ToneSlant.cpp.inc"
-#include "src/airwindows/ToneSlant/ToneSlantProc.cpp.inc"
+#include "src/airwindows/ToneSlant/ToneSlant.cpp"
+#include "src/airwindows/ToneSlant/ToneSlantProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::toneslant_ns
 

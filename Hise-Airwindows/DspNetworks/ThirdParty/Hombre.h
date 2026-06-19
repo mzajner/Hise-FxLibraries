@@ -6,8 +6,8 @@
 namespace airwindows::hombre_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Hombre/Hombre.h"
-#include "src/airwindows/Hombre/Hombre.cpp.inc"
-#include "src/airwindows/Hombre/HombreProc.cpp.inc"
+#include "src/airwindows/Hombre/Hombre.cpp"
+#include "src/airwindows/Hombre/HombreProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::hombre_ns
 

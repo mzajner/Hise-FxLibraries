@@ -6,8 +6,8 @@
 namespace airwindows::tpdfdither_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/TPDFDither/TPDFDither.h"
-#include "src/airwindows/TPDFDither/TPDFDither.cpp.inc"
-#include "src/airwindows/TPDFDither/TPDFDitherProc.cpp.inc"
+#include "src/airwindows/TPDFDither/TPDFDither.cpp"
+#include "src/airwindows/TPDFDither/TPDFDitherProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::tpdfdither_ns
 

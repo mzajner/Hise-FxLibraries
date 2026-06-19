@@ -6,8 +6,8 @@
 namespace airwindows::tapefat_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/TapeFat/TapeFat.h"
-#include "src/airwindows/TapeFat/TapeFat.cpp.inc"
-#include "src/airwindows/TapeFat/TapeFatProc.cpp.inc"
+#include "src/airwindows/TapeFat/TapeFat.cpp"
+#include "src/airwindows/TapeFat/TapeFatProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::tapefat_ns
 

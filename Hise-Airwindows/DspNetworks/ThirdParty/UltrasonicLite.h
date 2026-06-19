@@ -6,8 +6,8 @@
 namespace airwindows::ultrasoniclite_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/UltrasonicLite/UltrasonicLite.h"
-#include "src/airwindows/UltrasonicLite/UltrasonicLite.cpp.inc"
-#include "src/airwindows/UltrasonicLite/UltrasonicLiteProc.cpp.inc"
+#include "src/airwindows/UltrasonicLite/UltrasonicLite.cpp"
+#include "src/airwindows/UltrasonicLite/UltrasonicLiteProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::ultrasoniclite_ns
 

@@ -6,8 +6,8 @@
 namespace airwindows::flipity_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Flipity/Flipity.h"
-#include "src/airwindows/Flipity/Flipity.cpp.inc"
-#include "src/airwindows/Flipity/FlipityProc.cpp.inc"
+#include "src/airwindows/Flipity/Flipity.cpp"
+#include "src/airwindows/Flipity/FlipityProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::flipity_ns
 

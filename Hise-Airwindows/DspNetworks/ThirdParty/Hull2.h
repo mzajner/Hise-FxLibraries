@@ -6,8 +6,8 @@
 namespace airwindows::hull2_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Hull2/Hull2.h"
-#include "src/airwindows/Hull2/Hull2.cpp.inc"
-#include "src/airwindows/Hull2/Hull2Proc.cpp.inc"
+#include "src/airwindows/Hull2/Hull2.cpp"
+#include "src/airwindows/Hull2/Hull2Proc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::hull2_ns
 

@@ -6,8 +6,8 @@
 namespace airwindows::unbox_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/UnBox/UnBox.h"
-#include "src/airwindows/UnBox/UnBox.cpp.inc"
-#include "src/airwindows/UnBox/UnBoxProc.cpp.inc"
+#include "src/airwindows/UnBox/UnBox.cpp"
+#include "src/airwindows/UnBox/UnBoxProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::unbox_ns
 

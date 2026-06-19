@@ -6,8 +6,8 @@
 namespace airwindows::kcathedral5_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/kCathedral5/kCathedral5.h"
-#include "src/airwindows/kCathedral5/kCathedral5.cpp.inc"
-#include "src/airwindows/kCathedral5/kCathedral5Proc.cpp.inc"
+#include "src/airwindows/kCathedral5/kCathedral5.cpp"
+#include "src/airwindows/kCathedral5/kCathedral5Proc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::kcathedral5_ns
 

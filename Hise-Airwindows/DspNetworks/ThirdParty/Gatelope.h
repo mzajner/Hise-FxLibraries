@@ -6,8 +6,8 @@
 namespace airwindows::gatelope_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Gatelope/Gatelope.h"
-#include "src/airwindows/Gatelope/Gatelope.cpp.inc"
-#include "src/airwindows/Gatelope/GatelopeProc.cpp.inc"
+#include "src/airwindows/Gatelope/Gatelope.cpp"
+#include "src/airwindows/Gatelope/GatelopeProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::gatelope_ns
 

@@ -6,8 +6,8 @@
 namespace airwindows::monitoring3_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Monitoring3/Monitoring3.h"
-#include "src/airwindows/Monitoring3/Monitoring3.cpp.inc"
-#include "src/airwindows/Monitoring3/Monitoring3Proc.cpp.inc"
+#include "src/airwindows/Monitoring3/Monitoring3.cpp"
+#include "src/airwindows/Monitoring3/Monitoring3Proc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::monitoring3_ns
 

@@ -6,8 +6,8 @@
 namespace airwindows::kguitarhall2_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/kGuitarHall2/kGuitarHall2.h"
-#include "src/airwindows/kGuitarHall2/kGuitarHall2.cpp.inc"
-#include "src/airwindows/kGuitarHall2/kGuitarHall2Proc.cpp.inc"
+#include "src/airwindows/kGuitarHall2/kGuitarHall2.cpp"
+#include "src/airwindows/kGuitarHall2/kGuitarHall2Proc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::kguitarhall2_ns
 

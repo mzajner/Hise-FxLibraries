@@ -6,8 +6,8 @@
 namespace airwindows::hardvacuum_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/HardVacuum/HardVacuum.h"
-#include "src/airwindows/HardVacuum/HardVacuum.cpp.inc"
-#include "src/airwindows/HardVacuum/HardVacuumProc.cpp.inc"
+#include "src/airwindows/HardVacuum/HardVacuum.cpp"
+#include "src/airwindows/HardVacuum/HardVacuumProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::hardvacuum_ns
 

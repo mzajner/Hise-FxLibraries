@@ -6,8 +6,8 @@
 namespace airwindows::lrfliptimer_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/LRFlipTimer/LRFlipTimer.h"
-#include "src/airwindows/LRFlipTimer/LRFlipTimer.cpp.inc"
-#include "src/airwindows/LRFlipTimer/LRFlipTimerProc.cpp.inc"
+#include "src/airwindows/LRFlipTimer/LRFlipTimer.cpp"
+#include "src/airwindows/LRFlipTimer/LRFlipTimerProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::lrfliptimer_ns
 

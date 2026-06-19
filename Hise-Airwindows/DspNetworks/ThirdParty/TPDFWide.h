@@ -6,8 +6,8 @@
 namespace airwindows::tpdfwide_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/TPDFWide/TPDFWide.h"
-#include "src/airwindows/TPDFWide/TPDFWide.cpp.inc"
-#include "src/airwindows/TPDFWide/TPDFWideProc.cpp.inc"
+#include "src/airwindows/TPDFWide/TPDFWide.cpp"
+#include "src/airwindows/TPDFWide/TPDFWideProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::tpdfwide_ns
 

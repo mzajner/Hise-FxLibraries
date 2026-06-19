@@ -6,8 +6,8 @@
 namespace airwindows::bassdrive_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/BassDrive/BassDrive.h"
-#include "src/airwindows/BassDrive/BassDrive.cpp.inc"
-#include "src/airwindows/BassDrive/BassDriveProc.cpp.inc"
+#include "src/airwindows/BassDrive/BassDrive.cpp"
+#include "src/airwindows/BassDrive/BassDriveProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::bassdrive_ns
 

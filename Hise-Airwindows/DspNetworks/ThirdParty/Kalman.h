@@ -6,8 +6,8 @@
 namespace airwindows::kalman_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Kalman/Kalman.h"
-#include "src/airwindows/Kalman/Kalman.cpp.inc"
-#include "src/airwindows/Kalman/KalmanProc.cpp.inc"
+#include "src/airwindows/Kalman/Kalman.cpp"
+#include "src/airwindows/Kalman/KalmanProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::kalman_ns
 

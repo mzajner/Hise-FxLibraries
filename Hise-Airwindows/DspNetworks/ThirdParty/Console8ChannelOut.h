@@ -6,8 +6,8 @@
 namespace airwindows::console8channelout_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Console8ChannelOut/Console8ChannelOut.h"
-#include "src/airwindows/Console8ChannelOut/Console8ChannelOut.cpp.inc"
-#include "src/airwindows/Console8ChannelOut/Console8ChannelOutProc.cpp.inc"
+#include "src/airwindows/Console8ChannelOut/Console8ChannelOut.cpp"
+#include "src/airwindows/Console8ChannelOut/Console8ChannelOutProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::console8channelout_ns
 

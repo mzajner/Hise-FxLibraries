@@ -6,8 +6,8 @@
 namespace airwindows::pockey_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Pockey/Pockey.h"
-#include "src/airwindows/Pockey/Pockey.cpp.inc"
-#include "src/airwindows/Pockey/PockeyProc.cpp.inc"
+#include "src/airwindows/Pockey/Pockey.cpp"
+#include "src/airwindows/Pockey/PockeyProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::pockey_ns
 

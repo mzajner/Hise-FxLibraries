@@ -6,8 +6,8 @@
 namespace airwindows::triplespread_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/TripleSpread/TripleSpread.h"
-#include "src/airwindows/TripleSpread/TripleSpread.cpp.inc"
-#include "src/airwindows/TripleSpread/TripleSpreadProc.cpp.inc"
+#include "src/airwindows/TripleSpread/TripleSpread.cpp"
+#include "src/airwindows/TripleSpread/TripleSpreadProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::triplespread_ns
 

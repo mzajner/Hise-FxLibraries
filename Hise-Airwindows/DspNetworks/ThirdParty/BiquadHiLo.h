@@ -6,8 +6,8 @@
 namespace airwindows::biquadhilo_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/BiquadHiLo/BiquadHiLo.h"
-#include "src/airwindows/BiquadHiLo/BiquadHiLo.cpp.inc"
-#include "src/airwindows/BiquadHiLo/BiquadHiLoProc.cpp.inc"
+#include "src/airwindows/BiquadHiLo/BiquadHiLo.cpp"
+#include "src/airwindows/BiquadHiLo/BiquadHiLoProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::biquadhilo_ns
 

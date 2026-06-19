@@ -6,8 +6,8 @@
 namespace airwindows::zregion_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/ZRegion/ZRegion.h"
-#include "src/airwindows/ZRegion/ZRegion.cpp.inc"
-#include "src/airwindows/ZRegion/ZRegionProc.cpp.inc"
+#include "src/airwindows/ZRegion/ZRegion.cpp"
+#include "src/airwindows/ZRegion/ZRegionProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::zregion_ns
 

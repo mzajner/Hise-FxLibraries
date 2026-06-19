@@ -6,8 +6,8 @@
 namespace airwindows::swell_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Swell/Swell.h"
-#include "src/airwindows/Swell/Swell.cpp.inc"
-#include "src/airwindows/Swell/SwellProc.cpp.inc"
+#include "src/airwindows/Swell/Swell.cpp"
+#include "src/airwindows/Swell/SwellProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::swell_ns
 

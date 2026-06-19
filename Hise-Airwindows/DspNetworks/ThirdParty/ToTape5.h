@@ -6,8 +6,8 @@
 namespace airwindows::totape5_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/ToTape5/ToTape5.h"
-#include "src/airwindows/ToTape5/ToTape5.cpp.inc"
-#include "src/airwindows/ToTape5/ToTape5Proc.cpp.inc"
+#include "src/airwindows/ToTape5/ToTape5.cpp"
+#include "src/airwindows/ToTape5/ToTape5Proc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::totape5_ns
 

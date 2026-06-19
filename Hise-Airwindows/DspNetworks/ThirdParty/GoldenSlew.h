@@ -6,8 +6,8 @@
 namespace airwindows::goldenslew_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/GoldenSlew/GoldenSlew.h"
-#include "src/airwindows/GoldenSlew/GoldenSlew.cpp.inc"
-#include "src/airwindows/GoldenSlew/GoldenSlewProc.cpp.inc"
+#include "src/airwindows/GoldenSlew/GoldenSlew.cpp"
+#include "src/airwindows/GoldenSlew/GoldenSlewProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::goldenslew_ns
 

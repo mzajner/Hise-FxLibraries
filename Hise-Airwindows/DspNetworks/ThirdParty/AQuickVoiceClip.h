@@ -6,8 +6,8 @@
 namespace airwindows::aquickvoiceclip_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/AQuickVoiceClip/AQuickVoiceClip.h"
-#include "src/airwindows/AQuickVoiceClip/AQuickVoiceClip.cpp.inc"
-#include "src/airwindows/AQuickVoiceClip/AQuickVoiceClipProc.cpp.inc"
+#include "src/airwindows/AQuickVoiceClip/AQuickVoiceClip.cpp"
+#include "src/airwindows/AQuickVoiceClip/AQuickVoiceClipProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::aquickvoiceclip_ns
 

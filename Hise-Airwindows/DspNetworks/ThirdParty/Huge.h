@@ -6,8 +6,8 @@
 namespace airwindows::huge_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Huge/Huge.h"
-#include "src/airwindows/Huge/Huge.cpp.inc"
-#include "src/airwindows/Huge/HugeProc.cpp.inc"
+#include "src/airwindows/Huge/Huge.cpp"
+#include "src/airwindows/Huge/HugeProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::huge_ns
 

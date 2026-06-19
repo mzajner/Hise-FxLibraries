@@ -6,8 +6,8 @@
 namespace airwindows::purestwarm_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/PurestWarm/PurestWarm.h"
-#include "src/airwindows/PurestWarm/PurestWarm.cpp.inc"
-#include "src/airwindows/PurestWarm/PurestWarmProc.cpp.inc"
+#include "src/airwindows/PurestWarm/PurestWarm.cpp"
+#include "src/airwindows/PurestWarm/PurestWarmProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::purestwarm_ns
 

@@ -6,8 +6,8 @@
 namespace airwindows::paulwide_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/PaulWide/PaulWide.h"
-#include "src/airwindows/PaulWide/PaulWide.cpp.inc"
-#include "src/airwindows/PaulWide/PaulWideProc.cpp.inc"
+#include "src/airwindows/PaulWide/PaulWide.cpp"
+#include "src/airwindows/PaulWide/PaulWideProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::paulwide_ns
 

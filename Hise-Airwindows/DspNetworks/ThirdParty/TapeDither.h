@@ -6,8 +6,8 @@
 namespace airwindows::tapedither_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/TapeDither/TapeDither.h"
-#include "src/airwindows/TapeDither/TapeDither.cpp.inc"
-#include "src/airwindows/TapeDither/TapeDitherProc.cpp.inc"
+#include "src/airwindows/TapeDither/TapeDither.cpp"
+#include "src/airwindows/TapeDither/TapeDitherProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::tapedither_ns
 

@@ -6,8 +6,8 @@
 namespace airwindows::everytrim_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/EveryTrim/EveryTrim.h"
-#include "src/airwindows/EveryTrim/EveryTrim.cpp.inc"
-#include "src/airwindows/EveryTrim/EveryTrimProc.cpp.inc"
+#include "src/airwindows/EveryTrim/EveryTrim.cpp"
+#include "src/airwindows/EveryTrim/EveryTrimProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::everytrim_ns
 

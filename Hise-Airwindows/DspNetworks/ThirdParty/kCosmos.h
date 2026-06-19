@@ -6,8 +6,8 @@
 namespace airwindows::kcosmos_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/kCosmos/kCosmos.h"
-#include "src/airwindows/kCosmos/kCosmos.cpp.inc"
-#include "src/airwindows/kCosmos/kCosmosProc.cpp.inc"
+#include "src/airwindows/kCosmos/kCosmos.cpp"
+#include "src/airwindows/kCosmos/kCosmosProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::kcosmos_ns
 

@@ -6,8 +6,8 @@
 namespace airwindows::channel7_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Channel7/Channel7.h"
-#include "src/airwindows/Channel7/Channel7.cpp.inc"
-#include "src/airwindows/Channel7/Channel7Proc.cpp.inc"
+#include "src/airwindows/Channel7/Channel7.cpp"
+#include "src/airwindows/Channel7/Channel7Proc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::channel7_ns
 

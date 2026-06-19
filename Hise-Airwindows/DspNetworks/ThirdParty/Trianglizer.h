@@ -6,8 +6,8 @@
 namespace airwindows::trianglizer_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Trianglizer/Trianglizer.h"
-#include "src/airwindows/Trianglizer/Trianglizer.cpp.inc"
-#include "src/airwindows/Trianglizer/TrianglizerProc.cpp.inc"
+#include "src/airwindows/Trianglizer/Trianglizer.cpp"
+#include "src/airwindows/Trianglizer/TrianglizerProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::trianglizer_ns
 

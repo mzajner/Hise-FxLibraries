@@ -6,8 +6,8 @@
 namespace airwindows::punchydeluxe_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/PunchyDeluxe/PunchyDeluxe.h"
-#include "src/airwindows/PunchyDeluxe/PunchyDeluxe.cpp.inc"
-#include "src/airwindows/PunchyDeluxe/PunchyDeluxeProc.cpp.inc"
+#include "src/airwindows/PunchyDeluxe/PunchyDeluxe.cpp"
+#include "src/airwindows/PunchyDeluxe/PunchyDeluxeProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::punchydeluxe_ns
 

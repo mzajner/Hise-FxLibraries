@@ -6,8 +6,8 @@
 namespace airwindows::dubsub2_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/DubSub2/DubSub2.h"
-#include "src/airwindows/DubSub2/DubSub2.cpp.inc"
-#include "src/airwindows/DubSub2/DubSub2Proc.cpp.inc"
+#include "src/airwindows/DubSub2/DubSub2.cpp"
+#include "src/airwindows/DubSub2/DubSub2Proc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::dubsub2_ns
 

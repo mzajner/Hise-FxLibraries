@@ -6,8 +6,8 @@
 namespace airwindows::tovinyl4_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/ToVinyl4/ToVinyl4.h"
-#include "src/airwindows/ToVinyl4/ToVinyl4.cpp.inc"
-#include "src/airwindows/ToVinyl4/ToVinyl4Proc.cpp.inc"
+#include "src/airwindows/ToVinyl4/ToVinyl4.cpp"
+#include "src/airwindows/ToVinyl4/ToVinyl4Proc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::tovinyl4_ns
 

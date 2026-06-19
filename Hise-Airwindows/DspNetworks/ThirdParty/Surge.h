@@ -6,8 +6,8 @@
 namespace airwindows::surge_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Surge/Surge.h"
-#include "src/airwindows/Surge/Surge.cpp.inc"
-#include "src/airwindows/Surge/SurgeProc.cpp.inc"
+#include "src/airwindows/Surge/Surge.cpp"
+#include "src/airwindows/Surge/SurgeProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::surge_ns
 

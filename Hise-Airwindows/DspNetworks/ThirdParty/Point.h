@@ -6,8 +6,8 @@
 namespace airwindows::point_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Point/Point.h"
-#include "src/airwindows/Point/Point.cpp.inc"
-#include "src/airwindows/Point/PointProc.cpp.inc"
+#include "src/airwindows/Point/Point.cpp"
+#include "src/airwindows/Point/PointProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::point_ns
 

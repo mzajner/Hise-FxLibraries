@@ -6,8 +6,8 @@
 namespace airwindows::coils_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Coils/Coils.h"
-#include "src/airwindows/Coils/Coils.cpp.inc"
-#include "src/airwindows/Coils/CoilsProc.cpp.inc"
+#include "src/airwindows/Coils/Coils.cpp"
+#include "src/airwindows/Coils/CoilsProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::coils_ns
 

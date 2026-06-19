@@ -6,8 +6,8 @@
 namespace airwindows::darknoise_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/DarkNoise/DarkNoise.h"
-#include "src/airwindows/DarkNoise/DarkNoise.cpp.inc"
-#include "src/airwindows/DarkNoise/DarkNoiseProc.cpp.inc"
+#include "src/airwindows/DarkNoise/DarkNoise.cpp"
+#include "src/airwindows/DarkNoise/DarkNoiseProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::darknoise_ns
 

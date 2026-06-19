@@ -6,8 +6,8 @@
 namespace airwindows::decrackle_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/DeCrackle/DeCrackle.h"
-#include "src/airwindows/DeCrackle/DeCrackle.cpp.inc"
-#include "src/airwindows/DeCrackle/DeCrackleProc.cpp.inc"
+#include "src/airwindows/DeCrackle/DeCrackle.cpp"
+#include "src/airwindows/DeCrackle/DeCrackleProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::decrackle_ns
 

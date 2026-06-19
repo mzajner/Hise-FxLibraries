@@ -6,8 +6,8 @@
 namespace airwindows::leftomono_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/LeftoMono/LeftoMono.h"
-#include "src/airwindows/LeftoMono/LeftoMono.cpp.inc"
-#include "src/airwindows/LeftoMono/LeftoMonoProc.cpp.inc"
+#include "src/airwindows/LeftoMono/LeftoMono.cpp"
+#include "src/airwindows/LeftoMono/LeftoMonoProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::leftomono_ns
 

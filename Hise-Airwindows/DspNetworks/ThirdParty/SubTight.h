@@ -6,8 +6,8 @@
 namespace airwindows::subtight_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/SubTight/SubTight.h"
-#include "src/airwindows/SubTight/SubTight.cpp.inc"
-#include "src/airwindows/SubTight/SubTightProc.cpp.inc"
+#include "src/airwindows/SubTight/SubTight.cpp"
+#include "src/airwindows/SubTight/SubTightProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::subtight_ns
 

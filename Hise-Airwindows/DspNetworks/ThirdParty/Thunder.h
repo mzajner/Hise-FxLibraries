@@ -6,8 +6,8 @@
 namespace airwindows::thunder_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Thunder/Thunder.h"
-#include "src/airwindows/Thunder/Thunder.cpp.inc"
-#include "src/airwindows/Thunder/ThunderProc.cpp.inc"
+#include "src/airwindows/Thunder/Thunder.cpp"
+#include "src/airwindows/Thunder/ThunderProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::thunder_ns
 

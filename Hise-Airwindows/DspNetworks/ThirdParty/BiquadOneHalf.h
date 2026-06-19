@@ -6,8 +6,8 @@
 namespace airwindows::biquadonehalf_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/BiquadOneHalf/BiquadOneHalf.h"
-#include "src/airwindows/BiquadOneHalf/BiquadOneHalf.cpp.inc"
-#include "src/airwindows/BiquadOneHalf/BiquadOneHalfProc.cpp.inc"
+#include "src/airwindows/BiquadOneHalf/BiquadOneHalf.cpp"
+#include "src/airwindows/BiquadOneHalf/BiquadOneHalfProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::biquadonehalf_ns
 

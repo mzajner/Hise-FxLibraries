@@ -6,8 +6,8 @@
 namespace airwindows::ylowpass_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/YLowpass/YLowpass.h"
-#include "src/airwindows/YLowpass/YLowpass.cpp.inc"
-#include "src/airwindows/YLowpass/YLowpassProc.cpp.inc"
+#include "src/airwindows/YLowpass/YLowpass.cpp"
+#include "src/airwindows/YLowpass/YLowpassProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::ylowpass_ns
 

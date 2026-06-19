@@ -6,8 +6,8 @@
 namespace airwindows::vibrato_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Vibrato/Vibrato.h"
-#include "src/airwindows/Vibrato/Vibrato.cpp.inc"
-#include "src/airwindows/Vibrato/VibratoProc.cpp.inc"
+#include "src/airwindows/Vibrato/Vibrato.cpp"
+#include "src/airwindows/Vibrato/VibratoProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::vibrato_ns
 

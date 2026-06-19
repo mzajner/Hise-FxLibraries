@@ -6,8 +6,8 @@
 namespace airwindows::overheads_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Overheads/Overheads.h"
-#include "src/airwindows/Overheads/Overheads.cpp.inc"
-#include "src/airwindows/Overheads/OverheadsProc.cpp.inc"
+#include "src/airwindows/Overheads/Overheads.cpp"
+#include "src/airwindows/Overheads/OverheadsProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::overheads_ns
 

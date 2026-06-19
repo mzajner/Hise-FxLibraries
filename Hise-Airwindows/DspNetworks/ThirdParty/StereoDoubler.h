@@ -6,8 +6,8 @@
 namespace airwindows::stereodoubler_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/StereoDoubler/StereoDoubler.h"
-#include "src/airwindows/StereoDoubler/StereoDoubler.cpp.inc"
-#include "src/airwindows/StereoDoubler/StereoDoublerProc.cpp.inc"
+#include "src/airwindows/StereoDoubler/StereoDoubler.cpp"
+#include "src/airwindows/StereoDoubler/StereoDoublerProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::stereodoubler_ns
 

@@ -6,8 +6,8 @@
 namespace airwindows::edisdim_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/EdIsDim/EdIsDim.h"
-#include "src/airwindows/EdIsDim/EdIsDim.cpp.inc"
-#include "src/airwindows/EdIsDim/EdIsDimProc.cpp.inc"
+#include "src/airwindows/EdIsDim/EdIsDim.cpp"
+#include "src/airwindows/EdIsDim/EdIsDimProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::edisdim_ns
 

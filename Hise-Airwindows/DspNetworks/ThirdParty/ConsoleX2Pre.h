@@ -6,8 +6,8 @@
 namespace airwindows::consolex2pre_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/ConsoleX2Pre/ConsoleX2Pre.h"
-#include "src/airwindows/ConsoleX2Pre/ConsoleX2Pre.cpp.inc"
-#include "src/airwindows/ConsoleX2Pre/ConsoleX2PreProc.cpp.inc"
+#include "src/airwindows/ConsoleX2Pre/ConsoleX2Pre.cpp"
+#include "src/airwindows/ConsoleX2Pre/ConsoleX2PreProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::consolex2pre_ns
 

@@ -6,8 +6,8 @@
 namespace airwindows::adclip7_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/ADClip7/ADClip7.h"
-#include "src/airwindows/ADClip7/ADClip7.cpp.inc"
-#include "src/airwindows/ADClip7/ADClip7Proc.cpp.inc"
+#include "src/airwindows/ADClip7/ADClip7.cpp"
+#include "src/airwindows/ADClip7/ADClip7Proc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::adclip7_ns
 

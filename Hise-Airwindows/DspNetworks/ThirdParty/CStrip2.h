@@ -6,8 +6,8 @@
 namespace airwindows::cstrip2_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/CStrip2/CStrip2.h"
-#include "src/airwindows/CStrip2/CStrip2.cpp.inc"
-#include "src/airwindows/CStrip2/CStrip2Proc.cpp.inc"
+#include "src/airwindows/CStrip2/CStrip2.cpp"
+#include "src/airwindows/CStrip2/CStrip2Proc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::cstrip2_ns
 

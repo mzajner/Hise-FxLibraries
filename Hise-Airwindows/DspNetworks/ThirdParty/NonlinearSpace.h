@@ -6,8 +6,8 @@
 namespace airwindows::nonlinearspace_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/NonlinearSpace/NonlinearSpace.h"
-#include "src/airwindows/NonlinearSpace/NonlinearSpace.cpp.inc"
-#include "src/airwindows/NonlinearSpace/NonlinearSpaceProc.cpp.inc"
+#include "src/airwindows/NonlinearSpace/NonlinearSpace.cpp"
+#include "src/airwindows/NonlinearSpace/NonlinearSpaceProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::nonlinearspace_ns
 

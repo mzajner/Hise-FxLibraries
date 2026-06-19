@@ -6,8 +6,8 @@
 namespace airwindows::blockparty_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/BlockParty/BlockParty.h"
-#include "src/airwindows/BlockParty/BlockParty.cpp.inc"
-#include "src/airwindows/BlockParty/BlockPartyProc.cpp.inc"
+#include "src/airwindows/BlockParty/BlockParty.cpp"
+#include "src/airwindows/BlockParty/BlockPartyProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::blockparty_ns
 

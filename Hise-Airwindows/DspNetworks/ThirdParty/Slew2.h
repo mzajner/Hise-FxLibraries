@@ -6,8 +6,8 @@
 namespace airwindows::slew2_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Slew2/Slew2.h"
-#include "src/airwindows/Slew2/Slew2.cpp.inc"
-#include "src/airwindows/Slew2/Slew2Proc.cpp.inc"
+#include "src/airwindows/Slew2/Slew2.cpp"
+#include "src/airwindows/Slew2/Slew2Proc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::slew2_ns
 

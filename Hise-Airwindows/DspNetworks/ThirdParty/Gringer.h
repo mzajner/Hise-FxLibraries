@@ -6,8 +6,8 @@
 namespace airwindows::gringer_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Gringer/Gringer.h"
-#include "src/airwindows/Gringer/Gringer.cpp.inc"
-#include "src/airwindows/Gringer/GringerProc.cpp.inc"
+#include "src/airwindows/Gringer/Gringer.cpp"
+#include "src/airwindows/Gringer/GringerProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::gringer_ns
 

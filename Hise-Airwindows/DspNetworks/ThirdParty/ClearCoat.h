@@ -6,8 +6,8 @@
 namespace airwindows::clearcoat_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/ClearCoat/ClearCoat.h"
-#include "src/airwindows/ClearCoat/ClearCoat.cpp.inc"
-#include "src/airwindows/ClearCoat/ClearCoatProc.cpp.inc"
+#include "src/airwindows/ClearCoat/ClearCoat.cpp"
+#include "src/airwindows/ClearCoat/ClearCoatProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::clearcoat_ns
 

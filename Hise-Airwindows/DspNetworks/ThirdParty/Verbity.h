@@ -6,8 +6,8 @@
 namespace airwindows::verbity_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Verbity/Verbity.h"
-#include "src/airwindows/Verbity/Verbity.cpp.inc"
-#include "src/airwindows/Verbity/VerbityProc.cpp.inc"
+#include "src/airwindows/Verbity/Verbity.cpp"
+#include "src/airwindows/Verbity/VerbityProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::verbity_ns
 

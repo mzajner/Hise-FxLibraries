@@ -6,8 +6,8 @@
 namespace airwindows::slewonly_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/SlewOnly/SlewOnly.h"
-#include "src/airwindows/SlewOnly/SlewOnly.cpp.inc"
-#include "src/airwindows/SlewOnly/SlewOnlyProc.cpp.inc"
+#include "src/airwindows/SlewOnly/SlewOnly.cpp"
+#include "src/airwindows/SlewOnly/SlewOnlyProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::slewonly_ns
 

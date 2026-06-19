@@ -6,8 +6,8 @@
 namespace airwindows::density_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Density/Density.h"
-#include "src/airwindows/Density/Density.cpp.inc"
-#include "src/airwindows/Density/DensityProc.cpp.inc"
+#include "src/airwindows/Density/Density.cpp"
+#include "src/airwindows/Density/DensityProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::density_ns
 

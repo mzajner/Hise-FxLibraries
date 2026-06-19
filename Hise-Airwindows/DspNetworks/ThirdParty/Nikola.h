@@ -6,8 +6,8 @@
 namespace airwindows::nikola_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Nikola/Nikola.h"
-#include "src/airwindows/Nikola/Nikola.cpp.inc"
-#include "src/airwindows/Nikola/NikolaProc.cpp.inc"
+#include "src/airwindows/Nikola/Nikola.cpp"
+#include "src/airwindows/Nikola/NikolaProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::nikola_ns
 

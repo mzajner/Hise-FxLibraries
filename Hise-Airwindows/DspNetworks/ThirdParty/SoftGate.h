@@ -6,8 +6,8 @@
 namespace airwindows::softgate_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/SoftGate/SoftGate.h"
-#include "src/airwindows/SoftGate/SoftGate.cpp.inc"
-#include "src/airwindows/SoftGate/SoftGateProc.cpp.inc"
+#include "src/airwindows/SoftGate/SoftGate.cpp"
+#include "src/airwindows/SoftGate/SoftGateProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::softgate_ns
 

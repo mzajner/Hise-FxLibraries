@@ -6,8 +6,8 @@
 namespace airwindows::tube_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Tube/Tube.h"
-#include "src/airwindows/Tube/Tube.cpp.inc"
-#include "src/airwindows/Tube/TubeProc.cpp.inc"
+#include "src/airwindows/Tube/Tube.cpp"
+#include "src/airwindows/Tube/TubeProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::tube_ns
 

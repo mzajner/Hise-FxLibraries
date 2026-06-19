@@ -6,8 +6,8 @@
 namespace airwindows::softclock3_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/SoftClock3/SoftClock3.h"
-#include "src/airwindows/SoftClock3/SoftClock3.cpp.inc"
-#include "src/airwindows/SoftClock3/SoftClock3Proc.cpp.inc"
+#include "src/airwindows/SoftClock3/SoftClock3.cpp"
+#include "src/airwindows/SoftClock3/SoftClock3Proc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::softclock3_ns
 

@@ -6,8 +6,8 @@
 namespace airwindows::vinyldither_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/VinylDither/VinylDither.h"
-#include "src/airwindows/VinylDither/VinylDither.cpp.inc"
-#include "src/airwindows/VinylDither/VinylDitherProc.cpp.inc"
+#include "src/airwindows/VinylDither/VinylDither.cpp"
+#include "src/airwindows/VinylDither/VinylDitherProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::vinyldither_ns
 

@@ -6,8 +6,8 @@
 namespace airwindows::elation_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Elation/Elation.h"
-#include "src/airwindows/Elation/Elation.cpp.inc"
-#include "src/airwindows/Elation/ElationProc.cpp.inc"
+#include "src/airwindows/Elation/Elation.cpp"
+#include "src/airwindows/Elation/ElationProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::elation_ns
 

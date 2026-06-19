@@ -6,8 +6,8 @@
 namespace airwindows::starchild2_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/StarChild2/StarChild2.h"
-#include "src/airwindows/StarChild2/StarChild2.cpp.inc"
-#include "src/airwindows/StarChild2/StarChild2Proc.cpp.inc"
+#include "src/airwindows/StarChild2/StarChild2.cpp"
+#include "src/airwindows/StarChild2/StarChild2Proc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::starchild2_ns
 

@@ -6,8 +6,8 @@
 namespace airwindows::stereoensemble_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/StereoEnsemble/StereoEnsemble.h"
-#include "src/airwindows/StereoEnsemble/StereoEnsemble.cpp.inc"
-#include "src/airwindows/StereoEnsemble/StereoEnsembleProc.cpp.inc"
+#include "src/airwindows/StereoEnsemble/StereoEnsemble.cpp"
+#include "src/airwindows/StereoEnsemble/StereoEnsembleProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::stereoensemble_ns
 

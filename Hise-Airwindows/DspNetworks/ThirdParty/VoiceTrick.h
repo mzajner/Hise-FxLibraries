@@ -6,8 +6,8 @@
 namespace airwindows::voicetrick_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/VoiceTrick/VoiceTrick.h"
-#include "src/airwindows/VoiceTrick/VoiceTrick.cpp.inc"
-#include "src/airwindows/VoiceTrick/VoiceTrickProc.cpp.inc"
+#include "src/airwindows/VoiceTrick/VoiceTrick.cpp"
+#include "src/airwindows/VoiceTrick/VoiceTrickProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::voicetrick_ns
 

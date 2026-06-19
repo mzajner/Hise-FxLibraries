@@ -6,8 +6,8 @@
 namespace airwindows::brassrider_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/BrassRider/BrassRider.h"
-#include "src/airwindows/BrassRider/BrassRider.cpp.inc"
-#include "src/airwindows/BrassRider/BrassRiderProc.cpp.inc"
+#include "src/airwindows/BrassRider/BrassRider.cpp"
+#include "src/airwindows/BrassRider/BrassRiderProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::brassrider_ns
 

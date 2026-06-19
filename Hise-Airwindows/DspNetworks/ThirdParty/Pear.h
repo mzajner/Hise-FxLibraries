@@ -6,8 +6,8 @@
 namespace airwindows::pear_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Pear/Pear.h"
-#include "src/airwindows/Pear/Pear.cpp.inc"
-#include "src/airwindows/Pear/PearProc.cpp.inc"
+#include "src/airwindows/Pear/Pear.cpp"
+#include "src/airwindows/Pear/PearProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::pear_ns
 

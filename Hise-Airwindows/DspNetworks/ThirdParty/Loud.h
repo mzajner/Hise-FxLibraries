@@ -6,8 +6,8 @@
 namespace airwindows::loud_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Loud/Loud.h"
-#include "src/airwindows/Loud/Loud.cpp.inc"
-#include "src/airwindows/Loud/LoudProc.cpp.inc"
+#include "src/airwindows/Loud/Loud.cpp"
+#include "src/airwindows/Loud/LoudProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::loud_ns
 

@@ -6,8 +6,8 @@
 namespace airwindows::righteous4_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Righteous4/Righteous4.h"
-#include "src/airwindows/Righteous4/Righteous4.cpp.inc"
-#include "src/airwindows/Righteous4/Righteous4Proc.cpp.inc"
+#include "src/airwindows/Righteous4/Righteous4.cpp"
+#include "src/airwindows/Righteous4/Righteous4Proc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::righteous4_ns
 

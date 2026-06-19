@@ -6,8 +6,8 @@
 namespace airwindows::chimeydeluxe_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/ChimeyDeluxe/ChimeyDeluxe.h"
-#include "src/airwindows/ChimeyDeluxe/ChimeyDeluxe.cpp.inc"
-#include "src/airwindows/ChimeyDeluxe/ChimeyDeluxeProc.cpp.inc"
+#include "src/airwindows/ChimeyDeluxe/ChimeyDeluxe.cpp"
+#include "src/airwindows/ChimeyDeluxe/ChimeyDeluxeProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::chimeydeluxe_ns
 

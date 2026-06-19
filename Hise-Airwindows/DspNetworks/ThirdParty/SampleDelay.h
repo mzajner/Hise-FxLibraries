@@ -6,8 +6,8 @@
 namespace airwindows::sampledelay_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/SampleDelay/SampleDelay.h"
-#include "src/airwindows/SampleDelay/SampleDelay.cpp.inc"
-#include "src/airwindows/SampleDelay/SampleDelayProc.cpp.inc"
+#include "src/airwindows/SampleDelay/SampleDelay.cpp"
+#include "src/airwindows/SampleDelay/SampleDelayProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::sampledelay_ns
 

@@ -6,8 +6,8 @@
 namespace airwindows::srsly_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Srsly/Srsly.h"
-#include "src/airwindows/Srsly/Srsly.cpp.inc"
-#include "src/airwindows/Srsly/SrslyProc.cpp.inc"
+#include "src/airwindows/Srsly/Srsly.cpp"
+#include "src/airwindows/Srsly/SrslyProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::srsly_ns
 

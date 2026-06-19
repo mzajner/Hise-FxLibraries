@@ -6,8 +6,8 @@
 namespace airwindows::tapedelay_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/TapeDelay/TapeDelay.h"
-#include "src/airwindows/TapeDelay/TapeDelay.cpp.inc"
-#include "src/airwindows/TapeDelay/TapeDelayProc.cpp.inc"
+#include "src/airwindows/TapeDelay/TapeDelay.cpp"
+#include "src/airwindows/TapeDelay/TapeDelayProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::tapedelay_ns
 

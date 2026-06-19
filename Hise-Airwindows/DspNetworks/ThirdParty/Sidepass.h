@@ -6,8 +6,8 @@
 namespace airwindows::sidepass_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Sidepass/Sidepass.h"
-#include "src/airwindows/Sidepass/Sidepass.cpp.inc"
-#include "src/airwindows/Sidepass/SidepassProc.cpp.inc"
+#include "src/airwindows/Sidepass/Sidepass.cpp"
+#include "src/airwindows/Sidepass/SidepassProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::sidepass_ns
 

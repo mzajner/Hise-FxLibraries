@@ -6,8 +6,8 @@
 namespace airwindows::precious_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Precious/Precious.h"
-#include "src/airwindows/Precious/Precious.cpp.inc"
-#include "src/airwindows/Precious/PreciousProc.cpp.inc"
+#include "src/airwindows/Precious/Precious.cpp"
+#include "src/airwindows/Precious/PreciousProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::precious_ns
 

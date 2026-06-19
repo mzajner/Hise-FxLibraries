@@ -6,8 +6,8 @@
 namespace airwindows::mojo_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Mojo/Mojo.h"
-#include "src/airwindows/Mojo/Mojo.cpp.inc"
-#include "src/airwindows/Mojo/MojoProc.cpp.inc"
+#include "src/airwindows/Mojo/Mojo.cpp"
+#include "src/airwindows/Mojo/MojoProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::mojo_ns
 

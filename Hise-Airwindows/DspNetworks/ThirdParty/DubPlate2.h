@@ -6,8 +6,8 @@
 namespace airwindows::dubplate2_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/DubPlate2/DubPlate2.h"
-#include "src/airwindows/DubPlate2/DubPlate2.cpp.inc"
-#include "src/airwindows/DubPlate2/DubPlate2Proc.cpp.inc"
+#include "src/airwindows/DubPlate2/DubPlate2.cpp"
+#include "src/airwindows/DubPlate2/DubPlate2Proc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::dubplate2_ns
 

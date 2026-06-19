@@ -6,8 +6,8 @@
 namespace airwindows::reseq_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/ResEQ/ResEQ.h"
-#include "src/airwindows/ResEQ/ResEQ.cpp.inc"
-#include "src/airwindows/ResEQ/ResEQProc.cpp.inc"
+#include "src/airwindows/ResEQ/ResEQ.cpp"
+#include "src/airwindows/ResEQ/ResEQProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::reseq_ns
 

@@ -6,8 +6,8 @@
 namespace airwindows::chromeoxide_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/ChromeOxide/ChromeOxide.h"
-#include "src/airwindows/ChromeOxide/ChromeOxide.cpp.inc"
-#include "src/airwindows/ChromeOxide/ChromeOxideProc.cpp.inc"
+#include "src/airwindows/ChromeOxide/ChromeOxide.cpp"
+#include "src/airwindows/ChromeOxide/ChromeOxideProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::chromeoxide_ns
 

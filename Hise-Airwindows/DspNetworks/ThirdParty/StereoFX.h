@@ -6,8 +6,8 @@
 namespace airwindows::stereofx_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/StereoFX/StereoFX.h"
-#include "src/airwindows/StereoFX/StereoFX.cpp.inc"
-#include "src/airwindows/StereoFX/StereoFXProc.cpp.inc"
+#include "src/airwindows/StereoFX/StereoFX.cpp"
+#include "src/airwindows/StereoFX/StereoFXProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::stereofx_ns
 

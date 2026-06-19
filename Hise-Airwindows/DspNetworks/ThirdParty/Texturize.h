@@ -6,8 +6,8 @@
 namespace airwindows::texturize_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Texturize/Texturize.h"
-#include "src/airwindows/Texturize/Texturize.cpp.inc"
-#include "src/airwindows/Texturize/TexturizeProc.cpp.inc"
+#include "src/airwindows/Texturize/Texturize.cpp"
+#include "src/airwindows/Texturize/TexturizeProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::texturize_ns
 

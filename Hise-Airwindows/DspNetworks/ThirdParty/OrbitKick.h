@@ -6,8 +6,8 @@
 namespace airwindows::orbitkick_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/OrbitKick/OrbitKick.h"
-#include "src/airwindows/OrbitKick/OrbitKick.cpp.inc"
-#include "src/airwindows/OrbitKick/OrbitKickProc.cpp.inc"
+#include "src/airwindows/OrbitKick/OrbitKick.cpp"
+#include "src/airwindows/OrbitKick/OrbitKickProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::orbitkick_ns
 

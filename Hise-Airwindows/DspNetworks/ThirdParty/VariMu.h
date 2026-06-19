@@ -6,8 +6,8 @@
 namespace airwindows::varimu_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/VariMu/VariMu.h"
-#include "src/airwindows/VariMu/VariMu.cpp.inc"
-#include "src/airwindows/VariMu/VariMuProc.cpp.inc"
+#include "src/airwindows/VariMu/VariMu.cpp"
+#include "src/airwindows/VariMu/VariMuProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::varimu_ns
 

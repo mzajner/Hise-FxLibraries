@@ -6,8 +6,8 @@
 namespace airwindows::tapebias_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/TapeBias/TapeBias.h"
-#include "src/airwindows/TapeBias/TapeBias.cpp.inc"
-#include "src/airwindows/TapeBias/TapeBiasProc.cpp.inc"
+#include "src/airwindows/TapeBias/TapeBias.cpp"
+#include "src/airwindows/TapeBias/TapeBiasProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::tapebias_ns
 

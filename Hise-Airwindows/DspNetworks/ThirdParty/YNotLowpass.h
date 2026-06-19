@@ -6,8 +6,8 @@
 namespace airwindows::ynotlowpass_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/YNotLowpass/YNotLowpass.h"
-#include "src/airwindows/YNotLowpass/YNotLowpass.cpp.inc"
-#include "src/airwindows/YNotLowpass/YNotLowpassProc.cpp.inc"
+#include "src/airwindows/YNotLowpass/YNotLowpass.cpp"
+#include "src/airwindows/YNotLowpass/YNotLowpassProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::ynotlowpass_ns
 

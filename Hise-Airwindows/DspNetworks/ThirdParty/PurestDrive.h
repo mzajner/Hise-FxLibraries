@@ -6,8 +6,8 @@
 namespace airwindows::purestdrive_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/PurestDrive/PurestDrive.h"
-#include "src/airwindows/PurestDrive/PurestDrive.cpp.inc"
-#include "src/airwindows/PurestDrive/PurestDriveProc.cpp.inc"
+#include "src/airwindows/PurestDrive/PurestDrive.cpp"
+#include "src/airwindows/PurestDrive/PurestDriveProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::purestdrive_ns
 

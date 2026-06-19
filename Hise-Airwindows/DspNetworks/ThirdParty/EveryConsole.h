@@ -6,8 +6,8 @@
 namespace airwindows::everyconsole_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/EveryConsole/EveryConsole.h"
-#include "src/airwindows/EveryConsole/EveryConsole.cpp.inc"
-#include "src/airwindows/EveryConsole/EveryConsoleProc.cpp.inc"
+#include "src/airwindows/EveryConsole/EveryConsole.cpp"
+#include "src/airwindows/EveryConsole/EveryConsoleProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::everyconsole_ns
 

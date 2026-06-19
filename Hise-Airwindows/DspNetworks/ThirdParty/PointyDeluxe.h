@@ -6,8 +6,8 @@
 namespace airwindows::pointydeluxe_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/PointyDeluxe/PointyDeluxe.h"
-#include "src/airwindows/PointyDeluxe/PointyDeluxe.cpp.inc"
-#include "src/airwindows/PointyDeluxe/PointyDeluxeProc.cpp.inc"
+#include "src/airwindows/PointyDeluxe/PointyDeluxe.cpp"
+#include "src/airwindows/PointyDeluxe/PointyDeluxeProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::pointydeluxe_ns
 

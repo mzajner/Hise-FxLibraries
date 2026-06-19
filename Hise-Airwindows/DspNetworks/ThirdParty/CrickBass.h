@@ -6,8 +6,8 @@
 namespace airwindows::crickbass_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/CrickBass/CrickBass.h"
-#include "src/airwindows/CrickBass/CrickBass.cpp.inc"
-#include "src/airwindows/CrickBass/CrickBassProc.cpp.inc"
+#include "src/airwindows/CrickBass/CrickBass.cpp"
+#include "src/airwindows/CrickBass/CrickBassProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::crickbass_ns
 

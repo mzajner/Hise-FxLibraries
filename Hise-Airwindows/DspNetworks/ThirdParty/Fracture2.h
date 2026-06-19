@@ -6,8 +6,8 @@
 namespace airwindows::fracture2_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Fracture2/Fracture2.h"
-#include "src/airwindows/Fracture2/Fracture2.cpp.inc"
-#include "src/airwindows/Fracture2/Fracture2Proc.cpp.inc"
+#include "src/airwindows/Fracture2/Fracture2.cpp"
+#include "src/airwindows/Fracture2/Fracture2Proc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::fracture2_ns
 

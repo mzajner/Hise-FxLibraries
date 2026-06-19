@@ -6,8 +6,8 @@
 namespace airwindows::deckwrecka_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Deckwrecka/Deckwrecka.h"
-#include "src/airwindows/Deckwrecka/Deckwrecka.cpp.inc"
-#include "src/airwindows/Deckwrecka/DeckwreckaProc.cpp.inc"
+#include "src/airwindows/Deckwrecka/Deckwrecka.cpp"
+#include "src/airwindows/Deckwrecka/DeckwreckaProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::deckwrecka_ns
 

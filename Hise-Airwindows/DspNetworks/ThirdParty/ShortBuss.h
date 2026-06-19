@@ -6,8 +6,8 @@
 namespace airwindows::shortbuss_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/ShortBuss/ShortBuss.h"
-#include "src/airwindows/ShortBuss/ShortBuss.cpp.inc"
-#include "src/airwindows/ShortBuss/ShortBussProc.cpp.inc"
+#include "src/airwindows/ShortBuss/ShortBuss.cpp"
+#include "src/airwindows/ShortBuss/ShortBussProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::shortbuss_ns
 

@@ -6,8 +6,8 @@
 namespace airwindows::disintegrate_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Disintegrate/Disintegrate.h"
-#include "src/airwindows/Disintegrate/Disintegrate.cpp.inc"
-#include "src/airwindows/Disintegrate/DisintegrateProc.cpp.inc"
+#include "src/airwindows/Disintegrate/Disintegrate.cpp"
+#include "src/airwindows/Disintegrate/DisintegrateProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::disintegrate_ns
 

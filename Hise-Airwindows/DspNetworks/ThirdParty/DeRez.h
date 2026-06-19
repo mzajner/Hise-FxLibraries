@@ -6,8 +6,8 @@
 namespace airwindows::derez_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/DeRez/DeRez.h"
-#include "src/airwindows/DeRez/DeRez.cpp.inc"
-#include "src/airwindows/DeRez/DeRezProc.cpp.inc"
+#include "src/airwindows/DeRez/DeRez.cpp"
+#include "src/airwindows/DeRez/DeRezProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::derez_ns
 

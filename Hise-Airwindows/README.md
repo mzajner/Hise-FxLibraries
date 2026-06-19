@@ -2,13 +2,13 @@
 
 This project is a HISE wrapper library for a large collection of Airwindows processors by Chris Johnson.
 
-The local project looks like a wrapper host rather than a finished end user plugin. The strongest evidence is the very large node registration list in `AdditionalSourceCode/nodes/factory.cpp` and the presence of only a template network in `DspNetworks/Networks`.
+The local project is mainly wrapper based. 
 
 ## Main Wrapper
 
 The main wrapper entry point is:
 
-- [factory.cpp](/Users/ernest/HisePersonal/Personal/Hise-FxLibraries/Hise-Airwindows/AdditionalSourceCode/nodes/factory.cpp)
+- [Airwindows.h](/Users/ernest/HisePersonal/Personal/Hise-FxLibraries/Hise-Airwindows/DspNetworks/ThirdParty/src/airwindows/AirWindows.h)
 
 That factory registers a large set of Airwindows nodes such as console processors, saturation, dynamics, EQ, delay, reverb, modulation, utility, and dither tools.
 

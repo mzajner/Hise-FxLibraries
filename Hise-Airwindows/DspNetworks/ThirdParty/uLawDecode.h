@@ -6,8 +6,8 @@
 namespace airwindows::ulawdecode_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/uLawDecode/uLawDecode.h"
-#include "src/airwindows/uLawDecode/uLawDecode.cpp.inc"
-#include "src/airwindows/uLawDecode/uLawDecodeProc.cpp.inc"
+#include "src/airwindows/uLawDecode/uLawDecode.cpp"
+#include "src/airwindows/uLawDecode/uLawDecodeProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::ulawdecode_ns
 

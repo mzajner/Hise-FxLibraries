@@ -6,8 +6,8 @@
 namespace airwindows::slewsonic_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/SlewSonic/SlewSonic.h"
-#include "src/airwindows/SlewSonic/SlewSonic.cpp.inc"
-#include "src/airwindows/SlewSonic/SlewSonicProc.cpp.inc"
+#include "src/airwindows/SlewSonic/SlewSonic.cpp"
+#include "src/airwindows/SlewSonic/SlewSonicProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::slewsonic_ns
 

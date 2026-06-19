@@ -6,8 +6,8 @@
 namespace airwindows::kplate140_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/kPlate140/kPlate140.h"
-#include "src/airwindows/kPlate140/kPlate140.cpp.inc"
-#include "src/airwindows/kPlate140/kPlate140Proc.cpp.inc"
+#include "src/airwindows/kPlate140/kPlate140.cpp"
+#include "src/airwindows/kPlate140/kPlate140Proc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::kplate140_ns
 

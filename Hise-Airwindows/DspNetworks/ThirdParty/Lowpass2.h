@@ -6,8 +6,8 @@
 namespace airwindows::lowpass2_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Lowpass2/Lowpass2.h"
-#include "src/airwindows/Lowpass2/Lowpass2.cpp.inc"
-#include "src/airwindows/Lowpass2/Lowpass2Proc.cpp.inc"
+#include "src/airwindows/Lowpass2/Lowpass2.cpp"
+#include "src/airwindows/Lowpass2/Lowpass2Proc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::lowpass2_ns
 

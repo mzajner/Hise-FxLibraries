@@ -6,8 +6,8 @@
 namespace airwindows::sweeten_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Sweeten/Sweeten.h"
-#include "src/airwindows/Sweeten/Sweeten.cpp.inc"
-#include "src/airwindows/Sweeten/SweetenProc.cpp.inc"
+#include "src/airwindows/Sweeten/Sweeten.cpp"
+#include "src/airwindows/Sweeten/SweetenProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::sweeten_ns
 

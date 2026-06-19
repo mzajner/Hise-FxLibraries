@@ -6,8 +6,8 @@
 namespace airwindows::buttercomp_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/ButterComp/ButterComp.h"
-#include "src/airwindows/ButterComp/ButterComp.cpp.inc"
-#include "src/airwindows/ButterComp/ButterCompProc.cpp.inc"
+#include "src/airwindows/ButterComp/ButterComp.cpp"
+#include "src/airwindows/ButterComp/ButterCompProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::buttercomp_ns
 

@@ -6,8 +6,8 @@
 namespace airwindows::zbandpass2_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/ZBandpass2/ZBandpass2.h"
-#include "src/airwindows/ZBandpass2/ZBandpass2.cpp.inc"
-#include "src/airwindows/ZBandpass2/ZBandpass2Proc.cpp.inc"
+#include "src/airwindows/ZBandpass2/ZBandpass2.cpp"
+#include "src/airwindows/ZBandpass2/ZBandpass2Proc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::zbandpass2_ns
 

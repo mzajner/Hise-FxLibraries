@@ -6,8 +6,8 @@
 namespace airwindows::doublelay_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Doublelay/Doublelay.h"
-#include "src/airwindows/Doublelay/Doublelay.cpp.inc"
-#include "src/airwindows/Doublelay/DoublelayProc.cpp.inc"
+#include "src/airwindows/Doublelay/Doublelay.cpp"
+#include "src/airwindows/Doublelay/DoublelayProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::doublelay_ns
 

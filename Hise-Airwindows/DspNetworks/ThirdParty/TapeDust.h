@@ -6,8 +6,8 @@
 namespace airwindows::tapedust_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/TapeDust/TapeDust.h"
-#include "src/airwindows/TapeDust/TapeDust.cpp.inc"
-#include "src/airwindows/TapeDust/TapeDustProc.cpp.inc"
+#include "src/airwindows/TapeDust/TapeDust.cpp"
+#include "src/airwindows/TapeDust/TapeDustProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::tapedust_ns
 

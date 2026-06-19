@@ -6,8 +6,8 @@
 namespace airwindows::console7crunch_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Console7Crunch/Console7Crunch.h"
-#include "src/airwindows/Console7Crunch/Console7Crunch.cpp.inc"
-#include "src/airwindows/Console7Crunch/Console7CrunchProc.cpp.inc"
+#include "src/airwindows/Console7Crunch/Console7Crunch.cpp"
+#include "src/airwindows/Console7Crunch/Console7CrunchProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::console7crunch_ns
 

@@ -6,8 +6,8 @@
 namespace airwindows::znotch_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/ZNotch/ZNotch.h"
-#include "src/airwindows/ZNotch/ZNotch.cpp.inc"
-#include "src/airwindows/ZNotch/ZNotchProc.cpp.inc"
+#include "src/airwindows/ZNotch/ZNotch.cpp"
+#include "src/airwindows/ZNotch/ZNotchProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::znotch_ns
 

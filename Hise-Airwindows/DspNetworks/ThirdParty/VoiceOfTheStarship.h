@@ -6,8 +6,8 @@
 namespace airwindows::voiceofthestarship_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/VoiceOfTheStarship/VoiceOfTheStarship.h"
-#include "src/airwindows/VoiceOfTheStarship/VoiceOfTheStarship.cpp.inc"
-#include "src/airwindows/VoiceOfTheStarship/VoiceOfTheStarshipProc.cpp.inc"
+#include "src/airwindows/VoiceOfTheStarship/VoiceOfTheStarship.cpp"
+#include "src/airwindows/VoiceOfTheStarship/VoiceOfTheStarshipProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::voiceofthestarship_ns
 

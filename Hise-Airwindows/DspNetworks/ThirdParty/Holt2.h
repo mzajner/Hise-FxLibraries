@@ -6,8 +6,8 @@
 namespace airwindows::holt2_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Holt2/Holt2.h"
-#include "src/airwindows/Holt2/Holt2.cpp.inc"
-#include "src/airwindows/Holt2/Holt2Proc.cpp.inc"
+#include "src/airwindows/Holt2/Holt2.cpp"
+#include "src/airwindows/Holt2/Holt2Proc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::holt2_ns
 

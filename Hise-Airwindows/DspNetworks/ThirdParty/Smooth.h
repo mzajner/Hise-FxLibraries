@@ -6,8 +6,8 @@
 namespace airwindows::smooth_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Smooth/Smooth.h"
-#include "src/airwindows/Smooth/Smooth.cpp.inc"
-#include "src/airwindows/Smooth/SmoothProc.cpp.inc"
+#include "src/airwindows/Smooth/Smooth.cpp"
+#include "src/airwindows/Smooth/SmoothProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::smooth_ns
 

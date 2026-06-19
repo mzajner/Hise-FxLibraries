@@ -6,8 +6,8 @@
 namespace airwindows::elliptical_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Elliptical/Elliptical.h"
-#include "src/airwindows/Elliptical/Elliptical.cpp.inc"
-#include "src/airwindows/Elliptical/EllipticalProc.cpp.inc"
+#include "src/airwindows/Elliptical/Elliptical.cpp"
+#include "src/airwindows/Elliptical/EllipticalProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::elliptical_ns
 

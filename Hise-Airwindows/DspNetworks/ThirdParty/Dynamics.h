@@ -6,8 +6,8 @@
 namespace airwindows::dynamics_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Dynamics/Dynamics.h"
-#include "src/airwindows/Dynamics/Dynamics.cpp.inc"
-#include "src/airwindows/Dynamics/DynamicsProc.cpp.inc"
+#include "src/airwindows/Dynamics/Dynamics.cpp"
+#include "src/airwindows/Dynamics/DynamicsProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::dynamics_ns
 

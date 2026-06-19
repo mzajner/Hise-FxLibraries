@@ -6,8 +6,8 @@
 namespace airwindows::floor_ns {
 JUCE_BEGIN_IGNORE_WARNINGS_GCC_LIKE("-Wmultichar")
 #include "src/airwindows/Floor/Floor.h"
-#include "src/airwindows/Floor/Floor.cpp.inc"
-#include "src/airwindows/Floor/FloorProc.cpp.inc"
+#include "src/airwindows/Floor/Floor.cpp"
+#include "src/airwindows/Floor/FloorProc.cpp"
 JUCE_END_IGNORE_WARNINGS_GCC_LIKE
 }  // namespace airwindows::floor_ns
 
